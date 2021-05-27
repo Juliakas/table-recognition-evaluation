@@ -1,0 +1,975 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<document xmlns="http://www.abbyy.com/FineReader_xml/FineReader10-schema-v1.xml" version="1.0" producer="ABBYY FineReader Engine 12" languages="" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.abbyy.com/FineReader_xml/FineReader10-schema-v1.xml http://www.abbyy.com/FineReader_xml/FineReader10-schema-v1.xml">
+<page width="1275" height="1651" resolution="150" originalCoords="1">
+<block blockType="Text" blockName="" l="149" t="121" r="507" b="147"><region><rect l="149" t="121" r="507" b="122"/><rect l="149" t="122" r="507" b="147"/></region>
+<text>
+<par lineSpacing="1380">
+<line baseline="147" l="152" t="124" r="504" b="143"><formatting lang="EnglishUnitedStates">
+<charParams l="152" t="125" r="164" b="143">F</charParams>
+<charParams l="166" t="129" r="178" b="143">e</charParams>
+<charParams l="180" t="124" r="192" b="143">d</charParams>
+<charParams l="195" t="129" r="207" b="143">e</charParams>
+<charParams l="210" t="129" r="217" b="142">r</charParams>
+<charParams l="219" t="129" r="230" b="143">a</charParams>
+<charParams l="233" t="124" r="237" b="142">l</charParams>
+<charParams l="238" t="124" r="246" b="143"> </charParams>
+<charParams l="247" t="124" r="262" b="143">C</charParams>
+<charParams l="265" t="124" r="269" b="142">i</charParams>
+<charParams l="271" t="126" r="278" b="143">t</charParams>
+<charParams l="280" t="124" r="284" b="142">i</charParams>
+<charParams l="286" t="129" r="297" b="142">z</charParams>
+<charParams l="299" t="129" r="311" b="143">e</charParams>
+<charParams l="314" t="129" r="326" b="142">n</charParams>
+<charParams l="327" t="124" r="334" b="143"> </charParams>
+<charParams l="335" t="124" r="350" b="143">S</charParams>
+<charParams l="352" t="129" r="364" b="143">e</charParams>
+<charParams l="367" t="129" r="374" b="142">r</charParams>
+<charParams l="375" t="129" r="387" b="142">v</charParams>
+<charParams l="390" t="124" r="394" b="142">i</charParams>
+<charParams l="396" t="129" r="408" b="143">c</charParams>
+<charParams l="410" t="129" r="422" b="143">e</charParams>
+<charParams l="424" t="129" r="436" b="143">s</charParams>
+<charParams l="437" t="124" r="445" b="143"> </charParams>
+<charParams l="446" t="124" r="459" b="142">F</charParams>
+<charParams l="461" t="129" r="473" b="143">u</charParams>
+<charParams l="476" t="129" r="488" b="142">n</charParams>
+<charParams l="491" t="124" r="504" b="143">d</charParams></formatting></line></par>
+</text>
+</block>
+<block blockType="Text" blockName="" l="148" t="178" r="1122" b="376"><region><rect l="148" t="178" r="1033" b="179"/><rect l="148" t="179" r="1122" b="375"/><rect l="185" t="375" r="1122" b="376"/></region>
+<text>
+<par lineSpacing="1593">
+<line baseline="204" l="152" t="180" r="1086" b="205"><formatting lang="EnglishUnitedStates">
+<charParams l="152" t="181" r="164" b="200">F</charParams>
+<charParams l="166" t="186" r="178" b="200">e</charParams>
+<charParams l="179" t="181" r="191" b="200">d</charParams>
+<charParams l="194" t="186" r="205" b="200">e</charParams>
+<charParams l="208" t="186" r="214" b="199">r</charParams>
+<charParams l="216" t="186" r="228" b="200">a</charParams>
+<charParams l="230" t="181" r="233" b="199">l</charParams>
+<charParams l="234" t="181" r="241" b="200"> </charParams>
+<charParams l="242" t="181" r="258" b="200">C</charParams>
+<charParams l="261" t="181" r="263" b="199">i</charParams>
+<charParams l="265" t="183" r="271" b="200">t</charParams>
+<charParams l="273" t="181" r="276" b="199">i</charParams>
+<charParams l="278" t="186" r="289" b="200">z</charParams>
+<charParams l="291" t="186" r="303" b="200">e</charParams>
+<charParams l="305" t="186" r="316" b="199">n</charParams>
+<charParams l="317" t="181" r="325" b="200"> </charParams>
+<charParams l="326" t="181" r="340" b="200">S</charParams>
+<charParams l="342" t="186" r="354" b="200">e</charParams>
+<charParams l="357" t="186" r="364" b="199">r</charParams>
+<charParams l="364" t="186" r="375" b="200">v</charParams>
+<charParams l="378" t="181" r="380" b="200">i</charParams>
+<charParams l="382" t="186" r="393" b="200">c</charParams>
+<charParams l="395" t="186" r="407" b="200">e</charParams>
+<charParams l="409" t="186" r="419" b="200">s</charParams>
+<charParams l="420" t="181" r="429" b="200"> </charParams>
+<charParams l="430" t="181" r="442" b="199">F</charParams>
+<charParams l="444" t="186" r="455" b="200">u</charParams>
+<charParams l="458" t="186" r="469" b="199">n</charParams>
+<charParams l="471" t="181" r="483" b="200">d</charParams>
+<charParams l="484" t="181" r="492" b="205"> </charParams>
+<charParams l="493" t="182" r="498" b="205">(</charParams>
+<charParams l="502" t="181" r="514" b="199">F</charParams>
+<charParams l="516" t="181" r="532" b="200">C</charParams>
+<charParams l="535" t="181" r="549" b="200">S</charParams>
+<charParams l="551" t="182" r="556" b="205">)</charParams>
+<charParams l="557" t="182" r="565" b="205"> </charParams>
+<charParams l="566" t="186" r="578" b="200">o</charParams>
+<charParams l="580" t="186" r="592" b="205">p</charParams>
+<charParams l="594" t="186" r="606" b="200">e</charParams>
+<charParams l="608" t="186" r="615" b="200">r</charParams>
+<charParams l="616" t="186" r="628" b="201">a</charParams>
+<charParams l="630" t="182" r="635" b="200">t</charParams>
+<charParams l="638" t="181" r="640" b="199">i</charParams>
+<charParams l="642" t="186" r="654" b="200">o</charParams>
+<charParams l="657" t="186" r="668" b="199">n</charParams>
+<charParams l="670" t="186" r="681" b="200">s</charParams>
+<charParams l="682" t="186" r="689" b="200"> </charParams>
+<charParams l="690" t="186" r="700" b="200">s</charParams>
+<charParams l="702" t="186" r="714" b="200">e</charParams>
+<charParams l="717" t="186" r="723" b="199">r</charParams>
+<charParams l="723" t="186" r="735" b="199">v</charParams>
+<charParams l="737" t="186" r="749" b="200">e</charParams>
+<charParams l="750" t="186" r="757" b="200"> </charParams>
+<charParams l="758" t="186" r="770" b="200">a</charParams>
+<charParams l="772" t="186" r="782" b="200">s</charParams>
+<charParams l="783" t="182" r="790" b="200"> </charParams>
+<charParams l="791" t="182" r="797" b="200">t</charParams>
+<charParams l="799" t="181" r="810" b="199">h</charParams>
+<charParams l="812" t="186" r="824" b="200">e</charParams>
+<charParams l="825" t="186" r="832" b="201"> </charParams>
+<charParams l="833" t="187" r="845" b="201">a</charParams>
+<charParams l="848" t="187" r="858" b="201">u</charParams>
+<charParams l="861" t="183" r="866" b="200">t</charParams>
+<charParams l="868" t="182" r="879" b="200">h</charParams>
+<charParams l="882" t="186" r="894" b="200">o</charParams>
+<charParams l="896" t="186" r="903" b="200">r</charParams>
+<charParams l="905" t="182" r="907" b="200">i</charParams>
+<charParams l="909" t="183" r="915" b="200">t</charParams>
+<charParams l="917" t="186" r="929" b="200">a</charParams>
+<charParams l="930" t="183" r="936" b="200">t</charParams>
+<charParams l="938" t="182" r="940" b="200">i</charParams>
+<charParams l="942" t="187" r="954" b="200">v</charParams>
+<charParams l="955" t="186" r="967" b="200">e</charParams>
+<charParams l="968" t="186" r="975" b="200"> </charParams>
+<charParams l="976" t="186" r="987" b="200">s</charParams>
+<charParams l="989" t="186" r="1001" b="200">o</charParams>
+<charParams l="1003" t="187" r="1014" b="200">u</charParams>
+<charParams l="1017" t="186" r="1024" b="199">r</charParams>
+<charParams l="1025" t="186" r="1036" b="200">c</charParams>
+<charParams l="1038" t="186" r="1049" b="200">e</charParams>
+<charParams l="1050" t="181" r="1057" b="200"> </charParams>
+<charParams l="1058" t="181" r="1064" b="199">f</charParams>
+<charParams l="1065" t="186" r="1077" b="200">o</charParams>
+<charParams l="1080" t="186" r="1086" b="199">r</charParams></formatting></line>
+<line baseline="237" l="151" t="213" r="1007" b="238"><formatting lang="EnglishUnitedStates">
+<charParams l="151" t="219" r="163" b="238">p</charParams>
+<charParams l="165" t="220" r="176" b="233">u</charParams>
+<charParams l="179" t="214" r="191" b="233">b</charParams>
+<charParams l="193" t="214" r="195" b="232">l</charParams>
+<charParams l="198" t="214" r="201" b="232">i</charParams>
+<charParams l="203" t="219" r="214" b="233">c</charParams>
+<charParams l="215" t="219" r="222" b="238"> </charParams>
+<charParams l="223" t="219" r="234" b="238">g</charParams>
+<charParams l="237" t="219" r="248" b="233">o</charParams>
+<charParams l="250" t="219" r="262" b="232">v</charParams>
+<charParams l="263" t="219" r="275" b="233">e</charParams>
+<charParams l="278" t="219" r="284" b="232">r</charParams>
+<charParams l="286" t="219" r="296" b="232">n</charParams>
+<charParams l="300" t="219" r="317" b="232">m</charParams>
+<charParams l="320" t="219" r="332" b="233">e</charParams>
+<charParams l="335" t="219" r="345" b="232">n</charParams>
+<charParams l="347" t="216" r="353" b="233">t</charParams>
+<charParams l="354" t="214" r="361" b="233"> </charParams>
+<charParams l="362" t="214" r="365" b="232">i</charParams>
+<charParams l="368" t="219" r="378" b="232">n</charParams>
+<charParams l="381" t="214" r="387" b="232">f</charParams>
+<charParams l="388" t="219" r="400" b="233">o</charParams>
+<charParams l="403" t="219" r="409" b="232">r</charParams>
+<charParams l="411" t="219" r="429" b="232">m</charParams>
+<charParams l="431" t="219" r="444" b="233">a</charParams>
+<charParams l="444" t="216" r="450" b="233">t</charParams>
+<charParams l="453" t="214" r="455" b="232">i</charParams>
+<charParams l="457" t="219" r="469" b="233">o</charParams>
+<charParams l="472" t="219" r="483" b="232">n</charParams>
+<charParams l="484" t="219" r="492" b="233"> </charParams>
+<charParams l="493" t="219" r="505" b="233">a</charParams>
+<charParams l="507" t="219" r="517" b="232">n</charParams>
+<charParams l="520" t="214" r="532" b="233">d</charParams>
+<charParams l="533" t="214" r="540" b="233"> </charParams>
+<charParams l="541" t="219" r="551" b="233">s</charParams>
+<charParams l="554" t="219" r="565" b="233">e</charParams>
+<charParams l="568" t="219" r="575" b="233">r</charParams>
+<charParams l="575" t="220" r="587" b="233">v</charParams>
+<charParams l="589" t="215" r="591" b="233">i</charParams>
+<charParams l="594" t="219" r="604" b="233">c</charParams>
+<charParams l="607" t="219" r="618" b="233">e</charParams>
+<charParams l="620" t="219" r="631" b="234">s</charParams>
+<charParams l="634" t="230" r="637" b="233">.</charParams>
+<charParams l="638" t="214" r="654" b="233"> </charParams>
+<charParams l="655" t="214" r="667" b="232">F</charParams>
+<charParams l="669" t="214" r="685" b="233">C</charParams>
+<charParams l="687" t="214" r="702" b="233">S</charParams>
+<charParams l="703" t="214" r="710" b="233"> </charParams>
+<charParams l="711" t="219" r="723" b="233">e</charParams>
+<charParams l="725" t="219" r="736" b="232">n</charParams>
+<charParams l="739" t="219" r="751" b="233">a</charParams>
+<charParams l="753" t="214" r="764" b="233">b</charParams>
+<charParams l="767" t="214" r="769" b="232">l</charParams>
+<charParams l="772" t="219" r="784" b="233">e</charParams>
+<charParams l="786" t="219" r="796" b="233">s</charParams>
+<charParams l="797" t="218" r="804" b="233"> </charParams>
+<charParams l="805" t="218" r="816" b="234">c</charParams>
+<charParams l="818" t="214" r="820" b="233">i</charParams>
+<charParams l="823" t="216" r="828" b="234">t</charParams>
+<charParams l="831" t="215" r="833" b="233">i</charParams>
+<charParams l="835" t="220" r="846" b="233">z</charParams>
+<charParams l="848" t="219" r="860" b="233">e</charParams>
+<charParams l="863" t="219" r="873" b="233">n</charParams>
+<charParams l="874" t="219" r="882" b="233"> </charParams>
+<charParams l="883" t="219" r="895" b="233">a</charParams>
+<charParams l="897" t="219" r="908" b="233">c</charParams>
+<charParams l="909" t="219" r="920" b="233">c</charParams>
+<charParams l="922" t="219" r="934" b="233">e</charParams>
+<charParams l="936" t="219" r="946" b="233">s</charParams>
+<charParams l="948" t="219" r="959" b="233">s</charParams>
+<charParams l="960" t="219" r="967" b="233"> </charParams>
+<charParams l="968" t="219" r="980" b="233">a</charParams>
+<charParams l="982" t="219" r="993" b="233">n</charParams>
+<charParams l="995" t="214" r="1007" b="233">d</charParams></formatting></line>
+<line baseline="270" l="151" t="246" r="1118" b="272"><formatting lang="EnglishUnitedStates">
+<charParams l="151" t="252" r="163" b="266">e</charParams>
+<charParams l="165" t="252" r="176" b="266">n</charParams>
+<charParams l="178" t="252" r="190" b="271">g</charParams>
+<charParams l="192" t="252" r="205" b="266">a</charParams>
+<charParams l="206" t="252" r="217" b="271">g</charParams>
+<charParams l="220" t="252" r="232" b="266">e</charParams>
+<charParams l="235" t="252" r="252" b="265">m</charParams>
+<charParams l="255" t="252" r="267" b="266">e</charParams>
+<charParams l="269" t="252" r="280" b="265">n</charParams>
+<charParams l="282" t="249" r="288" b="266">t</charParams>
+<charParams l="289" t="249" r="295" b="266"> </charParams>
+<charParams l="296" t="249" r="302" b="266">t</charParams>
+<charParams l="304" t="247" r="315" b="265">h</charParams>
+<charParams l="318" t="252" r="325" b="265">r</charParams>
+<charParams l="326" t="252" r="337" b="266">o</charParams>
+<charParams l="340" t="252" r="351" b="266">u</charParams>
+<charParams l="353" t="252" r="365" b="271">g</charParams>
+<charParams l="368" t="247" r="379" b="266">h</charParams>
+<charParams l="380" t="247" r="387" b="266"> </charParams>
+<charParams l="388" t="252" r="401" b="266">a</charParams>
+<charParams l="403" t="252" r="413" b="265">n</charParams>
+<charParams l="414" t="252" r="422" b="266"> </charParams>
+<charParams l="423" t="252" r="435" b="266">a</charParams>
+<charParams l="438" t="252" r="444" b="265">r</charParams>
+<charParams l="446" t="252" r="452" b="265">r</charParams>
+<charParams l="454" t="252" r="466" b="266">a</charParams>
+<charParams l="467" t="252" r="478" b="271">y</charParams>
+<charParams l="479" t="252" r="486" b="271"> </charParams>
+<charParams l="487" t="252" r="499" b="266">o</charParams>
+<charParams l="500" t="247" r="506" b="265">f</charParams>
+<charParams l="507" t="247" r="513" b="266"> </charParams>
+<charParams l="514" t="247" r="526" b="266">d</charParams>
+<charParams l="529" t="247" r="531" b="265">i</charParams>
+<charParams l="535" t="252" r="541" b="266">r</charParams>
+<charParams l="543" t="252" r="554" b="266">e</charParams>
+<charParams l="556" t="252" r="567" b="266">c</charParams>
+<charParams l="568" t="249" r="574" b="266">t</charParams>
+<charParams l="575" t="249" r="582" b="266"> </charParams>
+<charParams l="583" t="252" r="593" b="266">s</charParams>
+<charParams l="595" t="252" r="607" b="266">e</charParams>
+<charParams l="610" t="253" r="616" b="266">r</charParams>
+<charParams l="616" t="253" r="628" b="266">v</charParams>
+<charParams l="631" t="248" r="633" b="266">i</charParams>
+<charParams l="635" t="252" r="646" b="267">c</charParams>
+<charParams l="648" t="252" r="660" b="267">e</charParams>
+<charParams l="662" t="252" r="673" b="266">s</charParams>
+<charParams l="674" t="252" r="680" b="266"> </charParams>
+<charParams l="681" t="252" r="692" b="265">v</charParams>
+<charParams l="695" t="247" r="697" b="265">i</charParams>
+<charParams l="700" t="252" r="712" b="266">a</charParams>
+<charParams l="713" t="248" r="719" b="266"> </charParams>
+<charParams l="720" t="248" r="726" b="266">t</charParams>
+<charParams l="728" t="247" r="739" b="265">h</charParams>
+<charParams l="741" t="252" r="753" b="266">e</charParams>
+<charParams l="754" t="247" r="762" b="266"> </charParams>
+<charParams l="763" t="247" r="765" b="265">i</charParams>
+<charParams l="768" t="251" r="779" b="265">n</charParams>
+<charParams l="781" t="248" r="787" b="266">t</charParams>
+<charParams l="789" t="252" r="800" b="266">e</charParams>
+<charParams l="803" t="251" r="810" b="266">r</charParams>
+<charParams l="811" t="252" r="822" b="266">n</charParams>
+<charParams l="825" t="252" r="837" b="266">e</charParams>
+<charParams l="838" t="249" r="844" b="266">t</charParams>
+<charParams l="847" t="263" r="849" b="269">,</charParams>
+<charParams l="850" t="252" r="859" b="271"> </charParams>
+<charParams l="860" t="252" r="872" b="271">p</charParams>
+<charParams l="874" t="248" r="885" b="266">h</charParams>
+<charParams l="887" t="252" r="899" b="266">o</charParams>
+<charParams l="902" t="252" r="913" b="266">n</charParams>
+<charParams l="915" t="252" r="927" b="266">e</charParams>
+<charParams l="930" t="263" r="933" b="269">,</charParams>
+<charParams l="934" t="252" r="942" b="269"> </charParams>
+<charParams l="943" t="252" r="955" b="266">e</charParams>
+<charParams l="957" t="252" r="975" b="266">m</charParams>
+<charParams l="978" t="252" r="990" b="266">a</charParams>
+<charParams l="992" t="248" r="994" b="266">i</charParams>
+<charParams l="998" t="247" r="1000" b="266">l</charParams>
+<charParams l="1004" t="263" r="1007" b="269">,</charParams>
+<charParams l="1008" t="252" r="1016" b="269"> </charParams>
+<charParams l="1017" t="252" r="1029" b="266">a</charParams>
+<charParams l="1031" t="252" r="1042" b="265">n</charParams>
+<charParams l="1044" t="247" r="1056" b="266">d</charParams>
+<charParams l="1057" t="247" r="1065" b="270"> </charParams>
+<charParams l="1066" t="252" r="1077" b="270">p</charParams>
+<charParams l="1080" t="252" r="1086" b="266">r</charParams>
+<charParams l="1088" t="248" r="1090" b="266">i</charParams>
+<charParams l="1094" t="252" r="1104" b="266">n</charParams>
+<charParams l="1106" t="249" r="1112" b="266">t</charParams>
+<charParams l="1115" t="263" r="1118" b="266">.</charParams></formatting></line>
+<line baseline="303" l="150" t="279" r="1100" b="305"><formatting lang="EnglishUnitedStates">
+<charParams l="150" t="281" r="164" b="299">T</charParams>
+<charParams l="167" t="280" r="177" b="299">h</charParams>
+<charParams l="180" t="285" r="192" b="299">e</charParams>
+<charParams l="193" t="280" r="201" b="299"> </charParams>
+<charParams l="202" t="280" r="214" b="298">F</charParams>
+<charParams l="216" t="280" r="232" b="299">C</charParams>
+<charParams l="234" t="280" r="249" b="299">S</charParams>
+<charParams l="250" t="280" r="256" b="299"> </charParams>
+<charParams l="257" t="280" r="263" b="298">f</charParams>
+<charParams l="265" t="285" r="276" b="299">u</charParams>
+<charParams l="279" t="285" r="290" b="298">n</charParams>
+<charParams l="292" t="280" r="304" b="299">d</charParams>
+<charParams l="305" t="280" r="312" b="299"> </charParams>
+<charParams l="313" t="285" r="324" b="299">s</charParams>
+<charParams l="326" t="285" r="338" b="299">a</charParams>
+<charParams l="339" t="285" r="351" b="298">v</charParams>
+<charParams l="352" t="285" r="364" b="299">e</charParams>
+<charParams l="366" t="280" r="377" b="299">d</charParams>
+<charParams l="378" t="280" r="385" b="299"> </charParams>
+<charParams l="386" t="282" r="392" b="299">t</charParams>
+<charParams l="395" t="280" r="405" b="299">h</charParams>
+<charParams l="408" t="285" r="420" b="299">e</charParams>
+<charParams l="421" t="285" r="428" b="304"> </charParams>
+<charParams l="429" t="285" r="440" b="304">g</charParams>
+<charParams l="442" t="285" r="454" b="299">o</charParams>
+<charParams l="456" t="285" r="467" b="299">v</charParams>
+<charParams l="469" t="285" r="481" b="299">e</charParams>
+<charParams l="483" t="285" r="490" b="298">r</charParams>
+<charParams l="492" t="285" r="503" b="298">n</charParams>
+<charParams l="506" t="285" r="523" b="299">m</charParams>
+<charParams l="526" t="285" r="538" b="299">e</charParams>
+<charParams l="541" t="285" r="551" b="299">n</charParams>
+<charParams l="553" t="282" r="559" b="299">t</charParams>
+<charParams l="560" t="282" r="567" b="299"> </charParams>
+<charParams l="568" t="285" r="579" b="299">o</charParams>
+<charParams l="581" t="286" r="592" b="299">v</charParams>
+<charParams l="594" t="285" r="606" b="299">e</charParams>
+<charParams l="609" t="285" r="615" b="299">r</charParams>
+<charParams l="616" t="280" r="622" b="302"> </charParams>
+<charParams l="623" t="280" r="635" b="302">$</charParams>
+<charParams l="638" t="281" r="649" b="299">7</charParams>
+<charParams l="651" t="281" r="663" b="300">6</charParams>
+<charParams l="666" t="280" r="683" b="299">M</charParams>
+<charParams l="684" t="280" r="692" b="299"> </charParams>
+<charParams l="693" t="280" r="696" b="299">i</charParams>
+<charParams l="699" t="285" r="710" b="299">n</charParams>
+<charParams l="711" t="281" r="719" b="299"> </charParams>
+<charParams l="720" t="281" r="733" b="299">F</charParams>
+<charParams l="735" t="280" r="749" b="299">Y</charParams>
+<charParams l="753" t="280" r="759" b="299" suspicious="1">1</charParams>
+<charParams l="767" t="280" r="773" b="298" suspicious="1">1</charParams>
+<charParams l="774" t="280" r="786" b="299"> </charParams>
+<charParams l="787" t="280" r="789" b="299">i</charParams>
+<charParams l="792" t="285" r="803" b="299">n</charParams>
+<charParams l="804" t="285" r="811" b="300"> </charParams>
+<charParams l="812" t="285" r="823" b="300">c</charParams>
+<charParams l="825" t="285" r="837" b="299">o</charParams>
+<charParams l="839" t="285" r="849" b="299">s</charParams>
+<charParams l="851" t="282" r="856" b="299">t</charParams>
+<charParams l="857" t="282" r="864" b="299"> </charParams>
+<charParams l="865" t="285" r="878" b="299">a</charParams>
+<charParams l="879" t="286" r="890" b="299">v</charParams>
+<charParams l="891" t="285" r="903" b="299">o</charParams>
+<charParams l="906" t="281" r="908" b="299">i</charParams>
+<charParams l="911" t="281" r="922" b="299">d</charParams>
+<charParams l="925" t="285" r="937" b="299">a</charParams>
+<charParams l="939" t="285" r="950" b="299">n</charParams>
+<charParams l="953" t="285" r="964" b="299">c</charParams>
+<charParams l="965" t="285" r="977" b="299">e</charParams>
+<charParams l="978" t="281" r="986" b="299"> </charParams>
+<charParams l="987" t="281" r="998" b="299">b</charParams>
+<charParams l="1000" t="285" r="1011" b="304">y</charParams>
+<charParams l="1012" t="285" r="1018" b="304"> </charParams>
+<charParams l="1019" t="285" r="1031" b="299">o</charParams>
+<charParams l="1033" t="280" r="1039" b="298">f</charParams>
+<charParams l="1039" t="280" r="1046" b="298">f</charParams>
+<charParams l="1047" t="285" r="1059" b="299">e</charParams>
+<charParams l="1062" t="285" r="1068" b="298">r</charParams>
+<charParams l="1070" t="280" r="1072" b="298">i</charParams>
+<charParams l="1076" t="285" r="1086" b="299">n</charParams>
+<charParams l="1089" t="285" r="1100" b="304">g</charParams></formatting></line>
+<line baseline="337" l="151" t="314" r="1109" b="339"><formatting lang="EnglishUnitedStates">
+<charParams l="151" t="319" r="163" b="333">a</charParams>
+<charParams l="164" t="319" r="176" b="338">g</charParams>
+<charParams l="179" t="319" r="190" b="333">e</charParams>
+<charParams l="193" t="319" r="203" b="332">n</charParams>
+<charParams l="206" t="319" r="217" b="333">c</charParams>
+<charParams l="219" t="314" r="222" b="332">i</charParams>
+<charParams l="224" t="319" r="236" b="333">e</charParams>
+<charParams l="238" t="319" r="248" b="333">s</charParams>
+<charParams l="249" t="319" r="257" b="333"> </charParams>
+<charParams l="258" t="319" r="269" b="332">n</charParams>
+<charParams l="271" t="319" r="283" b="333">o</charParams>
+<charParams l="284" t="319" r="291" b="333"> </charParams>
+<charParams l="292" t="319" r="304" b="333">o</charParams>
+<charParams l="307" t="319" r="313" b="332">r</charParams>
+<charParams l="314" t="314" r="321" b="332"> </charParams>
+<charParams l="322" t="314" r="325" b="332">l</charParams>
+<charParams l="327" t="319" r="339" b="333">o</charParams>
+<charParams l="340" t="319" r="358" b="332">w</charParams>
+<charParams l="359" t="325" r="365" b="327">-</charParams>
+<charParams l="367" t="319" r="378" b="333">c</charParams>
+<charParams l="380" t="319" r="392" b="333">o</charParams>
+<charParams l="394" t="319" r="404" b="333">s</charParams>
+<charParams l="406" t="316" r="412" b="333">t</charParams>
+<charParams l="413" t="316" r="419" b="338"> </charParams>
+<charParams l="420" t="319" r="431" b="338">g</charParams>
+<charParams l="434" t="319" r="446" b="333">o</charParams>
+<charParams l="447" t="319" r="459" b="332">v</charParams>
+<charParams l="461" t="319" r="472" b="333">e</charParams>
+<charParams l="475" t="319" r="481" b="332">r</charParams>
+<charParams l="483" t="319" r="494" b="332">n</charParams>
+<charParams l="497" t="319" r="515" b="333">m</charParams>
+<charParams l="518" t="319" r="529" b="333">e</charParams>
+<charParams l="532" t="319" r="543" b="332">n</charParams>
+<charParams l="545" t="316" r="551" b="333">t</charParams>
+<charParams l="552" t="325" r="558" b="327">-</charParams>
+<charParams l="560" t="319" r="577" b="333">w</charParams>
+<charParams l="579" t="315" r="581" b="333">i</charParams>
+<charParams l="584" t="315" r="595" b="333">d</charParams>
+<charParams l="598" t="319" r="610" b="333">e</charParams>
+<charParams l="611" t="319" r="618" b="338"> </charParams>
+<charParams l="619" t="319" r="631" b="338">p</charParams>
+<charParams l="633" t="319" r="645" b="333">o</charParams>
+<charParams l="647" t="315" r="650" b="333">l</charParams>
+<charParams l="653" t="315" r="655" b="333">i</charParams>
+<charParams l="658" t="319" r="669" b="334">c</charParams>
+<charParams l="670" t="320" r="681" b="338">y</charParams>
+<charParams l="683" t="325" r="689" b="327">-</charParams>
+<charParams l="691" t="319" r="702" b="334">c</charParams>
+<charParams l="703" t="319" r="715" b="334">o</charParams>
+<charParams l="718" t="319" r="736" b="333">m</charParams>
+<charParams l="739" t="320" r="750" b="338">p</charParams>
+<charParams l="753" t="315" r="755" b="333">l</charParams>
+<charParams l="758" t="315" r="761" b="333">i</charParams>
+<charParams l="763" t="320" r="775" b="334">a</charParams>
+<charParams l="778" t="319" r="788" b="333">n</charParams>
+<charParams l="791" t="316" r="796" b="334">t</charParams>
+<charParams l="797" t="316" r="804" b="334"> </charParams>
+<charParams l="805" t="319" r="815" b="333">s</charParams>
+<charParams l="817" t="319" r="829" b="333">o</charParams>
+<charParams l="832" t="315" r="834" b="333">l</charParams>
+<charParams l="837" t="320" r="848" b="333">u</charParams>
+<charParams l="850" t="316" r="856" b="333">t</charParams>
+<charParams l="858" t="315" r="861" b="333">i</charParams>
+<charParams l="863" t="319" r="875" b="333">o</charParams>
+<charParams l="878" t="319" r="888" b="333">n</charParams>
+<charParams l="891" t="319" r="901" b="333">s</charParams>
+<charParams l="902" t="319" r="910" b="333"> </charParams>
+<charParams l="911" t="319" r="923" b="333">a</charParams>
+<charParams l="925" t="319" r="936" b="333">n</charParams>
+<charParams l="938" t="315" r="950" b="333">d</charParams>
+<charParams l="951" t="315" r="959" b="333"> </charParams>
+<charParams l="960" t="315" r="971" b="333">b</charParams>
+<charParams l="973" t="320" r="984" b="338">y</charParams>
+<charParams l="985" t="319" r="992" b="338"> </charParams>
+<charParams l="993" t="319" r="1004" b="333">e</charParams>
+<charParams l="1007" t="314" r="1009" b="332">l</charParams>
+<charParams l="1013" t="314" r="1015" b="332">i</charParams>
+<charParams l="1018" t="319" r="1036" b="332">m</charParams>
+<charParams l="1039" t="314" r="1041" b="332">i</charParams>
+<charParams l="1045" t="319" r="1055" b="332">n</charParams>
+<charParams l="1058" t="319" r="1070" b="334">a</charParams>
+<charParams l="1071" t="316" r="1077" b="334">t</charParams>
+<charParams l="1079" t="315" r="1082" b="333">i</charParams>
+<charParams l="1085" t="319" r="1096" b="333">n</charParams>
+<charParams l="1098" t="319" r="1109" b="338">g</charParams></formatting></line>
+<line baseline="370" l="151" t="347" r="552" b="371"><formatting lang="EnglishUnitedStates">
+<charParams l="151" t="352" r="161" b="366">c</charParams>
+<charParams l="163" t="352" r="175" b="366">o</charParams>
+<charParams l="177" t="352" r="187" b="366">s</charParams>
+<charParams l="189" t="349" r="195" b="366">t</charParams>
+<charParams l="197" t="347" r="199" b="365">l</charParams>
+<charParams l="202" t="352" r="213" b="371">y</charParams>
+<charParams l="214" t="352" r="221" b="371"> </charParams>
+<charParams l="222" t="352" r="234" b="366">a</charParams>
+<charParams l="236" t="352" r="246" b="365">n</charParams>
+<charParams l="249" t="347" r="261" b="366">d</charParams>
+<charParams l="262" t="347" r="269" b="366"> </charParams>
+<charParams l="270" t="347" r="281" b="366">d</charParams>
+<charParams l="285" t="352" r="295" b="366">u</charParams>
+<charParams l="298" t="352" r="310" b="371">p</charParams>
+<charParams l="312" t="347" r="315" b="365">l</charParams>
+<charParams l="318" t="347" r="320" b="365">i</charParams>
+<charParams l="323" t="352" r="333" b="366">c</charParams>
+<charParams l="335" t="352" r="348" b="366">a</charParams>
+<charParams l="349" t="349" r="355" b="366">t</charParams>
+<charParams l="357" t="347" r="359" b="366">i</charParams>
+<charParams l="361" t="352" r="373" b="366">v</charParams>
+<charParams l="374" t="352" r="386" b="366">e</charParams>
+<charParams l="387" t="352" r="395" b="371"> </charParams>
+<charParams l="396" t="352" r="407" b="371">p</charParams>
+<charParams l="410" t="352" r="416" b="365">r</charParams>
+<charParams l="417" t="352" r="429" b="366">o</charParams>
+<charParams l="431" t="352" r="442" b="366">c</charParams>
+<charParams l="445" t="352" r="455" b="366">u</charParams>
+<charParams l="458" t="352" r="465" b="365">r</charParams>
+<charParams l="466" t="352" r="478" b="366">e</charParams>
+<charParams l="481" t="352" r="498" b="365">m</charParams>
+<charParams l="501" t="352" r="513" b="366">e</charParams>
+<charParams l="515" t="352" r="526" b="365">n</charParams>
+<charParams l="528" t="349" r="534" b="366">t</charParams>
+<charParams l="535" t="352" r="546" b="366">s</charParams>
+<charParams l="549" t="363" r="552" b="366">.</charParams></formatting></line></par>
+</text>
+</block>
+<block blockType="Table" blockName="" l="167" t="404" r="1110" b="805"><region><rect l="167" t="404" r="989" b="405"/><rect l="167" t="405" r="1110" b="804"/><rect l="171" t="804" r="1110" b="805"/></region>
+<row>
+<cell leftBorder="White" topBorder="White" bottomBorder="White" width="798" height="59">
+<text>
+<par lineSpacing="1380">
+<line baseline="432" l="180" t="410" r="280" b="434"><formatting lang="EnglishUnitedStates">
+<charParams l="180" t="410" r="194" b="428">P</charParams>
+<charParams l="197" t="415" r="204" b="428">r</charParams>
+<charParams l="206" t="415" r="219" b="429">o</charParams>
+<charParams l="221" t="415" r="233" b="434">g</charParams>
+<charParams l="237" t="415" r="245" b="428">r</charParams>
+<charParams l="246" t="415" r="258" b="429">a</charParams>
+<charParams l="261" t="415" r="280" b="428">m</charParams></formatting></line></par>
+</text></cell>
+<cell topBorder="White" rightBorder="White" width="145" height="59">
+<text>
+<par lineSpacing="1380">
+<line baseline="432" l="980" t="410" r="1062" b="434"><formatting lang="EnglishUnitedStates">
+<charParams l="980" t="410" r="994" b="428">B</charParams>
+<charParams l="997" t="415" r="1009" b="429">u</charParams>
+<charParams l="1012" t="410" r="1024" b="429">d</charParams>
+<charParams l="1027" t="415" r="1039" b="433">g</charParams>
+<charParams l="1042" t="415" r="1054" b="429">e</charParams>
+<charParams l="1056" t="412" r="1062" b="429">t</charParams></formatting></line></par>
+</text></cell></row>
+<row>
+<cell leftBorder="White" topBorder="White" width="798" height="58">
+<text>
+<par lineSpacing="1380">
+<line baseline="494" l="180" t="471" r="467" b="490"><formatting lang="EnglishUnitedStates">
+<charParams l="180" t="471" r="195" b="490">C</charParams>
+<charParams l="198" t="476" r="211" b="490">o</charParams>
+<charParams l="214" t="476" r="226" b="489">n</charParams>
+<charParams l="228" t="473" r="235" b="490">t</charParams>
+<charParams l="236" t="476" r="248" b="490">a</charParams>
+<charParams l="251" t="476" r="262" b="490">c</charParams>
+<charParams l="264" t="473" r="271" b="490">t</charParams>
+<charParams l="272" t="471" r="279" b="490"> </charParams>
+<charParams l="280" t="471" r="296" b="490">C</charParams>
+<charParams l="297" t="476" r="310" b="490">e</charParams>
+<charParams l="312" t="476" r="324" b="489">n</charParams>
+<charParams l="326" t="473" r="333" b="490">t</charParams>
+<charParams l="335" t="476" r="347" b="490">e</charParams>
+<charParams l="350" t="476" r="357" b="489">r</charParams>
+<charParams l="358" t="471" r="365" b="490"> </charParams>
+<charParams l="366" t="471" r="380" b="490">S</charParams>
+<charParams l="382" t="476" r="394" b="490">e</charParams>
+<charParams l="397" t="476" r="404" b="489">r</charParams>
+<charParams l="406" t="476" r="418" b="489">v</charParams>
+<charParams l="421" t="471" r="424" b="489">i</charParams>
+<charParams l="427" t="476" r="438" b="490">c</charParams>
+<charParams l="440" t="476" r="453" b="490">e</charParams>
+<charParams l="455" t="476" r="467" b="490">s</charParams></formatting></line></par>
+</text></cell>
+<cell width="145" height="58">
+<text>
+<par lineSpacing="1380">
+<line baseline="493" l="979" t="471" r="1045" b="493"><formatting lang="EnglishUnitedStates">
+<charParams l="979" t="471" r="991" b="492" suspicious="1">$</charParams>
+<charParams l="992" t="471" r="1004" b="490" suspicious="1">8</charParams>
+<charParams l="1008" t="487" r="1010" b="489" suspicious="1">.</charParams>
+<charParams l="1013" t="471" r="1025" b="490" suspicious="1">6</charParams>
+<charParams l="1028" t="471" r="1045" b="490" suspicious="1">M</charParams></formatting></line></par>
+</text></cell></row>
+<row>
+<cell leftBorder="White" rightBorder="White" width="798" height="57">
+<text>
+<par lineSpacing="1380">
+<line baseline="550" l="180" t="527" r="785" b="546"><formatting lang="EnglishUnitedStates">
+<charParams l="180" t="527" r="194" b="545">P</charParams>
+<charParams l="197" t="532" r="204" b="545">r</charParams>
+<charParams l="207" t="527" r="210" b="545">i</charParams>
+<charParams l="214" t="532" r="226" b="545">n</charParams>
+<charParams l="228" t="529" r="235" b="546">t</charParams>
+<charParams l="236" t="532" r="248" b="546">e</charParams>
+<charParams l="250" t="527" r="263" b="546">d</charParams>
+<charParams l="264" t="527" r="273" b="546"> </charParams>
+<charParams l="274" t="527" r="287" b="545">P</charParams>
+<charParams l="290" t="532" r="302" b="546">u</charParams>
+<charParams l="305" t="527" r="318" b="546">b</charParams>
+<charParams l="320" t="527" r="324" b="545">l</charParams>
+<charParams l="327" t="527" r="331" b="545">i</charParams>
+<charParams l="334" t="532" r="345" b="546">c</charParams>
+<charParams l="348" t="532" r="360" b="546">a</charParams>
+<charParams l="361" t="529" r="368" b="546">t</charParams>
+<charParams l="370" t="527" r="374" b="545">i</charParams>
+<charParams l="377" t="532" r="390" b="546">o</charParams>
+<charParams l="393" t="532" r="405" b="545">n</charParams>
+<charParams l="407" t="532" r="419" b="546">s</charParams>
+<charParams l="420" t="527" r="427" b="546"> </charParams>
+<charParams l="428" t="527" r="443" b="546">S</charParams>
+<charParams l="445" t="532" r="457" b="546">e</charParams>
+<charParams l="459" t="532" r="467" b="545">r</charParams>
+<charParams l="468" t="532" r="480" b="545">v</charParams>
+<charParams l="483" t="527" r="486" b="545">i</charParams>
+<charParams l="489" t="532" r="501" b="546">c</charParams>
+<charParams l="503" t="532" r="515" b="546">e</charParams>
+<charParams l="517" t="532" r="529" b="546">s</charParams>
+<charParams l="530" t="532" r="537" b="546"> </charParams>
+<charParams l="538" t="532" r="550" b="546">a</charParams>
+<charParams l="553" t="532" r="565" b="545">n</charParams>
+<charParams l="567" t="527" r="580" b="546">d</charParams>
+<charParams l="581" t="527" r="589" b="546"> </charParams>
+<charParams l="590" t="527" r="606" b="546">C</charParams>
+<charParams l="608" t="527" r="612" b="545">i</charParams>
+<charParams l="614" t="529" r="621" b="546">t</charParams>
+<charParams l="623" t="527" r="627" b="546">i</charParams>
+<charParams l="629" t="532" r="640" b="545">z</charParams>
+<charParams l="642" t="532" r="654" b="546">e</charParams>
+<charParams l="657" t="532" r="669" b="545">n</charParams>
+<charParams l="670" t="527" r="677" b="546"> </charParams>
+<charParams l="678" t="527" r="696" b="546">O</charParams>
+<charParams l="698" t="532" r="710" b="546">u</charParams>
+<charParams l="712" t="529" r="719" b="546">t</charParams>
+<charParams l="722" t="532" r="729" b="545">r</charParams>
+<charParams l="731" t="532" r="743" b="546">e</charParams>
+<charParams l="745" t="532" r="757" b="546">a</charParams>
+<charParams l="759" t="532" r="771" b="546">c</charParams>
+<charParams l="773" t="528" r="785" b="546">h</charParams></formatting></line></par>
+</text></cell>
+<cell leftBorder="White" rightBorder="White" width="145" height="57">
+<text>
+<par lineSpacing="1380">
+<line baseline="549" l="979" t="526" r="1045" b="549"><formatting lang="EnglishUnitedStates">
+<charParams l="979" t="526" r="991" b="548">$</charParams>
+<charParams l="992" t="527" r="1004" b="546">3</charParams>
+<charParams l="1007" t="543" r="1010" b="545">.</charParams>
+<charParams l="1013" t="527" r="1025" b="546">9</charParams>
+<charParams l="1028" t="527" r="1045" b="546">M</charParams></formatting></line></par>
+</text></cell></row>
+<row>
+<cell leftBorder="White" width="798" height="55">
+<text>
+<par lineSpacing="1380">
+<line baseline="606" l="179" t="583" r="918" b="607"><formatting lang="EnglishUnitedStates">
+<charParams l="179" t="583" r="201" b="601">W</charParams>
+<charParams l="203" t="588" r="215" b="602">e</charParams>
+<charParams l="218" t="583" r="230" b="602">b</charParams>
+<charParams l="231" t="583" r="239" b="602"> </charParams>
+<charParams l="240" t="583" r="258" b="601">M</charParams>
+<charParams l="260" t="588" r="272" b="602">a</charParams>
+<charParams l="275" t="588" r="287" b="601">n</charParams>
+<charParams l="289" t="588" r="301" b="602">a</charParams>
+<charParams l="303" t="588" r="315" b="607">g</charParams>
+<charParams l="318" t="588" r="330" b="602">e</charParams>
+<charParams l="333" t="588" r="352" b="601">m</charParams>
+<charParams l="355" t="588" r="367" b="602">e</charParams>
+<charParams l="369" t="588" r="381" b="601">n</charParams>
+<charParams l="383" t="585" r="390" b="602">t</charParams>
+<charParams l="391" t="585" r="398" b="602"> </charParams>
+<charParams l="399" t="588" r="411" b="602">a</charParams>
+<charParams l="414" t="588" r="426" b="601">n</charParams>
+<charParams l="428" t="583" r="441" b="602">d</charParams>
+<charParams l="442" t="583" r="450" b="602"> </charParams>
+<charParams l="451" t="583" r="466" b="602">C</charParams>
+<charParams l="469" t="588" r="482" b="602">o</charParams>
+<charParams l="485" t="588" r="497" b="601">n</charParams>
+<charParams l="499" t="585" r="506" b="602">t</charParams>
+<charParams l="507" t="588" r="520" b="602">e</charParams>
+<charParams l="522" t="588" r="534" b="601">n</charParams>
+<charParams l="536" t="585" r="543" b="602">t</charParams>
+<charParams l="544" t="583" r="551" b="606"> </charParams>
+<charParams l="552" t="583" r="558" b="606">(</charParams>
+<charParams l="561" t="583" r="576" b="602">U</charParams>
+<charParams l="578" t="583" r="593" b="602">S</charParams>
+<charParams l="595" t="583" r="611" b="601">A</charParams>
+<charParams l="614" t="598" r="617" b="601">.</charParams>
+<charParams l="620" t="588" r="632" b="607">g</charParams>
+<charParams l="635" t="588" r="648" b="602">o</charParams>
+<charParams l="650" t="588" r="662" b="601">v</charParams>
+<charParams l="663" t="584" r="671" b="602"> </charParams>
+<charParams l="672" t="584" r="687" b="602">&amp;</charParams>
+<charParams l="688" t="583" r="696" b="602"> </charParams>
+<charParams l="697" t="583" r="713" b="602">G</charParams>
+<charParams l="716" t="588" r="729" b="602">o</charParams>
+<charParams l="732" t="583" r="744" b="602">b</charParams>
+<charParams l="747" t="583" r="751" b="601">i</charParams>
+<charParams l="753" t="588" r="765" b="602">e</charParams>
+<charParams l="768" t="588" r="775" b="601">r</charParams>
+<charParams l="778" t="588" r="790" b="602">n</charParams>
+<charParams l="792" t="588" r="805" b="602">o</charParams>
+<charParams l="808" t="583" r="823" b="602">U</charParams>
+<charParams l="826" t="583" r="840" b="602">S</charParams>
+<charParams l="842" t="583" r="858" b="601">A</charParams>
+<charParams l="861" t="598" r="865" b="601">.</charParams>
+<charParams l="867" t="588" r="879" b="607">g</charParams>
+<charParams l="883" t="588" r="896" b="602">o</charParams>
+<charParams l="898" t="588" r="910" b="601">v</charParams>
+<charParams l="912" t="583" r="918" b="606">)</charParams></formatting></line></par>
+</text></cell>
+<cell width="145" height="55">
+<text>
+<par lineSpacing="1380">
+<line baseline="605" l="979" t="582" r="1045" b="605"><formatting lang="EnglishUnitedStates">
+<charParams l="979" t="582" r="991" b="604">$</charParams>
+<charParams l="992" t="583" r="1004" b="602">6</charParams>
+<charParams l="1007" t="599" r="1010" b="601">.</charParams>
+<charParams l="1015" t="583" r="1021" b="602">1</charParams>
+<charParams l="1022" t="583" r="1027" b="602" suspicious="1"> </charParams>
+<charParams l="1028" t="584" r="1045" b="602">M</charParams></formatting></line></par>
+</text></cell></row>
+<row>
+<cell leftBorder="White" rightBorder="White" width="798" height="57">
+<text>
+<par lineSpacing="1380">
+<line baseline="662" l="180" t="639" r="796" b="663"><formatting lang="EnglishUnitedStates">
+<charParams l="180" t="639" r="195" b="658">C</charParams>
+<charParams l="197" t="644" r="210" b="658">e</charParams>
+<charParams l="212" t="644" r="224" b="657">n</charParams>
+<charParams l="226" t="641" r="233" b="658">t</charParams>
+<charParams l="235" t="644" r="247" b="658">e</charParams>
+<charParams l="250" t="644" r="257" b="657">r</charParams>
+<charParams l="258" t="639" r="264" b="657"> </charParams>
+<charParams l="265" t="639" r="273" b="657">f</charParams>
+<charParams l="274" t="644" r="287" b="658">o</charParams>
+<charParams l="290" t="644" r="298" b="657">r</charParams>
+<charParams l="299" t="639" r="306" b="657"> </charParams>
+<charParams l="307" t="639" r="321" b="657">E</charParams>
+<charParams l="323" t="644" r="335" b="657">x</charParams>
+<charParams l="337" t="644" r="348" b="658">c</charParams>
+<charParams l="350" t="644" r="362" b="658">e</charParams>
+<charParams l="365" t="639" r="369" b="657">l</charParams>
+<charParams l="372" t="639" r="376" b="657">l</charParams>
+<charParams l="378" t="644" r="390" b="658">e</charParams>
+<charParams l="393" t="644" r="405" b="657">n</charParams>
+<charParams l="408" t="644" r="419" b="658">c</charParams>
+<charParams l="421" t="644" r="433" b="658">e</charParams>
+<charParams l="434" t="639" r="442" b="658"> </charParams>
+<charParams l="443" t="639" r="446" b="657">i</charParams>
+<charParams l="450" t="644" r="462" b="657">n</charParams>
+<charParams l="463" t="639" r="471" b="657"> </charParams>
+<charParams l="472" t="639" r="487" b="657">D</charParams>
+<charParams l="490" t="639" r="494" b="657">i</charParams>
+<charParams l="497" t="644" r="509" b="663">g</charParams>
+<charParams l="512" t="639" r="516" b="657">i</charParams>
+<charParams l="518" t="641" r="525" b="658">t</charParams>
+<charParams l="527" t="644" r="539" b="658">a</charParams>
+<charParams l="542" t="639" r="545" b="657">l</charParams>
+<charParams l="546" t="639" r="554" b="658"> </charParams>
+<charParams l="555" t="639" r="571" b="658">G</charParams>
+<charParams l="574" t="644" r="587" b="658">o</charParams>
+<charParams l="589" t="644" r="601" b="657">v</charParams>
+<charParams l="603" t="644" r="615" b="658">e</charParams>
+<charParams l="618" t="644" r="625" b="657">r</charParams>
+<charParams l="628" t="644" r="640" b="657">n</charParams>
+<charParams l="643" t="644" r="662" b="657">m</charParams>
+<charParams l="664" t="644" r="676" b="658">e</charParams>
+<charParams l="679" t="644" r="691" b="657">n</charParams>
+<charParams l="693" t="641" r="700" b="658">t</charParams>
+<charParams l="701" t="639" r="708" b="662"> </charParams>
+<charParams l="709" t="639" r="715" b="662">(</charParams>
+<charParams l="717" t="639" r="733" b="658">C</charParams>
+<charParams l="737" t="639" r="750" b="657">E</charParams>
+<charParams l="753" t="639" r="768" b="657">D</charParams>
+<charParams l="770" t="639" r="787" b="658">G</charParams>
+<charParams l="789" t="639" r="796" b="662">)</charParams></formatting></line></par>
+</text></cell>
+<cell leftBorder="White" rightBorder="White" width="145" height="57">
+<text>
+<par lineSpacing="1380">
+<line baseline="660" l="979" t="637" r="1045" b="660"><formatting lang="EnglishUnitedStates">
+<charParams l="979" t="637" r="991" b="659">$</charParams>
+<charParams l="992" t="638" r="1004" b="656">4</charParams>
+<charParams l="1007" t="653" r="1010" b="656">.</charParams>
+<charParams l="1013" t="638" r="1025" b="658">6</charParams>
+<charParams l="1028" t="638" r="1045" b="657">M</charParams></formatting></line></par>
+</text></cell></row>
+<row>
+<cell leftBorder="White" width="798" height="55">
+<text>
+<par lineSpacing="1380">
+<line baseline="718" l="180" t="695" r="772" b="719"><formatting lang="EnglishUnitedStates">
+<charParams l="180" t="695" r="184" b="714">I</charParams>
+<charParams l="187" t="700" r="199" b="713">n</charParams>
+<charParams l="201" t="695" r="209" b="713">f</charParams>
+<charParams l="210" t="700" r="223" b="714">o</charParams>
+<charParams l="226" t="700" r="234" b="713">r</charParams>
+<charParams l="236" t="700" r="255" b="713">m</charParams>
+<charParams l="257" t="700" r="269" b="714">a</charParams>
+<charParams l="271" t="697" r="278" b="714">t</charParams>
+<charParams l="280" t="695" r="284" b="713">i</charParams>
+<charParams l="287" t="700" r="300" b="714">o</charParams>
+<charParams l="302" t="700" r="314" b="713">n</charParams>
+<charParams l="315" t="695" r="323" b="713"> </charParams>
+<charParams l="324" t="695" r="338" b="713">T</charParams>
+<charParams l="339" t="700" r="351" b="714">e</charParams>
+<charParams l="353" t="700" r="365" b="714">c</charParams>
+<charParams l="368" t="695" r="380" b="713">h</charParams>
+<charParams l="383" t="700" r="395" b="713">n</charParams>
+<charParams l="398" t="700" r="411" b="714">o</charParams>
+<charParams l="414" t="695" r="417" b="713">l</charParams>
+<charParams l="420" t="700" r="433" b="714">o</charParams>
+<charParams l="435" t="700" r="448" b="719">g</charParams>
+<charParams l="450" t="700" r="462" b="719">y</charParams>
+<charParams l="463" t="695" r="470" b="719"> </charParams>
+<charParams l="471" t="695" r="486" b="714">S</charParams>
+<charParams l="488" t="700" r="500" b="714">e</charParams>
+<charParams l="502" t="700" r="510" b="713">r</charParams>
+<charParams l="511" t="700" r="523" b="713">v</charParams>
+<charParams l="526" t="695" r="530" b="713">i</charParams>
+<charParams l="532" t="700" r="544" b="714">c</charParams>
+<charParams l="546" t="700" r="558" b="714">e</charParams>
+<charParams l="560" t="700" r="572" b="714">s</charParams>
+<charParams l="573" t="695" r="580" b="714"> </charParams>
+<charParams l="581" t="695" r="596" b="714">S</charParams>
+<charParams l="598" t="700" r="611" b="714">o</charParams>
+<charParams l="614" t="695" r="617" b="713">l</charParams>
+<charParams l="621" t="700" r="632" b="714">u</charParams>
+<charParams l="635" t="696" r="642" b="714">t</charParams>
+<charParams l="644" t="695" r="648" b="713">i</charParams>
+<charParams l="651" t="700" r="664" b="714">o</charParams>
+<charParams l="666" t="700" r="678" b="713">n</charParams>
+<charParams l="681" t="700" r="693" b="714">s</charParams>
+<charParams l="694" t="695" r="701" b="718"> </charParams>
+<charParams l="702" t="695" r="708" b="718">(</charParams>
+<charParams l="711" t="695" r="715" b="713">I</charParams>
+<charParams l="717" t="695" r="731" b="713">T</charParams>
+<charParams l="733" t="695" r="747" b="714">S</charParams>
+<charParams l="750" t="695" r="764" b="714">S</charParams>
+<charParams l="766" t="695" r="772" b="718">)</charParams></formatting></line></par>
+</text></cell>
+<cell width="145" height="55">
+<text>
+<par lineSpacing="1380">
+<line baseline="717" l="979" t="694" r="1059" b="717"><formatting lang="EnglishUnitedStates">
+<charParams l="979" t="694" r="991" b="716">$</charParams>
+<charParams l="994" t="695" r="1000" b="713">1</charParams>
+<charParams l="1006" t="696" r="1018" b="715">0</charParams>
+<charParams l="1021" t="711" r="1024" b="714">.</charParams>
+<charParams l="1027" t="696" r="1039" b="714" suspicious="1">8</charParams>
+<charParams l="1042" t="695" r="1059" b="714">M</charParams></formatting></line></par>
+</text></cell></row>
+<row>
+<cell leftBorder="White" rightBorder="White" bottomBorder="White" width="798" height="59">
+<text>
+<par lineSpacing="1380">
+<line baseline="774" l="179" t="751" r="237" b="770"><formatting lang="EnglishUnitedStates">
+<charParams l="179" t="751" r="193" b="769">T</charParams>
+<charParams l="195" t="756" r="208" b="770">o</charParams>
+<charParams l="210" t="753" r="217" b="770">t</charParams>
+<charParams l="218" t="756" r="230" b="770">a</charParams>
+<charParams l="233" t="751" r="237" b="769">l</charParams></formatting></line></par>
+</text></cell>
+<cell leftBorder="White" rightBorder="White" bottomBorder="White" width="145" height="59">
+<text>
+<par lineSpacing="1380">
+<line baseline="773" l="979" t="750" r="1038" b="773"><formatting lang="EnglishUnitedStates">
+<charParams l="979" t="750" r="991" b="772">$</charParams>
+<charParams l="993" t="751" r="1004" b="771">3</charParams>
+<charParams l="1006" t="752" r="1018" b="770">4</charParams>
+<charParams l="1021" t="751" r="1038" b="770">M</charParams></formatting></line></par>
+</text></cell></row>
+</block>
+<block blockType="Text" blockName="" l="689" t="1535" r="1140" b="1560"><region><rect l="712" t="1535" r="1140" b="1536"/><rect l="689" t="1536" r="1140" b="1537"/><rect l="689" t="1537" r="1140" b="1559"/><rect l="689" t="1559" r="1134" b="1560"/></region>
+<text>
+<par lineSpacing="1090">
+<line baseline="1557" l="691" t="1538" r="1136" b="1556"><formatting lang="EnglishUnitedStates">
+<charParams l="691" t="1539" r="700" b="1554">F</charParams>
+<charParams l="702" t="1539" r="714" b="1555">Y</charParams>
+<charParams l="715" t="1539" r="720" b="1555" suspicious="1"> </charParams>
+<charParams l="721" t="1539" r="731" b="1555">2</charParams>
+<charParams l="733" t="1539" r="744" b="1555">0</charParams>
+<charParams l="747" t="1539" r="756" b="1555">1</charParams>
+<charParams l="759" t="1539" r="769" b="1555">1</charParams>
+<charParams l="770" t="1539" r="776" b="1555" suspicious="1"> </charParams>
+<charParams l="777" t="1539" r="790" b="1555">G</charParams>
+<charParams l="792" t="1539" r="802" b="1555">S</charParams>
+<charParams l="804" t="1539" r="818" b="1555">A</charParams>
+<charParams l="819" t="1539" r="825" b="1555" suspicious="1"> </charParams>
+<charParams l="826" t="1543" r="835" b="1551">•</charParams>
+<charParams l="836" t="1539" r="843" b="1555"> </charParams>
+<charParams l="844" t="1539" r="858" b="1555">O</charParams>
+<charParams l="861" t="1539" r="872" b="1555">C</charParams>
+<charParams l="873" t="1539" r="884" b="1555">S</charParams>
+<charParams l="886" t="1539" r="889" b="1555">I</charParams>
+<charParams l="892" t="1539" r="903" b="1555">T</charParams>
+<charParams l="904" t="1539" r="909" b="1555" suspicious="1"> </charParams>
+<charParams l="910" t="1539" r="924" b="1555">A</charParams>
+<charParams l="926" t="1539" r="939" b="1555">N</charParams>
+<charParams l="943" t="1539" r="955" b="1555">N</charParams>
+<charParams l="959" t="1539" r="972" b="1555">U</charParams>
+<charParams l="974" t="1539" r="988" b="1555">A</charParams>
+<charParams l="991" t="1539" r="999" b="1554">L</charParams>
+<charParams l="1000" t="1538" r="1006" b="1554"> </charParams>
+<charParams l="1007" t="1538" r="1018" b="1554">R</charParams>
+<charParams l="1021" t="1538" r="1030" b="1555">E</charParams>
+<charParams l="1033" t="1539" r="1044" b="1555">P</charParams>
+<charParams l="1046" t="1539" r="1061" b="1555">O</charParams>
+<charParams l="1063" t="1539" r="1075" b="1554">R</charParams>
+<charParams l="1076" t="1539" r="1088" b="1554">T</charParams>
+<charParams l="1089" t="1539" r="1112" b="1555"> </charParams>
+<charParams l="1113" t="1539" r="1124" b="1555">4</charParams>
+<charParams l="1126" t="1538" r="1136" b="1554">7</charParams></formatting></line></par>
+</text>
+</block>
+<block blockType="SeparatorsBox" blockName="" l="970" t="467" r="1106" b="522"><region><rect l="970" t="467" r="1106" b="471"/><rect l="970" t="471" r="1106" b="519"/><rect l="970" t="519" r="1106" b="520"/><rect l="970" t="520" r="1106" b="522"/></region>
+<separatorsBox>
+<separator type="Black" thickness="3"><start x="970" y="468"/><end x="1106" y="469"/>
+</separator>
+<separator type="Black" thickness="3"><start x="970" y="519"/><end x="1106" y="520"/>
+</separator>
+<separator type="Black" thickness="1"><start x="970" y="467"/><end x="970" y="521"/>
+</separator>
+<separator type="Black" thickness="3"><start x="1104" y="467"/><end x="1104" y="521"/>
+</separator>
+</separatorsBox>
+</block>
+<block blockType="Separator" blockName="" l="970" t="579" r="1106" b="583"><region><rect l="970" t="579" r="1081" b="580"/><rect l="970" t="580" r="1106" b="583"/></region>
+<separator type="Black" thickness="3"><start x="970" y="580"/><end x="1106" y="581"/>
+</separator>
+</block>
+<block blockType="Separator" blockName="" l="970" t="631" r="1106" b="634"><region><rect l="970" t="631" r="1073" b="632"/><rect l="970" t="632" r="1106" b="634"/></region>
+<separator type="Black" thickness="3"><start x="970" y="631"/><end x="1106" y="632"/>
+</separator>
+</block>
+<block blockType="Separator" blockName="" l="970" t="691" r="1106" b="695"><region><rect l="970" t="691" r="1061" b="692"/><rect l="970" t="692" r="1106" b="695"/></region>
+<separator type="Black" thickness="3"><start x="970" y="692"/><end x="1106" y="693"/>
+</separator>
+</block>
+<block blockType="Separator" blockName="" l="970" t="743" r="1105" b="746"><region><rect l="970" t="743" r="1057" b="744"/><rect l="970" t="744" r="1105" b="746"/></region>
+<separator type="Black" thickness="3"><start x="970" y="743"/><end x="1105" y="744"/>
+</separator>
+</block>
+<block blockType="Separator" blockName="" l="147" t="1536" r="677" b="1558"><region><rect l="147" t="1536" r="513" b="1537"/><rect l="147" t="1537" r="677" b="1558"/></region>
+<separator type="Black" thickness="22"><start x="147" y="1547"/><end x="677" y="1547"/>
+</separator>
+</block>
+<block blockType="Separator" blockName="" l="171" t="521" r="865" b="522"><region><rect l="171" t="521" r="865" b="522"/></region>
+<separator type="Black" thickness="1"><start x="171" y="521"/><end x="961" y="521"/>
+</separator>
+</block>
+<block blockType="Separator" blockName="" l="171" t="577" r="961" b="579"><region><rect l="171" t="577" r="833" b="578"/><rect l="171" t="578" r="961" b="579"/></region>
+<separator type="Black" thickness="2"><start x="171" y="578"/><end x="961" y="578"/>
+</separator>
+</block>
+<block blockType="Separator" blockName="" l="171" t="633" r="817" b="634"><region><rect l="171" t="633" r="817" b="634"/></region>
+<separator type="Black" thickness="1"><start x="171" y="633"/><end x="961" y="633"/>
+</separator>
+</block>
+<block blockType="Separator" blockName="" l="171" t="689" r="961" b="691"><region><rect l="352" t="689" r="513" b="690"/><rect l="171" t="690" r="961" b="691"/></region>
+<separator type="Black" thickness="2"><start x="171" y="690"/><end x="961" y="690"/>
+</separator>
+</block>
+<block blockType="Separator" blockName="" l="352" t="745" r="513" b="746"><region><rect l="352" t="745" r="513" b="746"/></region>
+<separator type="Black" thickness="1"><start x="171" y="745"/><end x="961" y="745"/>
+</separator>
+</block>
+<block blockType="Separator" blockName="" l="970" t="580" r="971" b="632"><region><rect l="970" t="580" r="971" b="632"/></region>
+<separator type="Black" thickness="1"><start x="970" y="579"/><end x="970" y="632"/>
+</separator>
+</block>
+<block blockType="Separator" blockName="" l="970" t="692" r="971" b="744"><region><rect l="970" t="692" r="971" b="744"/></region>
+<separator type="Black" thickness="1"><start x="970" y="691"/><end x="970" y="744"/>
+</separator>
+</block>
+<block blockType="Separator" blockName="" l="1103" t="580" r="1106" b="633"><region><rect l="1103" t="580" r="1106" b="633"/></region>
+<separator type="Black" thickness="3"><start x="1104" y="579"/><end x="1104" y="633"/>
+</separator>
+</block>
+<block blockType="Separator" blockName="" l="1103" t="692" r="1106" b="745"><region><rect l="1103" t="692" r="1106" b="745"/></region>
+<separator type="Black" thickness="3"><start x="1104" y="691"/><end x="1104" y="745"/>
+</separator>
+</block>
+<block blockType="Separator" blockName="" l="966" t="409" r="968" b="459"><region><rect l="966" t="409" r="968" b="459"/></region>
+<separator type="Black" thickness="2"><start x="967" y="409"/><end x="967" y="459"/>
+</separator>
+</block>
+<block blockType="Picture" blockName="" l="171" t="409" r="1104" b="460"><region><rect l="171" t="409" r="987" b="410"/><rect l="171" t="410" r="1104" b="459"/><rect l="185" t="459" r="1104" b="460"/></region>
+</block>
+<block blockType="Picture" blockName="" l="171" t="469" r="961" b="799"><region><rect l="171" t="469" r="961" b="470"/><rect l="171" t="470" r="961" b="799"/></region>
+</block>
+<block blockType="Picture" blockName="" l="970" t="467" r="1106" b="522"><region><rect l="970" t="467" r="1106" b="522"/></region>
+</block>
+<block blockType="Picture" blockName="" l="167" t="404" r="1110" b="805"><region><rect l="167" t="404" r="989" b="405"/><rect l="167" t="405" r="1110" b="804"/><rect l="171" t="804" r="1110" b="805"/></region>
+</block>
+</page>
+</document>

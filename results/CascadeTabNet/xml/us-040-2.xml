@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document>
+  <table>
+    <Coords points="112,232 1084,550 1084,550 1084,232"/>
+    <cell end-col="0" end-row="0" start-col="0" start-row="0">
+      <Coords points="793,319 793,336 1053,336 1053,319"/>
+    </cell>
+    <cell end-col="0" end-row="1" start-col="0" start-row="1">
+      <Coords points="907,363 907,376 941,376 941,363"/>
+    </cell>
+    <cell end-col="0" end-row="2" start-col="0" start-row="2">
+      <Coords points="909,403 909,416 936,416 936,403"/>
+    </cell>
+    <cell end-col="0" end-row="3" start-col="0" start-row="3">
+      <Coords points="910,443 910,456 936,456 936,443"/>
+    </cell>
+    <cell end-col="0" end-row="4" start-col="0" start-row="4">
+      <Coords points="907,483 907,496 941,496 941,483"/>
+    </cell>
+    <cell end-col="0" end-row="5" start-col="0" start-row="5">
+      <Coords points="907,523 907,536 941,536 941,523"/>
+    </cell>
+  </table>
+</document>

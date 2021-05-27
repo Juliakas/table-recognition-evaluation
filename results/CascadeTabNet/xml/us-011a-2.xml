@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document>
+  <table>
+    <Coords points="150,572 150,1357 1114,1357 1114,572"/>
+    <cell end-col="1" end-row="0" start-col="0" start-row="0">
+      <Coords points="179,589 179,614 279,614 279,589"/>
+    </cell>
+    <cell end-col="1" end-row="1" start-col="0" start-row="1">
+      <Coords points="177,647 177,673 384,673 384,647"/>
+    </cell>
+    <cell end-col="1" end-row="1" start-col="1" start-row="1">
+      <Coords points="976,648 976,672 1048,672 1048,648"/>
+    </cell>
+    <cell end-col="1" end-row="2" start-col="0" start-row="2">
+      <Coords points="177,735 177,760 314,760 314,735"/>
+    </cell>
+    <cell end-col="1" end-row="2" start-col="1" start-row="2">
+      <Coords points="977,737 977,760 1048,760 1048,737"/>
+    </cell>
+    <cell end-col="1" end-row="3" start-col="0" start-row="3">
+      <Coords points="174,794 174,819 812,819 812,794"/>
+    </cell>
+    <cell end-col="1" end-row="3" start-col="1" start-row="3">
+      <Coords points="976,793 976,817 1062,817 1062,793"/>
+    </cell>
+    <cell end-col="1" end-row="4" start-col="0" start-row="4">
+      <Coords points="176,849 176,870 335,870 335,849"/>
+    </cell>
+    <cell end-col="1" end-row="4" start-col="1" start-row="4">
+      <Coords points="977,849 977,916 1062,916 1062,849"/>
+    </cell>
+    <cell end-col="1" end-row="5" start-col="0" start-row="5">
+      <Coords points="176,962 176,985 419,985 419,962"/>
+    </cell>
+    <cell end-col="1" end-row="5" start-col="1" start-row="4">
+      <Coords points="976,916 976,1029 1048,1029 1048,916"/>
+    </cell>
+    <cell end-col="1" end-row="6" start-col="0" start-row="6">
+      <Coords points="177,1074 177,1097 401,1097 401,1074"/>
+    </cell>
+    <cell end-col="1" end-row="6" start-col="1" start-row="5">
+      <Coords points="976,1029 976,1096 1048,1096 1048,1029"/>
+    </cell>
+    <cell end-col="1" end-row="7" start-col="0" start-row="7">
+      <Coords points="174,1129 174,1152 510,1152 510,1129"/>
+    </cell>
+    <cell end-col="1" end-row="7" start-col="1" start-row="7">
+      <Coords points="976,1129 976,1265 1062,1265 1062,1129"/>
+    </cell>
+  </table>
+</document>

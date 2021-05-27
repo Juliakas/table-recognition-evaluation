@@ -1,0 +1,17 @@
+".apie A-3. Example of constructing mean absolute percentage erurs, pars +"
+Year of data
+Source 2007-08 2008-09 2009-10 2010-11
+"Enrollment, in thousands"
+"Actual 49,293 49,266 49,373 49,484"
+"Projected enrollment, in thousands"
+"Projections of Education Statistics to 2017 49,644 49,825 50,067 50,353"
+"Projections of Education Statistics to 2018 49,470 49,623 49,788 50,034"
+"Projections of Education Statistics to 2019 t 49,265 49,312 49,386"
+"Projections of Education Statistics to 2020 t t 49,282 49,306"
+Percentage difference between actual and projected values
+Projections of Education Statistics to 2017 0.7 14 1.4 1.8
+Projections of Education Statistics to 2018 0.4 0.7 0.8 141
+Projections of Education Statistics to 2019 t # -0.1 -0.2
+Projections of Education Statistics to 2020 t t -0.2 -0.4
++ Not applicable.
+4H Dauinde ta zaen

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document>
+  <table>
+    <Coords points="180,929 180,1031 1113,1031 1113,929"/>
+    <cell end-col="0" end-row="0" start-col="0" start-row="0">
+      <Coords points="458,958 458,975 499,975 499,958"/>
+    </cell>
+    <cell end-col="0" end-row="1" start-col="0" start-row="1">
+      <Coords points="449,991 449,1009 507,1009 507,991"/>
+    </cell>
+  </table>
+</document>

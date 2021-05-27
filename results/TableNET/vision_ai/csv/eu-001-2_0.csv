@@ -1,0 +1,23 @@
+0,1,2,3,4,5
+"1,2,3,4,5,6- hexachlorocyclohexane (НCH) Alachlor Aldrin",TH,D,to water,to land kg/year,to lanc
+Atrazine,to air,to water,kg/year,1,kg/year
+Chlordane,kg/year 100,kg/year,10,1,10
+Chlordecone,50,1,1,1,1
+Chlorfenvinphos Chlorpyrifos,1 000,1,1,1,1
+DDT,1 000,1,10,1,10
+Diuron,1,1,1,1,1
+Endosulphan Endrin,"0,1",1,1 000,1,1 000
+Heptachlor Isodrin,10,1,"0,1",1,"0,1"
+Isoproturon Lindane,"0,0001",1,1,1,1
+Mirex,1,1,"0,0001",1,1
+Simazine,10,1,1,1,"0,0001"
+Toxaphene Tributylin and compounds,"0,1",1,"0,1",1,1
+Trifluralin,2 000,1,10,1,"0,1"
+Triphenyltin and compounds,100,1,1,1,10
+Chloi,10,1,1,1,
+"1,1,1-trichloroethane",2 000,1,10,1,
+"1,1,2,2-tetrachloroethane 1,2-dichloroethane (EDC) Brominated diphenylethers (PBDE) Chloro-alkanes, C10-C13 Dichloromethane (DCM) Dieldrin Halogenated Organic Compounds (AOX) Hexabromobifenyl Hexachlorobenzene (HCB) Hexachlorobutadiene (HCBD) PCDD+PCFD (Dioxins+furans) (as Teq)",500,1,10,1,
+Pentachlorobenzene,1 000,1,10,1,
+Pentachlorophenol (PCP) Polychlorinated biphenyls (PCB) Tetrachloroethylene (PER) Tetrachloromethane (TCM) Trichlorobenzenes (TCBS) (all isomers) Trichloroethylene,,1,,,
+Trichloromethane,,,,,
+Vynil chloride,,,,,

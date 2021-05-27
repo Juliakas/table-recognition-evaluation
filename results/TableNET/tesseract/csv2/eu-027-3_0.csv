@@ -1,0 +1,27 @@
+90
+1
+0.28 0.45 0 1
+Rural 0.15 0.36 0 1
+Married 0.57 0.50 0 I
+Single 0.21 0.40 0 1
+Divorced 0.13 0.33 0 1
+Widowed 0.08 0.26 0 1
+Separated 0.03 0.16 0 1
+Partner 0.65 0.48 0 1
+Employed 0.55 0.50 0 I
+Fulltime 0.34 0.47 0 1
+Parttime 0.20 0.40 0 1
+Unemplo: 0.08 0.28 0 1
+Homemaker 0.19 0.40 0 1
+Retired 0.28 0.45 0 1
+Houschold size 2.43 1.22 T 9
+olds with children 0.37 0.48 0 1
+er of children 1.67 1.38 0 8
+education 0.08 0.27 0 I
+ndary education 0.60 0.49 0 1
+"ondary, non tert. education 0.12 0.33 0 1"
+ry education 0.17 0.38 0 1
+Other education 0.03 0.17 0 1
+"old income (Euro/month) 2,127 1389 22 22,500"
+"ith - end of 2007 (Euro) 187,281 384,198 0 7"
+"nancial wealth - end of 2007 (Kuro) 38,855 (114,128 0"

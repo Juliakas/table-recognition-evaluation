@@ -1,0 +1,23 @@
+0,1
+Source,Lead time (years)
+Projections of Education Statistics to 2017 Projections of Education Statistics to 2018 Projections of Education Statistics to 2019 Projections of Education Statistics to 2020,1
+Example,3
+le.,4
+o.,Absolute value of percentage difference between actual and projected values
+,0.7
+,1.1
+,1.4
+,0.4
+,0.7
+,0.8
+,1.1
+,2#
+,0.1
+,0.2
+,0.2
+,0.4
+,Mean absolute percentage error
+,0.2
+,0.5
+,0.7
+,1.3

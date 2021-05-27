@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document>
+  <table>
+    <Coords points="117,184 759,565 759,565 759,184"/>
+    <cell end-col="4" end-row="0" start-col="4" start-row="0">
+      <Coords points="687,218 687,232 735,232 735,218"/>
+    </cell>
+    <cell end-col="4" end-row="1" start-col="4" start-row="1">
+      <Coords points="684,265 684,279 736,279 736,265"/>
+    </cell>
+    <cell end-col="4" end-row="2" start-col="4" start-row="2">
+      <Coords points="684,288 684,302 736,302 736,288"/>
+    </cell>
+    <cell end-col="4" end-row="3" start-col="4" start-row="3">
+      <Coords points="684,311 684,325 736,325 736,311"/>
+    </cell>
+    <cell end-col="4" end-row="4" start-col="4" start-row="4">
+      <Coords points="684,334 684,348 736,348 736,334"/>
+    </cell>
+    <cell end-col="4" end-row="5" start-col="4" start-row="5">
+      <Coords points="684,357 684,371 736,371 736,357"/>
+    </cell>
+    <cell end-col="4" end-row="6" start-col="4" start-row="6">
+      <Coords points="684,380 684,394 736,394 736,380"/>
+    </cell>
+    <cell end-col="4" end-row="7" start-col="4" start-row="7">
+      <Coords points="684,403 684,417 736,417 736,403"/>
+    </cell>
+    <cell end-col="4" end-row="8" start-col="4" start-row="8">
+      <Coords points="684,426 684,440 736,440 736,426"/>
+    </cell>
+    <cell end-col="4" end-row="9" start-col="4" start-row="9">
+      <Coords points="684,449 684,463 736,463 736,449"/>
+    </cell>
+    <cell end-col="4" end-row="10" start-col="4" start-row="10">
+      <Coords points="684,473 684,487 736,487 736,473"/>
+    </cell>
+    <cell end-col="4" end-row="11" start-col="4" start-row="11">
+      <Coords points="684,496 684,510 736,510 736,496"/>
+    </cell>
+    <cell end-col="4" end-row="12" start-col="4" start-row="12">
+      <Coords points="684,519 684,533 736,533 736,519"/>
+    </cell>
+    <cell end-col="4" end-row="13" start-col="4" start-row="13">
+      <Coords points="684,542 684,556 736,556 736,542"/>
+    </cell>
+  </table>
+</document>

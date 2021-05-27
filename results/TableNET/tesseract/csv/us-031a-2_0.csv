@@ -1,0 +1,15 @@
+0,1,2,3,4
+Per cycle fuel savings potential,Med-low,Accel/decel,Speed reduction/,Idle time reductior
+Frequency of opportunity,Med-high,reduction and,optimization,0.5%
+occurrence in general population,Very high,smoothing,8%,2%
+Combined savings opportunity,Med-low,5%,15%,10%
+(per cycle magnitude * frequency,Med-high,15%,35%,30%
+of occurrence),Very high,30%,20%,15%
+,Med-low,30%,15%,5%
+,Med-high,15%,10%,0.2%
+,Very high,8%,1.6%,0.3%
+,Total,1.5%,2.3%,0.5%
+,,2.3%,3.5%,1%
+,,2.4%,7%,
+,,6%,,
+,,,,

@@ -1,0 +1,3233 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<document xmlns="http://www.abbyy.com/FineReader_xml/FineReader10-schema-v1.xml" version="1.0" producer="ABBYY FineReader Engine 12" languages="" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.abbyy.com/FineReader_xml/FineReader10-schema-v1.xml http://www.abbyy.com/FineReader_xml/FineReader10-schema-v1.xml">
+<page width="1275" height="1651" resolution="150" originalCoords="1">
+<block blockType="Text" blockName="" l="86" t="64" r="344" b="102"><region><rect l="311" t="64" r="344" b="65"/><rect l="86" t="65" r="344" b="66"/><rect l="86" t="66" r="344" b="101"/><rect l="86" t="101" r="311" b="102"/></region>
+<text>
+<par lineSpacing="2180">
+<line baseline="100" l="88" t="67" r="341" b="99"><formatting lang="EnglishUnitedStates">
+<charParams l="88" t="69" r="116" b="97">A</charParams>
+<charParams l="121" t="69" r="142" b="98">P</charParams>
+<charParams l="147" t="68" r="169" b="98">P</charParams>
+<charParams l="173" t="69" r="190" b="98">E</charParams>
+<charParams l="196" t="69" r="220" b="98">N</charParams>
+<charParams l="227" t="69" r="252" b="98">D</charParams>
+<charParams l="257" t="69" r="265" b="98">I</charParams>
+<charParams l="270" t="68" r="297" b="98">X</charParams>
+<charParams l="298" t="68" r="312" b="98"> </charParams>
+<charParams l="313" t="68" r="341" b="98">A</charParams></formatting></line></par>
+</text>
+</block>
+<block blockType="Text" blockName="" l="835" t="66" r="1151" b="88"><region><rect l="835" t="66" r="867" b="67"/><rect l="835" t="67" r="1151" b="88"/></region>
+<text>
+<par lineSpacing="1090">
+<line baseline="86" l="838" t="68" r="1147" b="85"><formatting lang="EnglishUnitedStates">
+<charParams l="838" t="69" r="849" b="85">H</charParams>
+<charParams l="853" t="69" r="856" b="85">I</charParams>
+<charParams l="858" t="69" r="875" b="85">G</charParams>
+<charParams l="878" t="69" r="889" b="85">H</charParams>
+<charParams l="893" t="69" r="901" b="85">L</charParams>
+<charParams l="903" t="69" r="905" b="84">I</charParams>
+<charParams l="908" t="69" r="924" b="85">G</charParams>
+<charParams l="927" t="69" r="939" b="84">H</charParams>
+<charParams l="941" t="69" r="950" b="84">T</charParams>
+<charParams l="952" t="68" r="962" b="85">S</charParams>
+<charParams l="963" t="68" r="971" b="85"> </charParams>
+<charParams l="972" t="69" r="980" b="84">F</charParams>
+<charParams l="983" t="69" r="993" b="84">R</charParams>
+<charParams l="996" t="69" r="1011" b="84">O</charParams>
+<charParams l="1014" t="69" r="1031" b="84">M</charParams>
+<charParams l="1032" t="69" r="1040" b="84"> </charParams>
+<charParams l="1041" t="69" r="1051" b="84">P</charParams>
+<charParams l="1054" t="69" r="1056" b="84">I</charParams>
+<charParams l="1060" t="69" r="1070" b="84">R</charParams>
+<charParams l="1073" t="69" r="1081" b="84">L</charParams>
+<charParams l="1083" t="68" r="1092" b="84">S</charParams>
+<charParams l="1093" t="68" r="1101" b="84"> </charParams>
+<charParams l="1102" t="68" r="1112" b="84">2</charParams>
+<charParams l="1114" t="69" r="1125" b="85">0</charParams>
+<charParams l="1129" t="69" r="1134" b="84" suspicious="1">1</charParams>
+<charParams l="1142" t="69" r="1147" b="84" suspicious="1">1</charParams></formatting></line></par>
+</text>
+</block>
+<block blockType="Text" blockName="" l="72" t="158" r="1112" b="211"><region><rect l="315" t="158" r="561" b="159"/><rect l="72" t="159" r="768" b="160"/><rect l="72" t="160" r="1112" b="210"/><rect l="72" t="210" r="1112" b="211"/></region>
+<text>
+<par leftIndent="5200" startIndent="-5200" lineSpacing="1200">
+<line baseline="180" l="75" t="160" r="1108" b="184"><formatting lang="EnglishUnitedStates">
+<charParams l="75" t="163" r="85" b="178">T</charParams>
+<charParams l="84" t="165" r="97" b="178">a</charParams>
+<charParams l="100" t="162" r="112" b="178">b</charParams>
+<charParams l="114" t="162" r="117" b="178">l</charParams>
+<charParams l="119" t="165" r="131" b="178">e</charParams>
+<charParams l="132" t="162" r="138" b="178"> </charParams>
+<charParams l="139" t="162" r="153" b="178">A</charParams>
+<charParams l="154" t="170" r="160" b="174">-</charParams>
+<charParams l="162" t="162" r="168" b="178" suspicious="1">l</charParams>
+<charParams l="169" t="162" r="173" b="178"> </charParams>
+<charParams l="174" t="174" r="177" b="178">.</charParams>
+<charParams l="182" t="162" r="197" b="178">C</charParams>
+<charParams l="199" t="166" r="211" b="178">o</charParams>
+<charParams l="213" t="166" r="223" b="177">v</charParams>
+<charParams l="224" t="165" r="236" b="177">e</charParams>
+<charParams l="238" t="166" r="244" b="177">r</charParams>
+<charParams l="245" t="165" r="257" b="177">a</charParams>
+<charParams l="260" t="166" r="272" b="182">g</charParams>
+<charParams l="274" t="166" r="286" b="178">e</charParams>
+<charParams l="287" t="166" r="293" b="178"> </charParams>
+<charParams l="294" t="165" r="306" b="178">o</charParams>
+<charParams l="307" t="162" r="313" b="177">f</charParams>
+<charParams l="314" t="162" r="319" b="177"> </charParams>
+<charParams l="320" t="162" r="327" b="177">t</charParams>
+<charParams l="328" t="166" r="340" b="178">a</charParams>
+<charParams l="343" t="166" r="349" b="178">r</charParams>
+<charParams l="350" t="166" r="362" b="183">g</charParams>
+<charParams l="364" t="166" r="376" b="178">e</charParams>
+<charParams l="377" t="163" r="384" b="178">t</charParams>
+<charParams l="385" t="163" r="391" b="182"> </charParams>
+<charParams l="392" t="166" r="404" b="182">p</charParams>
+<charParams l="406" t="166" r="418" b="178">o</charParams>
+<charParams l="420" t="166" r="432" b="182">p</charParams>
+<charParams l="435" t="166" r="445" b="178">u</charParams>
+<charParams l="448" t="162" r="451" b="178">l</charParams>
+<charParams l="453" t="166" r="466" b="178">a</charParams>
+<charParams l="467" t="162" r="474" b="178">t</charParams>
+<charParams l="475" t="162" r="479" b="178">i</charParams>
+<charParams l="481" t="166" r="493" b="178">o</charParams>
+<charParams l="496" t="166" r="506" b="178">n</charParams>
+<charParams l="508" t="166" r="517" b="178">s</charParams>
+<charParams l="518" t="174" r="522" b="179">,</charParams>
+<charParams l="523" t="166" r="528" b="179"> </charParams>
+<charParams l="529" t="166" r="537" b="178">s</charParams>
+<charParams l="539" t="166" r="551" b="178">c</charParams>
+<charParams l="553" t="162" r="563" b="177">h</charParams>
+<charParams l="566" t="166" r="577" b="178">o</charParams>
+<charParams l="580" t="166" r="592" b="178">o</charParams>
+<charParams l="594" t="162" r="597" b="177">l</charParams>
+<charParams l="598" t="162" r="605" b="181"> </charParams>
+<charParams l="606" t="166" r="618" b="181">p</charParams>
+<charParams l="620" t="166" r="633" b="177">a</charParams>
+<charParams l="635" t="166" r="642" b="177">r</charParams>
+<charParams l="642" t="162" r="649" b="177">t</charParams>
+<charParams l="651" t="162" r="654" b="177">i</charParams>
+<charParams l="656" t="165" r="668" b="177">c</charParams>
+<charParams l="670" t="162" r="674" b="177">i</charParams>
+<charParams l="676" t="165" r="688" b="181">p</charParams>
+<charParams l="690" t="166" r="703" b="178">a</charParams>
+<charParams l="704" t="163" r="711" b="178">t</charParams>
+<charParams l="713" t="162" r="716" b="178">i</charParams>
+<charParams l="718" t="166" r="730" b="178">o</charParams>
+<charParams l="732" t="166" r="743" b="178">n</charParams>
+<charParams l="744" t="166" r="751" b="178"> </charParams>
+<charParams l="752" t="166" r="758" b="178">r</charParams>
+<charParams l="759" t="166" r="771" b="178">a</charParams>
+<charParams l="773" t="162" r="780" b="177">t</charParams>
+<charParams l="780" t="166" r="792" b="178">e</charParams>
+<charParams l="794" t="166" r="803" b="178">s</charParams>
+<charParams l="804" t="174" r="808" b="179">,</charParams>
+<charParams l="809" t="165" r="813" b="179"> </charParams>
+<charParams l="814" t="165" r="827" b="177">a</charParams>
+<charParams l="830" t="165" r="840" b="177">n</charParams>
+<charParams l="842" t="162" r="854" b="177">d</charParams>
+<charParams l="855" t="163" r="862" b="177"> </charParams>
+<charParams l="863" t="166" r="872" b="177">s</charParams>
+<charParams l="873" t="162" r="880" b="178">t</charParams>
+<charParams l="881" t="166" r="892" b="178">u</charParams>
+<charParams l="894" t="163" r="906" b="178">d</charParams>
+<charParams l="909" t="166" r="920" b="177">e</charParams>
+<charParams l="922" t="165" r="933" b="177">n</charParams>
+<charParams l="935" t="163" r="941" b="177">t</charParams>
+<charParams l="942" t="162" r="948" b="177"> </charParams>
+<charParams l="949" t="165" r="955" b="177">r</charParams>
+<charParams l="956" t="165" r="968" b="177">e</charParams>
+<charParams l="970" t="165" r="978" b="177">s</charParams>
+<charParams l="981" t="165" r="993" b="181">p</charParams>
+<charParams l="995" t="165" r="1007" b="177">o</charParams>
+<charParams l="1009" t="165" r="1020" b="177">n</charParams>
+<charParams l="1022" t="165" r="1030" b="177">s</charParams>
+<charParams l="1032" t="165" r="1044" b="177">e</charParams>
+<charParams l="1045" t="165" r="1051" b="177"> </charParams>
+<charParams l="1052" t="166" r="1058" b="177">r</charParams>
+<charParams l="1059" t="165" r="1071" b="178">a</charParams>
+<charParams l="1073" t="162" r="1080" b="177">t</charParams>
+<charParams l="1081" t="166" r="1093" b="178">e</charParams>
+<charParams l="1094" t="166" r="1103" b="178">s</charParams>
+<charParams l="1104" t="174" r="1108" b="179">,</charParams></formatting></line>
+<line baseline="205" l="184" t="186" r="465" b="207"><formatting lang="EnglishUnitedStates">
+<charParams l="184" t="187" r="197" b="203">b</charParams>
+<charParams l="198" t="191" r="208" b="206">y</charParams>
+<charParams l="209" t="190" r="215" b="206"> </charParams>
+<charParams l="216" t="190" r="228" b="202">e</charParams>
+<charParams l="230" t="187" r="242" b="202">d</charParams>
+<charParams l="245" t="191" r="255" b="202">u</charParams>
+<charParams l="257" t="190" r="269" b="202">c</charParams>
+<charParams l="271" t="191" r="284" b="203">a</charParams>
+<charParams l="285" t="187" r="292" b="203">t</charParams>
+<charParams l="294" t="188" r="297" b="203">i</charParams>
+<charParams l="299" t="190" r="311" b="203">o</charParams>
+<charParams l="313" t="191" r="324" b="202">n</charParams>
+<charParams l="325" t="191" r="331" b="203"> </charParams>
+<charParams l="332" t="191" r="341" b="203">s</charParams>
+<charParams l="343" t="191" r="353" b="206">y</charParams>
+<charParams l="355" t="191" r="364" b="203">s</charParams>
+<charParams l="365" t="187" r="371" b="202">t</charParams>
+<charParams l="372" t="191" r="384" b="203">e</charParams>
+<charParams l="386" t="191" r="404" b="203">m</charParams>
+<charParams l="407" t="191" r="410" b="203">:</charParams>
+<charParams l="411" t="187" r="417" b="203"> </charParams>
+<charParams l="418" t="187" r="429" b="203">2</charParams>
+<charParams l="431" t="187" r="442" b="203">0</charParams>
+<charParams l="445" t="187" r="451" b="203" suspicious="1">1</charParams>
+<charParams l="458" t="187" r="465" b="203" suspicious="1">1</charParams></formatting></line></par>
+</text>
+</block>
+<block blockType="Text" blockName="" l="77" t="1338" r="254" b="1356"><region><rect l="77" t="1338" r="254" b="1339"/><rect l="77" t="1339" r="254" b="1356"/></region>
+<text>
+<par lineSpacing="800">
+<line baseline="1352" l="80" t="1340" r="250" b="1353"><formatting lang="EnglishUnitedStates">
+<charParams l="80" t="1341" r="89" b="1352">S</charParams>
+<charParams l="90" t="1343" r="97" b="1352">e</charParams>
+<charParams l="98" t="1343" r="106" b="1352">e</charParams>
+<charParams l="107" t="1343" r="110" b="1352"> </charParams>
+<charParams l="111" t="1343" r="118" b="1351">n</charParams>
+<charParams l="119" t="1343" r="127" b="1352">o</charParams>
+<charParams l="127" t="1341" r="131" b="1352">t</charParams>
+<charParams l="132" t="1343" r="139" b="1352">e</charParams>
+<charParams l="140" t="1343" r="147" b="1352">s</charParams>
+<charParams l="148" t="1343" r="151" b="1352"> </charParams>
+<charParams l="152" t="1343" r="159" b="1352">a</charParams>
+<charParams l="160" t="1342" r="164" b="1352">t</charParams>
+<charParams l="165" t="1342" r="168" b="1352"> </charParams>
+<charParams l="169" t="1343" r="176" b="1352">e</charParams>
+<charParams l="177" t="1343" r="184" b="1352">n</charParams>
+<charParams l="185" t="1341" r="193" b="1352">d</charParams>
+<charParams l="194" t="1341" r="197" b="1352"> </charParams>
+<charParams l="198" t="1343" r="206" b="1352">o</charParams>
+<charParams l="206" t="1340" r="211" b="1351">f</charParams>
+<charParams l="212" t="1340" r="214" b="1351"> </charParams>
+<charParams l="215" t="1341" r="218" b="1351">t</charParams>
+<charParams l="219" t="1343" r="226" b="1352">a</charParams>
+<charParams l="228" t="1340" r="235" b="1352">b</charParams>
+<charParams l="236" t="1341" r="238" b="1351">l</charParams>
+<charParams l="239" t="1343" r="247" b="1352">e</charParams>
+<charParams l="248" t="1350" r="250" b="1352">.</charParams></formatting></line></par>
+</text>
+</block>
+<block blockType="Table" blockName="" l="72" t="214" r="1167" b="1339"><region><rect l="390" t="214" r="1167" b="215"/><rect l="72" t="215" r="1167" b="216"/><rect l="72" t="216" r="1167" b="1335"/><rect l="72" t="1335" r="1063" b="1336"/><rect l="72" t="1336" r="932" b="1337"/><rect l="72" t="1337" r="395" b="1338"/><rect l="72" t="1338" r="262" b="1339"/></region>
+<row>
+<cell leftBorder="White" rightBorder="White" width="199" height="103">
+<text>
+<par lineSpacing="800">
+<line baseline="312" l="80" t="299" r="206" b="315"><formatting lang="EnglishUnitedStates">
+<charParams l="80" t="299" r="89" b="311">E</charParams>
+<charParams l="91" t="299" r="98" b="311">d</charParams>
+<charParams l="100" t="302" r="107" b="311">u</charParams>
+<charParams l="108" t="302" r="116" b="311">c</charParams>
+<charParams l="116" t="302" r="124" b="311">a</charParams>
+<charParams l="125" t="299" r="130" b="311">t</charParams>
+<charParams l="130" t="299" r="132" b="310">i</charParams>
+<charParams l="133" t="302" r="142" b="311">o</charParams>
+<charParams l="143" t="302" r="150" b="310">n</charParams>
+<charParams l="151" t="301" r="155" b="311"> </charParams>
+<charParams l="156" t="301" r="163" b="311">s</charParams>
+<charParams l="164" t="302" r="171" b="314">y</charParams>
+<charParams l="172" t="301" r="179" b="310">s</charParams>
+<charParams l="180" t="299" r="184" b="311">t</charParams>
+<charParams l="185" t="301" r="193" b="311">e</charParams>
+<charParams l="194" t="302" r="206" b="311">m</charParams></formatting></line></par>
+</text></cell>
+<cell leftBorder="White" rightBorder="White" width="175" height="103">
+<text>
+<par align="Right" leftIndent="1200" lineSpacing="928">
+<line baseline="256" l="335" t="240" r="435" b="257"><formatting lang="EnglishUnitedStates">
+<charParams l="335" t="240" r="344" b="252">P</charParams>
+<charParams l="345" t="243" r="353" b="252">e</charParams>
+<charParams l="355" t="243" r="359" b="252">r</charParams>
+<charParams l="360" t="243" r="367" b="252">c</charParams>
+<charParams l="367" t="243" r="376" b="253">e</charParams>
+<charParams l="377" t="244" r="385" b="252">n</charParams>
+<charParams l="386" t="242" r="390" b="252">t</charParams>
+<charParams l="390" t="244" r="398" b="253">a</charParams>
+<charParams l="399" t="244" r="407" b="256">g</charParams>
+<charParams l="408" t="244" r="416" b="253">e</charParams>
+<charParams l="417" t="244" r="421" b="253"> </charParams>
+<charParams l="422" t="244" r="430" b="253">o</charParams>
+<charParams l="430" t="241" r="435" b="253">f</charParams></formatting></line>
+<line baseline="275" l="348" t="259" r="434" b="273"><formatting lang="EnglishUnitedStates">
+<charParams l="348" t="260" r="350" b="272">i</charParams>
+<charParams l="351" t="263" r="359" b="272">n</charParams>
+<charParams l="360" t="260" r="364" b="272">t</charParams>
+<charParams l="364" t="262" r="372" b="272">e</charParams>
+<charParams l="374" t="262" r="386" b="272">r</charParams>
+<charParams l="374" t="262" r="386" b="272">n</charParams>
+<charParams l="388" t="262" r="395" b="272">a</charParams>
+<charParams l="397" t="260" r="400" b="271">t</charParams>
+<charParams l="401" t="260" r="404" b="271">i</charParams>
+<charParams l="404" t="262" r="413" b="272">o</charParams>
+<charParams l="414" t="262" r="421" b="271">n</charParams>
+<charParams l="423" t="262" r="431" b="272">a</charParams>
+<charParams l="432" t="260" r="434" b="271">l</charParams></formatting></line>
+<line baseline="294" l="303" t="279" r="434" b="295"><formatting lang="EnglishUnitedStates">
+<charParams l="303" t="280" r="311" b="292">d</charParams>
+<charParams l="312" t="283" r="320" b="292">e</charParams>
+<charParams l="321" t="283" r="328" b="292">s</charParams>
+<charParams l="330" t="280" r="332" b="292">i</charParams>
+<charParams l="333" t="283" r="338" b="292">r</charParams>
+<charParams l="338" t="283" r="347" b="292">e</charParams>
+<charParams l="347" t="280" r="355" b="292">d</charParams>
+<charParams l="356" t="280" r="360" b="295"> </charParams>
+<charParams l="361" t="283" r="369" b="295">p</charParams>
+<charParams l="369" t="283" r="378" b="292">o</charParams>
+<charParams l="379" t="283" r="387" b="295">p</charParams>
+<charParams l="388" t="283" r="395" b="292">u</charParams>
+<charParams l="397" t="280" r="399" b="292">l</charParams>
+<charParams l="400" t="282" r="408" b="292">a</charParams>
+<charParams l="409" t="280" r="413" b="292">t</charParams>
+<charParams l="414" t="279" r="416" b="291">i</charParams>
+<charParams l="417" t="282" r="425" b="292">o</charParams>
+<charParams l="427" t="282" r="434" b="291">n</charParams></formatting></line>
+<line baseline="314" l="369" t="301" r="434" b="314"><formatting lang="EnglishUnitedStates">
+<charParams l="369" t="302" r="377" b="311">c</charParams>
+<charParams l="377" t="302" r="385" b="311">o</charParams>
+<charParams l="386" t="302" r="393" b="311">v</charParams>
+<charParams l="394" t="302" r="402" b="311">e</charParams>
+<charParams l="403" t="302" r="408" b="311">r</charParams>
+<charParams l="408" t="302" r="416" b="311">a</charParams>
+<charParams l="417" t="301" r="425" b="314">g</charParams>
+<charParams l="426" t="301" r="434" b="311">e</charParams></formatting></line></par>
+</text></cell>
+<cell leftBorder="White" rightBorder="White" width="141" height="103">
+<text>
+<par align="Right" lineSpacing="936">
+<line baseline="275" l="463" t="260" r="578" b="272"><formatting lang="EnglishUnitedStates">
+<charParams l="463" t="260" r="473" b="272">N</charParams>
+<charParams l="474" t="263" r="482" b="272">a</charParams>
+<charParams l="483" t="261" r="487" b="272">t</charParams>
+<charParams l="488" t="260" r="490" b="271">i</charParams>
+<charParams l="491" t="263" r="500" b="272">o</charParams>
+<charParams l="501" t="263" r="508" b="271">n</charParams>
+<charParams l="509" t="263" r="517" b="272">a</charParams>
+<charParams l="519" t="260" r="520" b="271">l</charParams>
+<charParams l="521" t="260" r="525" b="272"> </charParams>
+<charParams l="526" t="260" r="534" b="272">d</charParams>
+<charParams l="535" t="263" r="543" b="272">e</charParams>
+<charParams l="544" t="263" r="551" b="272">s</charParams>
+<charParams l="553" t="260" r="555" b="272">i</charParams>
+<charParams l="556" t="263" r="561" b="272">r</charParams>
+<charParams l="561" t="263" r="569" b="272">e</charParams>
+<charParams l="570" t="260" r="578" b="272">d</charParams></formatting></line>
+<line baseline="295" l="453" t="280" r="578" b="295"><formatting lang="EnglishUnitedStates">
+<charParams l="453" t="283" r="461" b="295">p</charParams>
+<charParams l="461" t="283" r="470" b="292">o</charParams>
+<charParams l="471" t="283" r="479" b="295">p</charParams>
+<charParams l="480" t="283" r="487" b="292">u</charParams>
+<charParams l="489" t="280" r="491" b="291">l</charParams>
+<charParams l="492" t="283" r="500" b="292">a</charParams>
+<charParams l="501" t="281" r="505" b="292">t</charParams>
+<charParams l="506" t="280" r="508" b="291">i</charParams>
+<charParams l="509" t="283" r="517" b="292">o</charParams>
+<charParams l="518" t="283" r="526" b="292">n</charParams>
+<charParams l="527" t="283" r="531" b="292"> </charParams>
+<charParams l="532" t="283" r="540" b="292">o</charParams>
+<charParams l="540" t="283" r="548" b="292">v</charParams>
+<charParams l="549" t="283" r="557" b="292">e</charParams>
+<charParams l="558" t="283" r="563" b="291">r</charParams>
+<charParams l="563" t="283" r="571" b="292">a</charParams>
+<charParams l="572" t="280" r="575" b="291">l</charParams>
+<charParams l="576" t="280" r="578" b="291">l</charParams></formatting></line>
+<line baseline="314" l="480" t="299" r="578" b="311"><formatting lang="EnglishUnitedStates">
+<charParams l="480" t="302" r="488" b="311">e</charParams>
+<charParams l="488" t="302" r="496" b="311">x</charParams>
+<charParams l="497" t="302" r="505" b="311">c</charParams>
+<charParams l="505" t="299" r="507" b="310">l</charParams>
+<charParams l="509" t="302" r="516" b="311">u</charParams>
+<charParams l="518" t="302" r="525" b="311">s</charParams>
+<charParams l="526" t="299" r="528" b="311">i</charParams>
+<charParams l="529" t="302" r="537" b="311">o</charParams>
+<charParams l="538" t="302" r="546" b="311">n</charParams>
+<charParams l="547" t="302" r="551" b="311"> </charParams>
+<charParams l="552" t="302" r="556" b="311">r</charParams>
+<charParams l="557" t="302" r="565" b="311">a</charParams>
+<charParams l="566" t="300" r="570" b="311">t</charParams>
+<charParams l="570" t="302" r="578" b="311">e</charParams></formatting></line></par>
+</text></cell>
+<cell leftBorder="White" rightBorder="White" width="149" height="103">
+<text>
+<par align="Right" lineSpacing="912">
+<line baseline="275" l="604" t="260" r="721" b="275"><formatting lang="EnglishUnitedStates">
+<charParams l="604" t="260" r="619" b="272">W</charParams>
+<charParams l="619" t="263" r="627" b="272">e</charParams>
+<charParams l="628" t="260" r="631" b="271">i</charParams>
+<charParams l="632" t="263" r="639" b="275">g</charParams>
+<charParams l="641" t="260" r="648" b="271">h</charParams>
+<charParams l="650" t="260" r="654" b="272">t</charParams>
+<charParams l="654" t="263" r="662" b="272">e</charParams>
+<charParams l="662" t="260" r="671" b="272">d</charParams>
+<charParams l="671" t="260" r="676" b="272"> </charParams>
+<charParams l="676" t="263" r="683" b="272">s</charParams>
+<charParams l="684" t="262" r="691" b="272">c</charParams>
+<charParams l="692" t="260" r="699" b="271">h</charParams>
+<charParams l="701" t="262" r="709" b="272">o</charParams>
+<charParams l="709" t="262" r="718" b="272">o</charParams>
+<charParams l="719" t="260" r="721" b="271">l</charParams></formatting></line>
+<line baseline="294" l="604" t="280" r="721" b="295"><formatting lang="EnglishUnitedStates">
+<charParams l="604" t="283" r="612" b="295">p</charParams>
+<charParams l="613" t="283" r="621" b="292">a</charParams>
+<charParams l="622" t="283" r="627" b="292">r</charParams>
+<charParams l="627" t="281" r="631" b="292">t</charParams>
+<charParams l="632" t="280" r="634" b="291">i</charParams>
+<charParams l="635" t="283" r="642" b="292">c</charParams>
+<charParams l="643" t="280" r="645" b="291">i</charParams>
+<charParams l="646" t="283" r="654" b="295">p</charParams>
+<charParams l="655" t="283" r="663" b="292">a</charParams>
+<charParams l="664" t="280" r="668" b="292">t</charParams>
+<charParams l="669" t="280" r="671" b="291">i</charParams>
+<charParams l="672" t="283" r="680" b="292">o</charParams>
+<charParams l="681" t="283" r="689" b="291">n</charParams>
+<charParams l="690" t="283" r="694" b="291"> </charParams>
+<charParams l="695" t="283" r="699" b="291">r</charParams>
+<charParams l="700" t="283" r="708" b="292">a</charParams>
+<charParams l="709" t="280" r="713" b="292">t</charParams>
+<charParams l="713" t="283" r="721" b="292">e</charParams></formatting></line>
+<line baseline="313" l="592" t="299" r="721" b="311"><formatting lang="EnglishUnitedStates">
+<charParams l="592" t="299" r="600" b="311">b</charParams>
+<charParams l="600" t="302" r="608" b="311">e</charParams>
+<charParams l="609" t="299" r="614" b="310">f</charParams>
+<charParams l="614" t="302" r="622" b="311">o</charParams>
+<charParams l="623" t="302" r="628" b="310">r</charParams>
+<charParams l="628" t="302" r="636" b="311">e</charParams>
+<charParams l="637" t="302" r="641" b="311"> </charParams>
+<charParams l="641" t="302" r="648" b="311">s</charParams>
+<charParams l="649" t="302" r="656" b="311">u</charParams>
+<charParams l="658" t="299" r="666" b="311">b</charParams>
+<charParams l="667" t="302" r="674" b="311">s</charParams>
+<charParams l="675" t="299" r="679" b="311">t</charParams>
+<charParams l="679" t="299" r="682" b="310">i</charParams>
+<charParams l="682" t="299" r="687" b="311">t</charParams>
+<charParams l="687" t="302" r="695" b="311">u</charParams>
+<charParams l="696" t="299" r="701" b="311">t</charParams>
+<charParams l="701" t="299" r="703" b="310">i</charParams>
+<charParams l="704" t="302" r="713" b="311">o</charParams>
+<charParams l="714" t="302" r="721" b="310">n</charParams></formatting></line></par>
+</text></cell>
+<cell leftBorder="White" rightBorder="White" width="142" height="103">
+<text>
+<par align="Justified" lineSpacing="936">
+<line baseline="274" l="747" t="259" r="865" b="276"><formatting lang="EnglishUnitedStates">
+<charParams l="747" t="259" r="762" b="271">W</charParams>
+<charParams l="762" t="263" r="770" b="272">e</charParams>
+<charParams l="772" t="260" r="774" b="272">i</charParams>
+<charParams l="775" t="263" r="782" b="276">g</charParams>
+<charParams l="784" t="260" r="791" b="272">h</charParams>
+<charParams l="793" t="261" r="797" b="272">t</charParams>
+<charParams l="797" t="263" r="805" b="272">e</charParams>
+<charParams l="806" t="260" r="814" b="272">d</charParams>
+<charParams l="815" t="260" r="819" b="272"> </charParams>
+<charParams l="820" t="263" r="827" b="272">s</charParams>
+<charParams l="828" t="263" r="836" b="272">c</charParams>
+<charParams l="836" t="260" r="844" b="272">h</charParams>
+<charParams l="845" t="263" r="853" b="272">o</charParams>
+<charParams l="853" t="263" r="862" b="272">o</charParams>
+<charParams l="863" t="260" r="865" b="272">l</charParams></formatting></line>
+<line baseline="294" l="747" t="279" r="865" b="295"><formatting lang="EnglishUnitedStates">
+<charParams l="747" t="282" r="755" b="294">p</charParams>
+<charParams l="756" t="282" r="764" b="292">a</charParams>
+<charParams l="765" t="282" r="770" b="291">r</charParams>
+<charParams l="770" t="280" r="774" b="291">t</charParams>
+<charParams l="775" t="279" r="777" b="291">i</charParams>
+<charParams l="778" t="282" r="786" b="291">c</charParams>
+<charParams l="787" t="280" r="789" b="292">i</charParams>
+<charParams l="790" t="283" r="798" b="295">p</charParams>
+<charParams l="799" t="283" r="807" b="292">a</charParams>
+<charParams l="808" t="281" r="812" b="292">t</charParams>
+<charParams l="813" t="280" r="815" b="292">i</charParams>
+<charParams l="816" t="283" r="824" b="292">o</charParams>
+<charParams l="825" t="283" r="833" b="292">n</charParams>
+<charParams l="834" t="283" r="838" b="292"> </charParams>
+<charParams l="839" t="283" r="844" b="292">r</charParams>
+<charParams l="844" t="283" r="852" b="292">a</charParams>
+<charParams l="853" t="281" r="857" b="292">t</charParams>
+<charParams l="857" t="283" r="865" b="292">e</charParams></formatting></line>
+<line baseline="313" l="748" t="298" r="865" b="312"><formatting lang="EnglishUnitedStates">
+<charParams l="748" t="301" r="756" b="311">a</charParams>
+<charParams l="757" t="298" r="761" b="310">f</charParams>
+<charParams l="761" t="299" r="765" b="310">t</charParams>
+<charParams l="766" t="301" r="774" b="311">e</charParams>
+<charParams l="775" t="301" r="780" b="310">r</charParams>
+<charParams l="781" t="301" r="784" b="311"> </charParams>
+<charParams l="785" t="301" r="792" b="311">s</charParams>
+<charParams l="793" t="302" r="800" b="311">u</charParams>
+<charParams l="802" t="299" r="810" b="311">b</charParams>
+<charParams l="811" t="302" r="818" b="311">s</charParams>
+<charParams l="819" t="300" r="823" b="311">t</charParams>
+<charParams l="823" t="299" r="826" b="311">i</charParams>
+<charParams l="827" t="300" r="831" b="311">t</charParams>
+<charParams l="831" t="302" r="839" b="311">u</charParams>
+<charParams l="840" t="300" r="844" b="311">t</charParams>
+<charParams l="845" t="299" r="847" b="311">i</charParams>
+<charParams l="848" t="302" r="857" b="311">o</charParams>
+<charParams l="858" t="302" r="865" b="311">n</charParams></formatting></line></par>
+</text></cell>
+<cell leftBorder="White" rightBorder="White" width="149" height="103">
+<text>
+<par align="Right" lineSpacing="912">
+<line baseline="295" l="885" t="279" r="1010" b="296"><formatting lang="EnglishUnitedStates">
+<charParams l="885" t="280" r="900" b="292">W</charParams>
+<charParams l="900" t="283" r="908" b="292">e</charParams>
+<charParams l="909" t="280" r="911" b="292">i</charParams>
+<charParams l="912" t="283" r="920" b="296">g</charParams>
+<charParams l="922" t="279" r="929" b="291">h</charParams>
+<charParams l="930" t="280" r="934" b="292">t</charParams>
+<charParams l="935" t="283" r="943" b="292">e</charParams>
+<charParams l="944" t="280" r="952" b="292">d</charParams>
+<charParams l="953" t="280" r="957" b="292"> </charParams>
+<charParams l="958" t="283" r="965" b="292">s</charParams>
+<charParams l="965" t="281" r="969" b="292">t</charParams>
+<charParams l="970" t="283" r="978" b="292">u</charParams>
+<charParams l="979" t="280" r="987" b="292">d</charParams>
+<charParams l="988" t="283" r="996" b="292">e</charParams>
+<charParams l="997" t="283" r="1005" b="292">n</charParams>
+<charParams l="1006" t="281" r="1010" b="292">t</charParams></formatting></line>
+<line baseline="314" l="912" t="300" r="1009" b="314"><formatting lang="EnglishUnitedStates">
+<charParams l="912" t="301" r="917" b="310">r</charParams>
+<charParams l="917" t="301" r="925" b="311">e</charParams>
+<charParams l="926" t="302" r="933" b="311">s</charParams>
+<charParams l="934" t="302" r="942" b="314">p</charParams>
+<charParams l="943" t="302" r="951" b="311">o</charParams>
+<charParams l="952" t="302" r="960" b="311">n</charParams>
+<charParams l="961" t="302" r="968" b="311">s</charParams>
+<charParams l="969" t="302" r="977" b="311">e</charParams>
+<charParams l="978" t="302" r="982" b="311"> </charParams>
+<charParams l="983" t="302" r="987" b="311">r</charParams>
+<charParams l="988" t="302" r="996" b="311">a</charParams>
+<charParams l="997" t="300" r="1001" b="311">t</charParams>
+<charParams l="1001" t="302" r="1009" b="311">e</charParams></formatting></line></par>
+</text></cell>
+<cell leftBorder="White" rightBorder="White" width="141" height="103">
+<text>
+<par align="Right" lineSpacing="948">
+<line baseline="236" l="1081" t="220" r="1153" b="233"><formatting lang="EnglishUnitedStates">
+<charParams l="1081" t="220" r="1092" b="233">C</charParams>
+<charParams l="1092" t="224" r="1101" b="233">o</charParams>
+<charParams l="1102" t="224" r="1114" b="233">m</charParams>
+<charParams l="1115" t="221" r="1123" b="233">b</charParams>
+<charParams l="1124" t="221" r="1126" b="233">i</charParams>
+<charParams l="1128" t="224" r="1135" b="233">n</charParams>
+<charParams l="1137" t="224" r="1145" b="233">e</charParams>
+<charParams l="1145" t="221" r="1153" b="233">d</charParams></formatting></line>
+<line baseline="256" l="1038" t="241" r="1153" b="256"><formatting lang="EnglishUnitedStates">
+<charParams l="1038" t="244" r="1050" b="252">w</charParams>
+<charParams l="1050" t="244" r="1058" b="253">e</charParams>
+<charParams l="1060" t="241" r="1062" b="253">i</charParams>
+<charParams l="1063" t="244" r="1070" b="256">g</charParams>
+<charParams l="1072" t="241" r="1080" b="253">h</charParams>
+<charParams l="1081" t="242" r="1085" b="253">t</charParams>
+<charParams l="1085" t="244" r="1093" b="253">e</charParams>
+<charParams l="1094" t="241" r="1102" b="253">d</charParams>
+<charParams l="1103" t="241" r="1107" b="253"> </charParams>
+<charParams l="1108" t="244" r="1115" b="252">s</charParams>
+<charParams l="1116" t="244" r="1123" b="253">c</charParams>
+<charParams l="1124" t="241" r="1132" b="252">h</charParams>
+<charParams l="1133" t="243" r="1141" b="253">o</charParams>
+<charParams l="1142" t="243" r="1150" b="253">o</charParams>
+<charParams l="1151" t="241" r="1153" b="252">l</charParams></formatting></line>
+<line baseline="276" l="1068" t="259" r="1153" b="276"><formatting lang="EnglishUnitedStates">
+<charParams l="1068" t="263" r="1075" b="275">p</charParams>
+<charParams l="1076" t="263" r="1084" b="272">a</charParams>
+<charParams l="1086" t="262" r="1090" b="271">r</charParams>
+<charParams l="1090" t="260" r="1095" b="271">t</charParams>
+<charParams l="1095" t="259" r="1097" b="271">i</charParams>
+<charParams l="1099" t="262" r="1107" b="272">c</charParams>
+<charParams l="1107" t="259" r="1109" b="271">i</charParams>
+<charParams l="1111" t="263" r="1118" b="275">p</charParams>
+<charParams l="1119" t="263" r="1127" b="272">a</charParams>
+<charParams l="1128" t="260" r="1133" b="272">t</charParams>
+<charParams l="1133" t="260" r="1135" b="272">i</charParams>
+<charParams l="1136" t="263" r="1145" b="272">o</charParams>
+<charParams l="1146" t="263" r="1153" b="272">n</charParams></formatting></line>
+<line baseline="296" l="1070" t="280" r="1154" b="292"><formatting lang="EnglishUnitedStates">
+<charParams l="1070" t="282" r="1078" b="292">a</charParams>
+<charParams l="1079" t="283" r="1087" b="291">n</charParams>
+<charParams l="1088" t="280" r="1096" b="292">d</charParams>
+<charParams l="1097" t="280" r="1101" b="292"> </charParams>
+<charParams l="1102" t="283" r="1109" b="292">s</charParams>
+<charParams l="1109" t="281" r="1114" b="292">t</charParams>
+<charParams l="1114" t="283" r="1122" b="292">u</charParams>
+<charParams l="1123" t="280" r="1131" b="292">d</charParams>
+<charParams l="1132" t="283" r="1140" b="292">e</charParams>
+<charParams l="1141" t="283" r="1149" b="292">n</charParams>
+<charParams l="1150" t="281" r="1154" b="292">t</charParams></formatting></line>
+<line baseline="315" l="1056" t="300" r="1154" b="314"><formatting lang="EnglishUnitedStates">
+<charParams l="1056" t="301" r="1061" b="310">r</charParams>
+<charParams l="1061" t="302" r="1069" b="311">e</charParams>
+<charParams l="1070" t="302" r="1077" b="311">s</charParams>
+<charParams l="1078" t="302" r="1086" b="314">p</charParams>
+<charParams l="1087" t="302" r="1095" b="311">o</charParams>
+<charParams l="1096" t="302" r="1104" b="311">n</charParams>
+<charParams l="1105" t="302" r="1112" b="311">s</charParams>
+<charParams l="1113" t="302" r="1121" b="311">e</charParams>
+<charParams l="1122" t="302" r="1126" b="310"> </charParams>
+<charParams l="1127" t="302" r="1132" b="310">r</charParams>
+<charParams l="1132" t="302" r="1140" b="311">a</charParams>
+<charParams l="1141" t="300" r="1145" b="310">t</charParams>
+<charParams l="1146" t="302" r="1154" b="311">e</charParams></formatting></line></par>
+</text></cell></row>
+<row>
+<cell leftBorder="White" rightBorder="White" bottomBorder="White" width="199" height="22">
+<text>
+<par lineSpacing="800">
+<line baseline="337" l="79" t="322" r="141" b="335"><formatting lang="EnglishUnitedStates">
+<charParams l="79" t="322" r="90" b="334">A</charParams>
+<charParams l="91" t="326" r="98" b="335">u</charParams>
+<charParams l="99" t="325" r="107" b="335">s</charParams>
+<charParams l="108" t="323" r="112" b="334">t</charParams>
+<charParams l="112" t="325" r="117" b="334">r</charParams>
+<charParams l="117" t="325" r="125" b="335">a</charParams>
+<charParams l="127" t="323" r="129" b="334">l</charParams>
+<charParams l="130" t="322" r="132" b="334">i</charParams>
+<charParams l="134" t="325" r="141" b="335">a</charParams></formatting></line></par>
+</text></cell>
+<cell leftBorder="White" rightBorder="White" bottomBorder="White" width="175" height="22">
+<text>
+<par align="Justified" leftIndent="6600" lineSpacing="800">
+<line baseline="337" l="411" t="322" r="434" b="335"><formatting lang="EnglishUnitedStates">
+<charParams l="411" t="323" r="416" b="334">1</charParams>
+<charParams l="418" t="322" r="426" b="334">0</charParams>
+<charParams l="427" t="322" r="434" b="334">0</charParams></formatting></line></par>
+</text></cell>
+<cell leftBorder="White" rightBorder="White" bottomBorder="White" width="141" height="22">
+<text>
+<par align="Justified" lineSpacing="800">
+<line baseline="336" l="570" t="323" r="578" b="333"><formatting lang="EnglishUnitedStates">
+<charParams l="570" t="323" r="578" b="333">4</charParams></formatting></line></par>
+</text></cell>
+<cell leftBorder="White" rightBorder="White" bottomBorder="White" width="149" height="22">
+<text>
+<par align="Justified" leftIndent="5600" lineSpacing="800">
+<line baseline="337" l="705" t="322" r="721" b="334"><formatting lang="EnglishUnitedStates">
+<charParams l="705" t="322" r="713" b="334">9</charParams>
+<charParams l="714" t="322" r="721" b="334">6</charParams></formatting></line></par>
+</text></cell>
+<cell leftBorder="White" rightBorder="White" bottomBorder="White" width="142" height="22">
+<text>
+<par align="Justified" leftIndent="5400" lineSpacing="800">
+<line baseline="336" l="849" t="323" r="865" b="334"><formatting lang="EnglishUnitedStates">
+<charParams l="849" t="323" r="857" b="334">9</charParams>
+<charParams l="858" t="323" r="865" b="334">8</charParams></formatting></line></par>
+</text></cell>
+<cell leftBorder="White" rightBorder="White" bottomBorder="White" width="149" height="22">
+<text>
+<par leftIndent="5500" lineSpacing="800">
+<line baseline="337" l="993" t="323" r="1010" b="334"><formatting lang="EnglishUnitedStates">
+<charParams l="993" t="323" r="1001" b="334">9</charParams>
+<charParams l="1002" t="323" r="1010" b="334">5</charParams></formatting></line></par>
+</text></cell>
+<cell leftBorder="White" rightBorder="White" bottomBorder="White" width="141" height="22">
+<text>
+<par align="Right" lineSpacing="800">
+<line baseline="339" l="1138" t="322" r="1154" b="334"><formatting lang="EnglishUnitedStates">
+<charParams l="1138" t="322" r="1145" b="334">9</charParams>
+<charParams l="1146" t="322" r="1154" b="334">3</charParams></formatting></line></par>
+</text></cell></row>
+<row>
+<cell leftBorder="White" topBorder="White" rightBorder="White" bottomBorder="White" width="199" height="22">
+<text>
+<par lineSpacing="800">
+<line baseline="359" l="79" t="344" r="129" b="357"><formatting lang="EnglishUnitedStates">
+<charParams l="79" t="344" r="90" b="356">A</charParams>
+<charParams l="91" t="348" r="98" b="357">u</charParams>
+<charParams l="99" t="347" r="107" b="357">s</charParams>
+<charParams l="108" t="345" r="111" b="356">t</charParams>
+<charParams l="112" t="347" r="117" b="356">r</charParams>
+<charParams l="117" t="344" r="120" b="356">i</charParams>
+<charParams l="121" t="347" r="129" b="357">a</charParams></formatting></line></par>
+</text></cell>
+<cell leftBorder="White" topBorder="White" rightBorder="White" bottomBorder="White" width="175" height="22">
+<text>
+<par align="Justified" leftIndent="6600" lineSpacing="800">
+<line baseline="359" l="411" t="344" r="434" b="357"><formatting lang="EnglishUnitedStates">
+<charParams l="411" t="345" r="416" b="356">1</charParams>
+<charParams l="418" t="345" r="426" b="356">0</charParams>
+<charParams l="427" t="344" r="434" b="357">0</charParams></formatting></line></par>
+</text></cell>
+<cell leftBorder="White" topBorder="White" rightBorder="White" bottomBorder="White" width="141" height="22">
+<text>
+<par align="Justified" leftIndent="5900" lineSpacing="800">
+<line baseline="359" l="571" t="344" r="579" b="356"><formatting lang="EnglishUnitedStates">
+<charParams l="571" t="344" r="579" b="356">5</charParams></formatting></line></par>
+</text></cell>
+<cell leftBorder="White" topBorder="White" rightBorder="White" bottomBorder="White" width="149" height="22">
+<text>
+<par align="Justified" leftIndent="5300" lineSpacing="800">
+<line baseline="359" l="698" t="344" r="721" b="356"><formatting lang="EnglishUnitedStates">
+<charParams l="698" t="345" r="703" b="355">1</charParams>
+<charParams l="705" t="344" r="713" b="356">0</charParams>
+<charParams l="714" t="344" r="721" b="356">0</charParams></formatting></line></par>
+</text></cell>
+<cell leftBorder="White" topBorder="White" rightBorder="White" bottomBorder="White" width="142" height="22">
+<text>
+<par align="Justified" startIndent="5000" lineSpacing="800">
+<line baseline="358" l="842" t="345" r="866" b="356"><formatting lang="EnglishUnitedStates">
+<charParams l="842" t="345" r="847" b="356">1</charParams>
+<charParams l="849" t="345" r="857" b="356">0</charParams>
+<charParams l="858" t="345" r="866" b="356">0</charParams></formatting></line></par>
+</text></cell>
+<cell leftBorder="White" topBorder="White" rightBorder="White" bottomBorder="White" width="149" height="22">
+<text>
+<par leftIndent="5500" lineSpacing="800">
+<line baseline="359" l="994" t="345" r="1010" b="356"><formatting lang="EnglishUnitedStates">
+<charParams l="994" t="345" r="1001" b="356">9</charParams>
+<charParams l="1002" t="345" r="1010" b="356">8</charParams></formatting></line></par>
+</text></cell>
+<cell leftBorder="White" topBorder="White" rightBorder="White" bottomBorder="White" width="141" height="22">
+<text>
+<par align="Right" lineSpacing="800">
+<line baseline="361" l="1138" t="344" r="1154" b="356"><formatting lang="EnglishUnitedStates">
+<charParams l="1138" t="344" r="1145" b="356">9</charParams>
+<charParams l="1146" t="344" r="1154" b="356">8</charParams></formatting></line></par>
+</text></cell></row>
+<row>
+<cell leftBorder="White" topBorder="White" rightBorder="White" bottomBorder="White" width="199" height="23">
+<text>
+<par lineSpacing="800">
+<line baseline="380" l="79" t="366" r="155" b="383"><formatting lang="EnglishUnitedStates">
+<charParams l="79" t="367" r="90" b="379">A</charParams>
+<charParams l="90" t="370" r="98" b="379">z</charParams>
+<charParams l="99" t="369" r="107" b="379">e</charParams>
+<charParams l="108" t="369" r="113" b="379">r</charParams>
+<charParams l="113" t="366" r="121" b="379">b</charParams>
+<charParams l="122" t="369" r="130" b="379">a</charParams>
+<charParams l="131" t="366" r="133" b="379">i</charParams>
+<charParams l="133" t="366" r="137" b="383">j</charParams>
+<charParams l="138" t="370" r="146" b="379">a</charParams>
+<charParams l="148" t="370" r="155" b="379">n</charParams></formatting></line></par>
+</text></cell>
+<cell leftBorder="White" topBorder="White" rightBorder="White" bottomBorder="White" width="175" height="23">
+<text>
+<par align="Justified" leftIndent="6600" lineSpacing="800">
+<line baseline="382" l="411" t="367" r="434" b="380"><formatting lang="EnglishUnitedStates">
+<charParams l="411" t="368" r="416" b="379">1</charParams>
+<charParams l="418" t="368" r="426" b="379">0</charParams>
+<charParams l="427" t="367" r="434" b="380">0</charParams></formatting></line></par>
+</text></cell>
+<cell leftBorder="White" topBorder="White" rightBorder="White" bottomBorder="White" width="141" height="23">
+<text>
+<par align="Justified" leftIndent="5900" lineSpacing="800">
+<line baseline="382" l="571" t="367" r="578" b="379"><formatting lang="EnglishUnitedStates">
+<charParams l="571" t="367" r="578" b="379">7</charParams></formatting></line></par>
+</text></cell>
+<cell leftBorder="White" topBorder="White" rightBorder="White" bottomBorder="White" width="149" height="23">
+<text>
+<par align="Justified" leftIndent="5600" lineSpacing="800">
+<line baseline="381" l="705" t="367" r="721" b="379"><formatting lang="EnglishUnitedStates">
+<charParams l="705" t="367" r="713" b="379">8</charParams>
+<charParams l="713" t="368" r="721" b="378">4</charParams></formatting></line></par>
+</text></cell>
+<cell leftBorder="White" topBorder="White" rightBorder="White" bottomBorder="White" width="142" height="23">
+<text>
+<par align="Justified" startIndent="5000" lineSpacing="800">
+<line baseline="381" l="842" t="368" r="866" b="379"><formatting lang="EnglishUnitedStates">
+<charParams l="842" t="368" r="847" b="379">1</charParams>
+<charParams l="849" t="368" r="857" b="379">0</charParams>
+<charParams l="858" t="368" r="866" b="379">0</charParams></formatting></line></par>
+</text></cell>
+<cell leftBorder="White" topBorder="White" rightBorder="White" bottomBorder="White" width="149" height="23">
+<text>
+<par align="Right" lineSpacing="800">
+<line baseline="382" l="986" t="367" r="1010" b="379"><formatting lang="EnglishUnitedStates">
+<charParams l="986" t="368" r="991" b="379">1</charParams>
+<charParams l="993" t="368" r="1001" b="379">0</charParams>
+<charParams l="1002" t="367" r="1010" b="379">0</charParams></formatting></line></par>
+</text></cell>
+<cell leftBorder="White" topBorder="White" rightBorder="White" bottomBorder="White" width="141" height="23">
+<text>
+<par align="Right" lineSpacing="800">
+<line baseline="384" l="1130" t="367" r="1154" b="379"><formatting lang="EnglishUnitedStates">
+<charParams l="1130" t="368" r="1135" b="378">1</charParams>
+<charParams l="1137" t="367" r="1145" b="379">0</charParams>
+<charParams l="1146" t="367" r="1154" b="379">0</charParams></formatting></line></par>
+</text></cell></row>
+<row>
+<cell leftBorder="White" topBorder="White" rightBorder="White" bottomBorder="White" width="199" height="23">
+<text>
+<par lineSpacing="860">
+<line baseline="403" l="80" t="390" r="238" b="406"><formatting lang="EnglishUnitedStates">
+<charParams l="80" t="390" r="90" b="402">B</charParams>
+<charParams l="91" t="393" r="99" b="402">e</charParams>
+<charParams l="99" t="390" r="103" b="402">l</charParams>
+<charParams l="103" t="393" r="112" b="406">g</charParams>
+<charParams l="112" t="390" r="116" b="402">i</charParams>
+<charParams l="116" t="393" r="124" b="402">u</charParams>
+<charParams l="125" t="393" r="138" b="402">m</charParams>
+<charParams l="139" t="390" r="142" b="405"> </charParams>
+<charParams l="143" t="390" r="148" b="405">(</charParams>
+<charParams l="148" t="390" r="158" b="402">F</charParams>
+<charParams l="158" t="393" r="164" b="402">r</charParams>
+<charParams l="163" t="393" r="172" b="402">e</charParams>
+<charParams l="172" t="393" r="181" b="402">n</charParams>
+<charParams l="181" t="393" r="189" b="402">c</charParams>
+<charParams l="189" t="390" r="198" b="402">h</charParams>
+<charParams l="197" t="390" r="203" b="405">)</charParams>
+<charParams l="204" t="396" r="209" b="398">-</charParams>
+<charParams l="209" t="390" r="219" b="402">B</charParams>
+<charParams l="220" t="390" r="230" b="402">E</charParams>
+<charParams l="230" t="390" r="238" b="402">L</charParams></formatting></line></par>
+</text></cell>
+<cell leftBorder="White" topBorder="White" rightBorder="White" bottomBorder="White" width="175" height="23">
+<text>
+<par align="Justified" leftIndent="6600" lineSpacing="800">
+<line baseline="404" l="411" t="389" r="434" b="402"><formatting lang="EnglishUnitedStates">
+<charParams l="411" t="390" r="416" b="401">1</charParams>
+<charParams l="418" t="390" r="426" b="401">0</charParams>
+<charParams l="427" t="389" r="434" b="402">0</charParams></formatting></line></par>
+</text></cell>
+<cell leftBorder="White" topBorder="White" rightBorder="White" bottomBorder="White" width="141" height="23">
+<text>
+<par align="Justified" leftIndent="5900" lineSpacing="800">
+<line baseline="404" l="571" t="389" r="578" b="401"><formatting lang="EnglishUnitedStates">
+<charParams l="571" t="389" r="578" b="401">6</charParams></formatting></line></par>
+</text></cell>
+<cell leftBorder="White" topBorder="White" rightBorder="White" bottomBorder="White" width="149" height="23">
+<text>
+<par align="Justified" leftIndent="5600" lineSpacing="800">
+<line baseline="403" l="706" t="389" r="721" b="400"><formatting lang="EnglishUnitedStates">
+<charParams l="706" t="389" r="713" b="400">7</charParams>
+<charParams l="714" t="389" r="721" b="400">7</charParams></formatting></line></par>
+</text></cell>
+<cell leftBorder="White" topBorder="White" rightBorder="White" bottomBorder="White" width="142" height="23">
+<text>
+<par align="Justified" leftIndent="5400" lineSpacing="800">
+<line baseline="403" l="849" t="390" r="866" b="401"><formatting lang="EnglishUnitedStates">
+<charParams l="849" t="390" r="857" b="401">8</charParams>
+<charParams l="858" t="390" r="866" b="401">5</charParams></formatting></line></par>
+</text></cell>
+<cell leftBorder="White" topBorder="White" rightBorder="White" bottomBorder="White" width="149" height="23">
+<text>
+<par leftIndent="5500" lineSpacing="800">
+<line baseline="404" l="993" t="389" r="1009" b="401"><formatting lang="EnglishUnitedStates">
+<charParams l="993" t="390" r="1001" b="401">9</charParams>
+<charParams l="1002" t="389" r="1009" b="401">7</charParams></formatting></line></par>
+</text></cell>
+<cell leftBorder="White" topBorder="White" rightBorder="White" bottomBorder="White" width="141" height="23">
+<text>
+<par align="Right" lineSpacing="800">
+<line baseline="406" l="1138" t="389" r="1153" b="401"><formatting lang="EnglishUnitedStates">
+<charParams l="1138" t="389" r="1145" b="401">8</charParams>
+<charParams l="1146" t="389" r="1153" b="401">2</charParams></formatting></line></par>
+</text></cell></row>
+<row>
+<cell leftBorder="White" topBorder="White" rightBorder="White" bottomBorder="White" width="199" height="22">
+<text>
+<par lineSpacing="800">
+<line baseline="425" l="80" t="412" r="138" b="427"><formatting lang="EnglishUnitedStates">
+<charParams l="80" t="412" r="89" b="424">B</charParams>
+<charParams l="91" t="415" r="98" b="424">u</charParams>
+<charParams l="100" t="412" r="102" b="424">l</charParams>
+<charParams l="103" t="415" r="111" b="427">g</charParams>
+<charParams l="112" t="415" r="120" b="424">a</charParams>
+<charParams l="122" t="415" r="126" b="424">r</charParams>
+<charParams l="127" t="412" r="129" b="424">i</charParams>
+<charParams l="130" t="415" r="138" b="424">a</charParams></formatting></line></par>
+</text></cell>
+<cell leftBorder="White" topBorder="White" rightBorder="White" bottomBorder="White" width="175" height="22">
+<text>
+<par align="Justified" leftIndent="6600" lineSpacing="800">
+<line baseline="427" l="411" t="412" r="434" b="425"><formatting lang="EnglishUnitedStates">
+<charParams l="411" t="413" r="416" b="424">1</charParams>
+<charParams l="418" t="413" r="426" b="424">0</charParams>
+<charParams l="427" t="412" r="434" b="425">0</charParams></formatting></line></par>
+</text></cell>
+<cell leftBorder="White" topBorder="White" rightBorder="White" bottomBorder="White" width="141" height="22">
+<text>
+<par align="Justified" leftIndent="5900" lineSpacing="800">
+<line baseline="427" l="571" t="412" r="579" b="424"><formatting lang="EnglishUnitedStates">
+<charParams l="571" t="412" r="579" b="424">3</charParams></formatting></line></par>
+</text></cell>
+<cell leftBorder="White" topBorder="White" rightBorder="White" bottomBorder="White" width="149" height="22">
+<text>
+<par align="Justified" leftIndent="5600" lineSpacing="800">
+<line baseline="426" l="705" t="412" r="721" b="424"><formatting lang="EnglishUnitedStates">
+<charParams l="705" t="412" r="713" b="424">9</charParams>
+<charParams l="714" t="412" r="721" b="423">7</charParams></formatting></line></par>
+</text></cell>
+<cell leftBorder="White" topBorder="White" rightBorder="White" bottomBorder="White" width="142" height="22">
+<text>
+<par align="Justified" startIndent="5000" lineSpacing="800">
+<line baseline="426" l="842" t="413" r="866" b="424"><formatting lang="EnglishUnitedStates">
+<charParams l="842" t="413" r="847" b="424">1</charParams>
+<charParams l="849" t="413" r="857" b="424">0</charParams>
+<charParams l="858" t="413" r="866" b="424">0</charParams></formatting></line></par>
+</text></cell>
+<cell leftBorder="White" topBorder="White" rightBorder="White" bottomBorder="White" width="149" height="22">
+<text>
+<par leftIndent="5500" lineSpacing="800">
+<line baseline="427" l="993" t="412" r="1010" b="424"><formatting lang="EnglishUnitedStates">
+<charParams l="993" t="413" r="1001" b="424">9</charParams>
+<charParams l="1002" t="412" r="1010" b="424">5</charParams></formatting></line></par>
+</text></cell>
+<cell leftBorder="White" topBorder="White" rightBorder="White" bottomBorder="White" width="141" height="22">
+<text>
+<par align="Right" lineSpacing="800">
+<line baseline="429" l="1138" t="412" r="1154" b="424"><formatting lang="EnglishUnitedStates">
+<charParams l="1138" t="412" r="1145" b="424">9</charParams>
+<charParams l="1146" t="412" r="1154" b="424">5</charParams></formatting></line></par>
+</text></cell></row>
+<row>
+<cell leftBorder="White" topBorder="White" rightBorder="White" bottomBorder="White" width="199" height="22">
+<text>
+<par lineSpacing="800">
+<line baseline="448" l="80" t="435" r="135" b="447"><formatting lang="EnglishUnitedStates">
+<charParams l="80" t="435" r="90" b="447">C</charParams>
+<charParams l="91" t="438" r="99" b="447">a</charParams>
+<charParams l="101" t="438" r="108" b="447">n</charParams>
+<charParams l="109" t="438" r="117" b="447">a</charParams>
+<charParams l="118" t="435" r="126" b="447">d</charParams>
+<charParams l="127" t="438" r="135" b="447">a</charParams></formatting></line></par>
+</text></cell>
+<cell leftBorder="White" topBorder="White" rightBorder="White" bottomBorder="White" width="175" height="22">
+<text>
+<par align="Justified" leftIndent="6600" lineSpacing="800">
+<line baseline="449" l="411" t="434" r="434" b="447"><formatting lang="EnglishUnitedStates">
+<charParams l="411" t="435" r="416" b="446">1</charParams>
+<charParams l="418" t="435" r="426" b="446">0</charParams>
+<charParams l="427" t="434" r="434" b="447">0</charParams></formatting></line></par>
+</text></cell>
+<cell leftBorder="White" topBorder="White" rightBorder="White" bottomBorder="White" width="141" height="22">
+<text>
+<par align="Right" lineSpacing="800">
+<line baseline="449" l="563" t="434" r="578" b="446"><formatting lang="EnglishUnitedStates">
+<charParams l="563" t="435" r="568" b="446">1</charParams>
+<charParams l="571" t="434" r="578" b="446">0</charParams></formatting></line></par>
+</text></cell>
+<cell leftBorder="White" topBorder="White" rightBorder="White" bottomBorder="White" width="149" height="22">
+<text>
+<par align="Justified" leftIndent="5600" lineSpacing="800">
+<line baseline="449" l="705" t="434" r="721" b="446"><formatting lang="EnglishUnitedStates">
+<charParams l="705" t="434" r="713" b="446">9</charParams>
+<charParams l="714" t="434" r="721" b="446">8</charParams></formatting></line></par>
+</text></cell>
+<cell leftBorder="White" topBorder="White" rightBorder="White" bottomBorder="White" width="142" height="22">
+<text>
+<par align="Justified" leftIndent="5400" lineSpacing="800">
+<line baseline="448" l="849" t="435" r="865" b="446"><formatting lang="EnglishUnitedStates">
+<charParams l="849" t="435" r="857" b="446">9</charParams>
+<charParams l="858" t="435" r="865" b="446">8</charParams></formatting></line></par>
+</text></cell>
+<cell leftBorder="White" topBorder="White" rightBorder="White" bottomBorder="White" width="149" height="22">
+<text>
+<par leftIndent="5500" lineSpacing="800">
+<line baseline="449" l="993" t="434" r="1010" b="446"><formatting lang="EnglishUnitedStates">
+<charParams l="993" t="435" r="1001" b="446">9</charParams>
+<charParams l="1002" t="434" r="1010" b="446">6</charParams></formatting></line></par>
+</text></cell>
+<cell leftBorder="White" topBorder="White" rightBorder="White" bottomBorder="White" width="141" height="22">
+<text>
+<par align="Right" lineSpacing="800">
+<line baseline="450" l="1138" t="434" r="1153" b="446"><formatting lang="EnglishUnitedStates">
+<charParams l="1138" t="434" r="1145" b="446">9</charParams>
+<charParams l="1145" t="435" r="1153" b="445">4</charParams></formatting></line></par>
+</text></cell></row>
+<row>
+<cell leftBorder="White" topBorder="White" rightBorder="White" bottomBorder="White" width="199" height="23">
+<text>
+<par lineSpacing="860">
+<line baseline="470" l="81" t="457" r="227" b="472"><formatting lang="EnglishUnitedStates">
+<charParams l="81" t="457" r="91" b="469">C</charParams>
+<charParams l="91" t="457" r="100" b="469">h</charParams>
+<charParams l="100" t="457" r="104" b="469">i</charParams>
+<charParams l="104" t="460" r="112" b="469">n</charParams>
+<charParams l="113" t="460" r="121" b="469">e</charParams>
+<charParams l="122" t="460" r="130" b="469">s</charParams>
+<charParams l="130" t="460" r="138" b="469">e</charParams>
+<charParams l="139" t="457" r="144" b="469"> </charParams>
+<charParams l="145" t="457" r="154" b="469">T</charParams>
+<charParams l="152" t="460" r="160" b="469">a</charParams>
+<charParams l="161" t="457" r="165" b="469">i</charParams>
+<charParams l="164" t="460" r="173" b="472">p</charParams>
+<charParams l="173" t="460" r="182" b="469">e</charParams>
+<charParams l="182" t="457" r="186" b="469">i</charParams>
+<charParams l="186" t="463" r="191" b="465">-</charParams>
+<charParams l="192" t="457" r="203" b="469">C</charParams>
+<charParams l="203" t="457" r="215" b="469">H</charParams>
+<charParams l="215" t="457" r="227" b="469">N</charParams></formatting></line></par>
+</text></cell>
+<cell leftBorder="White" topBorder="White" rightBorder="White" bottomBorder="White" width="175" height="23">
+<text>
+<par align="Justified" leftIndent="6600" lineSpacing="800">
+<line baseline="472" l="411" t="457" r="434" b="470"><formatting lang="EnglishUnitedStates">
+<charParams l="411" t="458" r="416" b="469">1</charParams>
+<charParams l="418" t="458" r="426" b="469">0</charParams>
+<charParams l="427" t="457" r="434" b="470">0</charParams></formatting></line></par>
+</text></cell>
+<cell leftBorder="White" topBorder="White" rightBorder="White" bottomBorder="White" width="141" height="23">
+<text>
+<par align="Justified" leftIndent="5900" lineSpacing="800">
+<line baseline="472" l="572" t="458" r="577" b="469"><formatting lang="EnglishUnitedStates">
+<charParams l="572" t="458" r="577" b="469">1</charParams></formatting></line></par>
+</text></cell>
+<cell leftBorder="White" topBorder="White" rightBorder="White" bottomBorder="White" width="149" height="23">
+<text>
+<par align="Justified" leftIndent="5300" lineSpacing="800">
+<line baseline="472" l="698" t="457" r="721" b="469"><formatting lang="EnglishUnitedStates">
+<charParams l="698" t="458" r="703" b="468">1</charParams>
+<charParams l="705" t="457" r="713" b="469">0</charParams>
+<charParams l="714" t="457" r="721" b="469">0</charParams></formatting></line></par>
+</text></cell>
+<cell leftBorder="White" topBorder="White" rightBorder="White" bottomBorder="White" width="142" height="23">
+<text>
+<par align="Justified" startIndent="5000" lineSpacing="800">
+<line baseline="471" l="842" t="458" r="866" b="469"><formatting lang="EnglishUnitedStates">
+<charParams l="842" t="458" r="847" b="469">1</charParams>
+<charParams l="849" t="458" r="857" b="469">0</charParams>
+<charParams l="858" t="458" r="866" b="469">0</charParams></formatting></line></par>
+</text></cell>
+<cell leftBorder="White" topBorder="White" rightBorder="White" bottomBorder="White" width="149" height="23">
+<text>
+<par leftIndent="5500" lineSpacing="800">
+<line baseline="472" l="993" t="457" r="1010" b="469"><formatting lang="EnglishUnitedStates">
+<charParams l="993" t="458" r="1001" b="469">9</charParams>
+<charParams l="1002" t="457" r="1010" b="469">9</charParams></formatting></line></par>
+</text></cell>
+<cell leftBorder="White" topBorder="White" rightBorder="White" bottomBorder="White" width="141" height="23">
+<text>
+<par align="Right" lineSpacing="800">
+<line baseline="474" l="1138" t="457" r="1154" b="469"><formatting lang="EnglishUnitedStates">
+<charParams l="1138" t="457" r="1145" b="469">9</charParams>
+<charParams l="1146" t="457" r="1154" b="469">9</charParams></formatting></line></par>
+</text></cell></row>
+<row>
+<cell leftBorder="White" topBorder="White" rightBorder="White" bottomBorder="White" width="199" height="22">
+<text>
+<par lineSpacing="800">
+<line baseline="493" l="80" t="480" r="147" b="492"><formatting lang="EnglishUnitedStates">
+<charParams l="80" t="480" r="91" b="492">C</charParams>
+<charParams l="91" t="483" r="99" b="492">o</charParams>
+<charParams l="101" t="480" r="103" b="492">l</charParams>
+<charParams l="104" t="483" r="112" b="492">o</charParams>
+<charParams l="113" t="483" r="125" b="492">m</charParams>
+<charParams l="127" t="480" r="134" b="492">b</charParams>
+<charParams l="136" t="480" r="138" b="492">i</charParams>
+<charParams l="139" t="483" r="147" b="492">a</charParams></formatting></line></par>
+</text></cell>
+<cell leftBorder="White" topBorder="White" rightBorder="White" bottomBorder="White" width="175" height="22">
+<text>
+<par align="Justified" leftIndent="6600" lineSpacing="800">
+<line baseline="494" l="411" t="479" r="434" b="492"><formatting lang="EnglishUnitedStates">
+<charParams l="411" t="480" r="416" b="491">1</charParams>
+<charParams l="418" t="480" r="426" b="491">0</charParams>
+<charParams l="427" t="479" r="434" b="492">0</charParams></formatting></line></par>
+</text></cell>
+<cell leftBorder="White" topBorder="White" rightBorder="White" bottomBorder="White" width="141" height="22">
+<text>
+<par align="Justified" leftIndent="5900" lineSpacing="800">
+<line baseline="494" l="571" t="479" r="578" b="491"><formatting lang="EnglishUnitedStates">
+<charParams l="571" t="479" r="578" b="491">2</charParams></formatting></line></par>
+</text></cell>
+<cell leftBorder="White" topBorder="White" rightBorder="White" bottomBorder="White" width="149" height="22">
+<text>
+<par align="Justified" leftIndent="5600" lineSpacing="800">
+<line baseline="494" l="705" t="479" r="721" b="491"><formatting lang="EnglishUnitedStates">
+<charParams l="705" t="479" r="713" b="491">8</charParams>
+<charParams l="714" t="479" r="721" b="491">9</charParams></formatting></line></par>
+</text></cell>
+<cell leftBorder="White" topBorder="White" rightBorder="White" bottomBorder="White" width="142" height="22">
+<text>
+<par align="Justified" leftIndent="5400" lineSpacing="800">
+<line baseline="493" l="849" t="480" r="866" b="491"><formatting lang="EnglishUnitedStates">
+<charParams l="849" t="480" r="857" b="491">9</charParams>
+<charParams l="858" t="480" r="866" b="491">9</charParams></formatting></line></par>
+</text></cell>
+<cell leftBorder="White" topBorder="White" rightBorder="White" bottomBorder="White" width="149" height="22">
+<text>
+<par leftIndent="5500" lineSpacing="800">
+<line baseline="494" l="993" t="479" r="1009" b="491"><formatting lang="EnglishUnitedStates">
+<charParams l="993" t="480" r="1001" b="491">9</charParams>
+<charParams l="1002" t="479" r="1009" b="491">7</charParams></formatting></line></par>
+</text></cell>
+<cell leftBorder="White" topBorder="White" rightBorder="White" bottomBorder="White" width="141" height="22">
+<text>
+<par align="Right" lineSpacing="800">
+<line baseline="496" l="1138" t="479" r="1154" b="491"><formatting lang="EnglishUnitedStates">
+<charParams l="1138" t="479" r="1145" b="491">9</charParams>
+<charParams l="1146" t="479" r="1154" b="491">5</charParams></formatting></line></par>
+</text></cell></row>
+<row>
+<cell leftBorder="White" topBorder="White" rightBorder="White" bottomBorder="White" width="199" height="23">
+<text>
+<par lineSpacing="800">
+<line baseline="515" l="80" t="502" r="131" b="514"><formatting lang="EnglishUnitedStates">
+<charParams l="80" t="502" r="90" b="514">C</charParams>
+<charParams l="92" t="505" r="96" b="514">r</charParams>
+<charParams l="97" t="505" r="105" b="514">o</charParams>
+<charParams l="106" t="505" r="114" b="514">a</charParams>
+<charParams l="115" t="503" r="119" b="514">t</charParams>
+<charParams l="119" t="502" r="121" b="514">i</charParams>
+<charParams l="123" t="505" r="131" b="514">a</charParams></formatting></line></par>
+</text></cell>
+<cell leftBorder="White" topBorder="White" rightBorder="White" bottomBorder="White" width="175" height="23">
+<text>
+<par align="Justified" leftIndent="6600" lineSpacing="800">
+<line baseline="517" l="411" t="502" r="434" b="515"><formatting lang="EnglishUnitedStates">
+<charParams l="411" t="503" r="416" b="514">1</charParams>
+<charParams l="418" t="503" r="426" b="514">0</charParams>
+<charParams l="427" t="502" r="434" b="515">0</charParams></formatting></line></par>
+</text></cell>
+<cell leftBorder="White" topBorder="White" rightBorder="White" bottomBorder="White" width="141" height="23">
+<text>
+<par align="Justified" leftIndent="5900" lineSpacing="800">
+<line baseline="517" l="571" t="502" r="578" b="514"><formatting lang="EnglishUnitedStates">
+<charParams l="571" t="502" r="578" b="514">8</charParams></formatting></line></par>
+</text></cell>
+<cell leftBorder="White" topBorder="White" rightBorder="White" bottomBorder="White" width="149" height="23">
+<text>
+<par align="Justified" leftIndent="5600" lineSpacing="800">
+<line baseline="517" l="705" t="502" r="721" b="514"><formatting lang="EnglishUnitedStates">
+<charParams l="705" t="502" r="713" b="514">9</charParams>
+<charParams l="714" t="502" r="721" b="514">9</charParams></formatting></line></par>
+</text></cell>
+<cell leftBorder="White" topBorder="White" rightBorder="White" bottomBorder="White" width="142" height="23">
+<text>
+<par align="Justified" startIndent="5000" lineSpacing="800">
+<line baseline="516" l="842" t="503" r="866" b="514"><formatting lang="EnglishUnitedStates">
+<charParams l="842" t="503" r="847" b="514">1</charParams>
+<charParams l="849" t="503" r="857" b="514">0</charParams>
+<charParams l="858" t="503" r="866" b="514">0</charParams></formatting></line></par>
+</text></cell>
+<cell leftBorder="White" topBorder="White" rightBorder="White" bottomBorder="White" width="149" height="23">
+<text>
+<par leftIndent="5500" lineSpacing="800">
+<line baseline="517" l="993" t="502" r="1010" b="514"><formatting lang="EnglishUnitedStates">
+<charParams l="993" t="503" r="1001" b="514">9</charParams>
+<charParams l="1002" t="502" r="1010" b="514">5</charParams></formatting></line></par>
+</text></cell>
+<cell leftBorder="White" topBorder="White" rightBorder="White" bottomBorder="White" width="141" height="23">
+<text>
+<par align="Right" lineSpacing="800">
+<line baseline="519" l="1138" t="502" r="1154" b="514"><formatting lang="EnglishUnitedStates">
+<charParams l="1138" t="502" r="1145" b="514">9</charParams>
+<charParams l="1146" t="502" r="1154" b="514">5</charParams></formatting></line></par>
+</text></cell></row>
+<row>
+<cell leftBorder="White" topBorder="White" rightBorder="White" bottomBorder="White" width="199" height="22">
+<text>
+<par lineSpacing="800">
+<line baseline="538" l="80" t="525" r="192" b="540"><formatting lang="EnglishUnitedStates">
+<charParams l="80" t="525" r="90" b="537">C</charParams>
+<charParams l="91" t="528" r="99" b="537">z</charParams>
+<charParams l="99" t="528" r="108" b="537">e</charParams>
+<charParams l="108" t="528" r="116" b="537">c</charParams>
+<charParams l="117" t="525" r="124" b="537">h</charParams>
+<charParams l="125" t="525" r="129" b="537"> </charParams>
+<charParams l="130" t="525" r="141" b="537">R</charParams>
+<charParams l="142" t="528" r="150" b="537">e</charParams>
+<charParams l="151" t="528" r="159" b="540">p</charParams>
+<charParams l="160" t="528" r="167" b="537">u</charParams>
+<charParams l="169" t="525" r="177" b="537">b</charParams>
+<charParams l="178" t="525" r="180" b="537">l</charParams>
+<charParams l="181" t="525" r="184" b="537">i</charParams>
+<charParams l="185" t="528" r="192" b="537">c</charParams></formatting></line></par>
+</text></cell>
+<cell leftBorder="White" topBorder="White" rightBorder="White" bottomBorder="White" width="175" height="22">
+<text>
+<par align="Justified" leftIndent="6600" lineSpacing="800">
+<line baseline="539" l="411" t="524" r="434" b="537"><formatting lang="EnglishUnitedStates">
+<charParams l="411" t="525" r="416" b="536">1</charParams>
+<charParams l="418" t="525" r="426" b="536">0</charParams>
+<charParams l="427" t="524" r="434" b="537">0</charParams></formatting></line></par>
+</text></cell>
+<cell leftBorder="White" topBorder="White" rightBorder="White" bottomBorder="White" width="141" height="22">
+<text>
+<par align="Justified" leftIndent="5900" lineSpacing="800">
+<line baseline="539" l="571" t="524" r="579" b="536"><formatting lang="EnglishUnitedStates">
+<charParams l="571" t="524" r="579" b="536">5</charParams></formatting></line></par>
+</text></cell>
+<cell leftBorder="White" topBorder="White" rightBorder="White" bottomBorder="White" width="149" height="22">
+<text>
+<par align="Justified" leftIndent="5600" lineSpacing="800">
+<line baseline="539" l="705" t="524" r="721" b="536"><formatting lang="EnglishUnitedStates">
+<charParams l="705" t="524" r="713" b="536">9</charParams>
+<charParams l="714" t="524" r="721" b="536">0</charParams></formatting></line></par>
+</text></cell>
+<cell leftBorder="White" topBorder="White" rightBorder="White" bottomBorder="White" width="142" height="22">
+<text>
+<par align="Justified" leftIndent="5400" lineSpacing="800">
+<line baseline="538" l="849" t="525" r="866" b="536"><formatting lang="EnglishUnitedStates">
+<charParams l="849" t="525" r="857" b="536">9</charParams>
+<charParams l="858" t="525" r="866" b="536">9</charParams></formatting></line></par>
+</text></cell>
+<cell leftBorder="White" topBorder="White" rightBorder="White" bottomBorder="White" width="149" height="22">
+<text>
+<par leftIndent="5500" lineSpacing="800">
+<line baseline="539" l="994" t="524" r="1009" b="536"><formatting lang="EnglishUnitedStates">
+<charParams l="994" t="525" r="1001" b="536">9</charParams>
+<charParams l="1001" t="524" r="1009" b="536">4</charParams></formatting></line></par>
+</text></cell>
+<cell leftBorder="White" topBorder="White" rightBorder="White" bottomBorder="White" width="141" height="22">
+<text>
+<par align="Right" lineSpacing="800">
+<line baseline="540" l="1138" t="524" r="1153" b="536"><formatting lang="EnglishUnitedStates">
+<charParams l="1138" t="524" r="1145" b="536">9</charParams>
+<charParams l="1145" t="525" r="1153" b="535">4</charParams></formatting></line></par>
+</text></cell></row>
+<row>
+<cell leftBorder="White" topBorder="White" rightBorder="White" bottomBorder="White" width="199" height="23">
+<text>
+<par lineSpacing="800">
+<line baseline="560" l="80" t="547" r="145" b="559"><formatting lang="EnglishUnitedStates">
+<charParams l="80" t="547" r="90" b="559">D</charParams>
+<charParams l="91" t="550" r="99" b="559">e</charParams>
+<charParams l="101" t="550" r="108" b="559">n</charParams>
+<charParams l="110" t="550" r="122" b="559">m</charParams>
+<charParams l="123" t="550" r="131" b="559">a</charParams>
+<charParams l="132" t="550" r="137" b="559">r</charParams>
+<charParams l="137" t="547" r="145" b="559">k</charParams></formatting></line></par>
+</text></cell>
+<cell leftBorder="White" topBorder="White" rightBorder="White" bottomBorder="White" width="175" height="23">
+<text>
+<par align="Justified" leftIndent="6600" lineSpacing="800">
+<line baseline="562" l="411" t="547" r="434" b="560"><formatting lang="EnglishUnitedStates">
+<charParams l="411" t="548" r="416" b="559">1</charParams>
+<charParams l="418" t="548" r="426" b="559">0</charParams>
+<charParams l="427" t="547" r="434" b="560">0</charParams></formatting></line></par>
+</text></cell>
+<cell leftBorder="White" topBorder="White" rightBorder="White" bottomBorder="White" width="141" height="23">
+<text>
+<par align="Justified" leftIndent="5900" lineSpacing="800">
+<line baseline="562" l="571" t="547" r="578" b="559"><formatting lang="EnglishUnitedStates">
+<charParams l="571" t="547" r="578" b="559">7</charParams></formatting></line></par>
+</text></cell>
+<cell leftBorder="White" topBorder="White" rightBorder="White" bottomBorder="White" width="149" height="23">
+<text>
+<par align="Justified" leftIndent="5600" lineSpacing="800">
+<line baseline="561" l="705" t="547" r="721" b="559"><formatting lang="EnglishUnitedStates">
+<charParams l="705" t="547" r="713" b="559">8</charParams>
+<charParams l="714" t="547" r="721" b="558">7</charParams></formatting></line></par>
+</text></cell>
+<cell leftBorder="White" topBorder="White" rightBorder="White" bottomBorder="White" width="142" height="23">
+<text>
+<par align="Justified" leftIndent="5400" lineSpacing="800">
+<line baseline="561" l="849" t="548" r="865" b="559"><formatting lang="EnglishUnitedStates">
+<charParams l="849" t="548" r="857" b="559">9</charParams>
+<charParams l="858" t="548" r="865" b="559">8</charParams></formatting></line></par>
+</text></cell>
+<cell leftBorder="White" topBorder="White" rightBorder="White" bottomBorder="White" width="149" height="23">
+<text>
+<par leftIndent="5500" lineSpacing="800">
+<line baseline="562" l="993" t="547" r="1009" b="559"><formatting lang="EnglishUnitedStates">
+<charParams l="993" t="548" r="1001" b="559">9</charParams>
+<charParams l="1002" t="547" r="1009" b="559">7</charParams></formatting></line></par>
+</text></cell>
+<cell leftBorder="White" topBorder="White" rightBorder="White" bottomBorder="White" width="141" height="23">
+<text>
+<par align="Right" lineSpacing="800">
+<line baseline="564" l="1138" t="547" r="1154" b="559"><formatting lang="EnglishUnitedStates">
+<charParams l="1138" t="547" r="1145" b="559">9</charParams>
+<charParams l="1146" t="547" r="1154" b="559">5</charParams></formatting></line></par>
+</text></cell></row>
+<row>
+<cell leftBorder="White" topBorder="White" rightBorder="White" bottomBorder="White" width="199" height="22">
+<text>
+<par lineSpacing="860">
+<line baseline="583" l="80" t="570" r="179" b="585"><formatting lang="EnglishUnitedStates">
+<charParams l="80" t="570" r="91" b="582">E</charParams>
+<charParams l="91" t="573" r="99" b="582">n</charParams>
+<charParams l="99" t="573" r="108" b="585">g</charParams>
+<charParams l="108" t="570" r="112" b="582">l</charParams>
+<charParams l="112" t="573" r="120" b="582">a</charParams>
+<charParams l="121" t="573" r="129" b="582">n</charParams>
+<charParams l="130" t="570" r="139" b="582">d</charParams>
+<charParams l="139" t="576" r="144" b="578">-</charParams>
+<charParams l="145" t="570" r="156" b="582">G</charParams>
+<charParams l="157" t="570" r="167" b="582">B</charParams>
+<charParams l="168" t="570" r="179" b="582">R</charParams></formatting></line></par>
+</text></cell>
+<cell leftBorder="White" topBorder="White" rightBorder="White" bottomBorder="White" width="175" height="22">
+<text>
+<par align="Justified" leftIndent="6600" lineSpacing="800">
+<line baseline="584" l="411" t="569" r="434" b="582"><formatting lang="EnglishUnitedStates">
+<charParams l="411" t="570" r="416" b="581">1</charParams>
+<charParams l="418" t="570" r="426" b="581">0</charParams>
+<charParams l="427" t="569" r="434" b="582">0</charParams></formatting></line></par>
+</text></cell>
+<cell leftBorder="White" topBorder="White" rightBorder="White" bottomBorder="White" width="141" height="22">
+<text>
+<par align="Justified" leftIndent="5900" lineSpacing="800">
+<line baseline="584" l="571" t="569" r="578" b="581"><formatting lang="EnglishUnitedStates">
+<charParams l="571" t="569" r="578" b="581">2</charParams></formatting></line></par>
+</text></cell>
+<cell leftBorder="White" topBorder="White" rightBorder="White" bottomBorder="White" width="149" height="22">
+<text>
+<par align="Justified" leftIndent="5600" lineSpacing="800">
+<line baseline="584" l="706" t="569" r="722" b="581"><formatting lang="EnglishUnitedStates">
+<charParams l="706" t="569" r="713" b="580">7</charParams>
+<charParams l="714" t="569" r="722" b="581">3</charParams></formatting></line></par>
+</text></cell>
+<cell leftBorder="White" topBorder="White" rightBorder="White" bottomBorder="White" width="142" height="22">
+<text>
+<par align="Justified" leftIndent="5400" lineSpacing="800">
+<line baseline="583" l="849" t="570" r="865" b="581"><formatting lang="EnglishUnitedStates">
+<charParams l="849" t="570" r="857" b="581">8</charParams>
+<charParams l="858" t="570" r="865" b="581">7</charParams></formatting></line></par>
+</text></cell>
+<cell leftBorder="White" topBorder="White" rightBorder="White" bottomBorder="White" width="149" height="22">
+<text>
+<par leftIndent="5500" lineSpacing="800">
+<line baseline="584" l="994" t="569" r="1009" b="581"><formatting lang="EnglishUnitedStates">
+<charParams l="994" t="570" r="1001" b="581">9</charParams>
+<charParams l="1001" t="569" r="1009" b="581">4</charParams></formatting></line></par>
+</text></cell>
+<cell leftBorder="White" topBorder="White" rightBorder="White" bottomBorder="White" width="141" height="22">
+<text>
+<par align="Right" lineSpacing="800">
+<line baseline="586" l="1138" t="569" r="1153" b="581"><formatting lang="EnglishUnitedStates">
+<charParams l="1138" t="569" r="1145" b="581">8</charParams>
+<charParams l="1146" t="569" r="1153" b="581">2</charParams></formatting></line></par>
+</text></cell></row>
+<row>
+<cell leftBorder="White" topBorder="White" rightBorder="White" bottomBorder="White" width="199" height="23">
+<text>
+<par lineSpacing="800">
+<line baseline="605" l="80" t="592" r="131" b="604"><formatting lang="EnglishUnitedStates">
+<charParams l="80" t="592" r="89" b="604">F</charParams>
+<charParams l="90" t="592" r="92" b="604">i</charParams>
+<charParams l="93" t="595" r="101" b="604">n</charParams>
+<charParams l="102" t="592" r="104" b="604">l</charParams>
+<charParams l="106" t="595" r="114" b="604">a</charParams>
+<charParams l="115" t="595" r="122" b="604">n</charParams>
+<charParams l="124" t="592" r="131" b="604">d</charParams></formatting></line></par>
+</text></cell>
+<cell leftBorder="White" topBorder="White" rightBorder="White" bottomBorder="White" width="175" height="23">
+<text>
+<par align="Justified" leftIndent="6600" lineSpacing="800">
+<line baseline="607" l="411" t="592" r="434" b="605"><formatting lang="EnglishUnitedStates">
+<charParams l="411" t="593" r="416" b="604">1</charParams>
+<charParams l="418" t="593" r="426" b="604">0</charParams>
+<charParams l="427" t="592" r="434" b="605">0</charParams></formatting></line></par>
+</text></cell>
+<cell leftBorder="White" topBorder="White" rightBorder="White" bottomBorder="White" width="141" height="23">
+<text>
+<par align="Justified" leftIndent="5900" lineSpacing="800">
+<line baseline="607" l="571" t="592" r="579" b="604"><formatting lang="EnglishUnitedStates">
+<charParams l="571" t="592" r="579" b="604">3</charParams></formatting></line></par>
+</text></cell>
+<cell leftBorder="White" topBorder="White" rightBorder="White" bottomBorder="White" width="149" height="23">
+<text>
+<par align="Justified" leftIndent="5600" lineSpacing="800">
+<line baseline="606" l="705" t="592" r="721" b="604"><formatting lang="EnglishUnitedStates">
+<charParams l="705" t="592" r="713" b="604">9</charParams>
+<charParams l="714" t="592" r="721" b="603">7</charParams></formatting></line></par>
+</text></cell>
+<cell leftBorder="White" topBorder="White" rightBorder="White" bottomBorder="White" width="142" height="23">
+<text>
+<par align="Justified" leftIndent="5400" lineSpacing="800">
+<line baseline="606" l="849" t="593" r="866" b="604"><formatting lang="EnglishUnitedStates">
+<charParams l="849" t="593" r="857" b="604">9</charParams>
+<charParams l="858" t="593" r="866" b="604">9</charParams></formatting></line></par>
+</text></cell>
+<cell leftBorder="White" topBorder="White" rightBorder="White" bottomBorder="White" width="149" height="23">
+<text>
+<par leftIndent="5500" lineSpacing="800">
+<line baseline="607" l="993" t="592" r="1010" b="604"><formatting lang="EnglishUnitedStates">
+<charParams l="993" t="593" r="1001" b="604">9</charParams>
+<charParams l="1002" t="592" r="1010" b="604">6</charParams></formatting></line></par>
+</text></cell>
+<cell leftBorder="White" topBorder="White" rightBorder="White" bottomBorder="White" width="141" height="23">
+<text>
+<par align="Right" lineSpacing="800">
+<line baseline="609" l="1138" t="592" r="1154" b="604"><formatting lang="EnglishUnitedStates">
+<charParams l="1138" t="592" r="1145" b="604">9</charParams>
+<charParams l="1146" t="592" r="1154" b="604">5</charParams></formatting></line></par>
+</text></cell></row>
+<row>
+<cell leftBorder="White" topBorder="White" rightBorder="White" bottomBorder="White" width="199" height="22">
+<text>
+<par lineSpacing="800">
+<line baseline="628" l="80" t="615" r="129" b="627"><formatting lang="EnglishUnitedStates">
+<charParams l="80" t="615" r="89" b="627">F</charParams>
+<charParams l="90" t="618" r="95" b="627">r</charParams>
+<charParams l="95" t="618" r="103" b="627">a</charParams>
+<charParams l="104" t="618" r="112" b="627">n</charParams>
+<charParams l="113" t="618" r="121" b="627">c</charParams>
+<charParams l="121" t="618" r="129" b="627">e</charParams></formatting></line></par>
+</text></cell>
+<cell leftBorder="White" topBorder="White" rightBorder="White" bottomBorder="White" width="175" height="22">
+<text>
+<par align="Justified" leftIndent="6600" lineSpacing="800">
+<line baseline="629" l="411" t="614" r="434" b="627"><formatting lang="EnglishUnitedStates">
+<charParams l="411" t="615" r="416" b="626">1</charParams>
+<charParams l="418" t="615" r="426" b="626">0</charParams>
+<charParams l="427" t="614" r="434" b="627">0</charParams></formatting></line></par>
+</text></cell>
+<cell leftBorder="White" topBorder="White" rightBorder="White" bottomBorder="White" width="141" height="22">
+<text>
+<par align="Justified" leftIndent="5900" lineSpacing="800">
+<line baseline="629" l="571" t="614" r="579" b="626"><formatting lang="EnglishUnitedStates">
+<charParams l="571" t="614" r="579" b="626">5</charParams></formatting></line></par>
+</text></cell>
+<cell leftBorder="White" topBorder="White" rightBorder="White" bottomBorder="White" width="149" height="22">
+<text>
+<par align="Justified" leftIndent="5600" lineSpacing="800">
+<line baseline="629" l="705" t="614" r="721" b="626"><formatting lang="EnglishUnitedStates">
+<charParams l="705" t="614" r="713" b="626">9</charParams>
+<charParams l="714" t="614" r="721" b="626">8</charParams></formatting></line></par>
+</text></cell>
+<cell leftBorder="White" topBorder="White" rightBorder="White" bottomBorder="White" width="142" height="22">
+<text>
+<par align="Justified" startIndent="5000" lineSpacing="800">
+<line baseline="628" l="842" t="615" r="866" b="626"><formatting lang="EnglishUnitedStates">
+<charParams l="842" t="615" r="847" b="626">1</charParams>
+<charParams l="849" t="615" r="857" b="626">0</charParams>
+<charParams l="858" t="615" r="866" b="626">0</charParams></formatting></line></par>
+</text></cell>
+<cell leftBorder="White" topBorder="White" rightBorder="White" bottomBorder="White" width="149" height="22">
+<text>
+<par leftIndent="5500" lineSpacing="800">
+<line baseline="629" l="994" t="614" r="1010" b="626"><formatting lang="EnglishUnitedStates">
+<charParams l="994" t="615" r="1001" b="626">9</charParams>
+<charParams l="1002" t="614" r="1010" b="626">8</charParams></formatting></line></par>
+</text></cell>
+<cell leftBorder="White" topBorder="White" rightBorder="White" bottomBorder="White" width="141" height="22">
+<text>
+<par align="Right" lineSpacing="800">
+<line baseline="630" l="1138" t="614" r="1153" b="626"><formatting lang="EnglishUnitedStates">
+<charParams l="1138" t="614" r="1145" b="626">9</charParams>
+<charParams l="1146" t="614" r="1153" b="625">7</charParams></formatting></line></par>
+</text></cell></row>
+<row>
+<cell leftBorder="White" topBorder="White" rightBorder="White" bottomBorder="White" width="199" height="23">
+<text>
+<par lineSpacing="800">
+<line baseline="650" l="80" t="637" r="136" b="652"><formatting lang="EnglishUnitedStates">
+<charParams l="80" t="637" r="91" b="649">G</charParams>
+<charParams l="92" t="640" r="101" b="649">e</charParams>
+<charParams l="101" t="640" r="109" b="649">o</charParams>
+<charParams l="111" t="640" r="115" b="649">r</charParams>
+<charParams l="115" t="640" r="123" b="652">g</charParams>
+<charParams l="125" t="637" r="127" b="648">i</charParams>
+<charParams l="128" t="640" r="136" b="649">a</charParams></formatting></line></par>
+</text></cell>
+<cell leftBorder="White" topBorder="White" rightBorder="White" bottomBorder="White" width="175" height="23">
+<text>
+<par align="Right" lineSpacing="800">
+<line baseline="651" l="418" t="637" r="434" b="649"><formatting lang="EnglishUnitedStates">
+<charParams l="418" t="638" r="426" b="649">9</charParams>
+<charParams l="427" t="637" r="434" b="649">2</charParams></formatting></line></par>
+</text></cell>
+<cell leftBorder="White" topBorder="White" rightBorder="White" bottomBorder="White" width="141" height="23">
+<text>
+<par align="Justified" leftIndent="5900" lineSpacing="800">
+<line baseline="652" l="571" t="637" r="579" b="649"><formatting lang="EnglishUnitedStates">
+<charParams l="571" t="637" r="579" b="649">5</charParams></formatting></line></par>
+</text></cell>
+<cell leftBorder="White" topBorder="White" rightBorder="White" bottomBorder="White" width="149" height="23">
+<text>
+<par align="Justified" leftIndent="5600" lineSpacing="800">
+<line baseline="651" l="705" t="637" r="721" b="649"><formatting lang="EnglishUnitedStates">
+<charParams l="705" t="637" r="713" b="649">9</charParams>
+<charParams l="714" t="637" r="721" b="648">7</charParams></formatting></line></par>
+</text></cell>
+<cell leftBorder="White" topBorder="White" rightBorder="White" bottomBorder="White" width="142" height="23">
+<text>
+<par align="Justified" leftIndent="5400" lineSpacing="800">
+<line baseline="651" l="849" t="638" r="865" b="649"><formatting lang="EnglishUnitedStates">
+<charParams l="849" t="638" r="857" b="649">9</charParams>
+<charParams l="858" t="638" r="865" b="649">8</charParams></formatting></line></par>
+</text></cell>
+<cell leftBorder="White" topBorder="White" rightBorder="White" bottomBorder="White" width="149" height="23">
+<text>
+<par leftIndent="5500" lineSpacing="800">
+<line baseline="652" l="994" t="637" r="1010" b="649"><formatting lang="EnglishUnitedStates">
+<charParams l="994" t="638" r="1001" b="649">9</charParams>
+<charParams l="1002" t="637" r="1010" b="649">8</charParams></formatting></line></par>
+</text></cell>
+<cell leftBorder="White" topBorder="White" rightBorder="White" bottomBorder="White" width="141" height="23">
+<text>
+<par align="Right" lineSpacing="800">
+<line baseline="654" l="1138" t="637" r="1154" b="649"><formatting lang="EnglishUnitedStates">
+<charParams l="1138" t="637" r="1145" b="649">9</charParams>
+<charParams l="1146" t="637" r="1154" b="649">6</charParams></formatting></line></par>
+</text></cell></row>
+<row>
+<cell leftBorder="White" topBorder="White" rightBorder="White" bottomBorder="White" width="199" height="22">
+<text>
+<par lineSpacing="800">
+<line baseline="673" l="80" t="660" r="146" b="675"><formatting lang="EnglishUnitedStates">
+<charParams l="80" t="660" r="91" b="672">G</charParams>
+<charParams l="92" t="663" r="100" b="672">e</charParams>
+<charParams l="102" t="663" r="107" b="672">r</charParams>
+<charParams l="107" t="663" r="119" b="672">m</charParams>
+<charParams l="120" t="663" r="128" b="672">a</charParams>
+<charParams l="130" t="663" r="137" b="672">n</charParams>
+<charParams l="138" t="663" r="146" b="675">y</charParams></formatting></line></par>
+</text></cell>
+<cell leftBorder="White" topBorder="White" rightBorder="White" bottomBorder="White" width="175" height="22">
+<text>
+<par align="Justified" leftIndent="6600" lineSpacing="800">
+<line baseline="674" l="411" t="659" r="434" b="672"><formatting lang="EnglishUnitedStates">
+<charParams l="411" t="660" r="416" b="671">1</charParams>
+<charParams l="418" t="660" r="426" b="671">0</charParams>
+<charParams l="427" t="659" r="434" b="672">0</charParams></formatting></line></par>
+</text></cell>
+<cell leftBorder="White" topBorder="White" rightBorder="White" bottomBorder="White" width="141" height="22">
+<text>
+<par align="Justified" leftIndent="5900" lineSpacing="800">
+<line baseline="674" l="571" t="659" r="578" b="671"><formatting lang="EnglishUnitedStates">
+<charParams l="571" t="659" r="578" b="671">2</charParams></formatting></line></par>
+</text></cell>
+<cell leftBorder="White" topBorder="White" rightBorder="White" bottomBorder="White" width="149" height="22">
+<text>
+<par align="Justified" leftIndent="5600" lineSpacing="800">
+<line baseline="674" l="705" t="659" r="721" b="671"><formatting lang="EnglishUnitedStates">
+<charParams l="705" t="659" r="713" b="671">9</charParams>
+<charParams l="714" t="659" r="721" b="671">6</charParams></formatting></line></par>
+</text></cell>
+<cell leftBorder="White" topBorder="White" rightBorder="White" bottomBorder="White" width="142" height="22">
+<text>
+<par align="Justified" leftIndent="5400" lineSpacing="800">
+<line baseline="673" l="849" t="660" r="866" b="671"><formatting lang="EnglishUnitedStates">
+<charParams l="849" t="660" r="857" b="671">9</charParams>
+<charParams l="858" t="660" r="866" b="671">9</charParams></formatting></line></par>
+</text></cell>
+<cell leftBorder="White" topBorder="White" rightBorder="White" bottomBorder="White" width="149" height="22">
+<text>
+<par leftIndent="5500" lineSpacing="800">
+<line baseline="674" l="993" t="659" r="1010" b="671"><formatting lang="EnglishUnitedStates">
+<charParams l="993" t="660" r="1001" b="671">9</charParams>
+<charParams l="1002" t="659" r="1010" b="671">6</charParams></formatting></line></par>
+</text></cell>
+<cell leftBorder="White" topBorder="White" rightBorder="White" bottomBorder="White" width="141" height="22">
+<text>
+<par align="Right" lineSpacing="800">
+<line baseline="676" l="1138" t="659" r="1154" b="671"><formatting lang="EnglishUnitedStates">
+<charParams l="1138" t="659" r="1145" b="671">9</charParams>
+<charParams l="1146" t="659" r="1154" b="671">5</charParams></formatting></line></par>
+</text></cell></row>
+<row>
+<cell leftBorder="White" topBorder="White" rightBorder="White" bottomBorder="White" width="199" height="23">
+<text>
+<par lineSpacing="860">
+<line baseline="695" l="80" t="681" r="201" b="697"><formatting lang="EnglishUnitedStates">
+<charParams l="80" t="682" r="92" b="694">H</charParams>
+<charParams l="91" t="685" r="100" b="694">o</charParams>
+<charParams l="100" t="685" r="109" b="694">n</charParams>
+<charParams l="109" t="685" r="118" b="697">g</charParams>
+<charParams l="119" t="682" r="122" b="697"> </charParams>
+<charParams l="123" t="682" r="134" b="694">K</charParams>
+<charParams l="134" t="685" r="142" b="694">o</charParams>
+<charParams l="143" t="685" r="151" b="694">n</charParams>
+<charParams l="151" t="685" r="160" b="697">g</charParams>
+<charParams l="161" t="688" r="165" b="690">-</charParams>
+<charParams l="166" t="681" r="177" b="694">C</charParams>
+<charParams l="178" t="682" r="189" b="694">H</charParams>
+<charParams l="189" t="682" r="201" b="694">N</charParams></formatting></line></par>
+</text></cell>
+<cell leftBorder="White" topBorder="White" rightBorder="White" bottomBorder="White" width="175" height="23">
+<text>
+<par align="Justified" leftIndent="6600" lineSpacing="800">
+<line baseline="697" l="411" t="682" r="434" b="695"><formatting lang="EnglishUnitedStates">
+<charParams l="411" t="683" r="416" b="694">1</charParams>
+<charParams l="418" t="683" r="426" b="694">0</charParams>
+<charParams l="427" t="682" r="434" b="695">0</charParams></formatting></line></par>
+</text></cell>
+<cell leftBorder="White" topBorder="White" rightBorder="White" bottomBorder="White" width="141" height="23">
+<text>
+<par align="Justified" lineSpacing="800">
+<line baseline="697" l="563" t="682" r="578" b="694"><formatting lang="EnglishUnitedStates">
+<charParams l="563" t="683" r="568" b="694">1</charParams>
+<charParams l="571" t="682" r="578" b="694">2</charParams></formatting></line></par>
+</text></cell>
+<cell leftBorder="White" topBorder="White" rightBorder="White" bottomBorder="White" width="149" height="23">
+<text>
+<par align="Justified" leftIndent="5600" lineSpacing="800">
+<line baseline="697" l="705" t="682" r="721" b="694"><formatting lang="EnglishUnitedStates">
+<charParams l="705" t="682" r="713" b="694">8</charParams>
+<charParams l="714" t="682" r="721" b="694">6</charParams></formatting></line></par>
+</text></cell>
+<cell leftBorder="White" topBorder="White" rightBorder="White" bottomBorder="White" width="142" height="23">
+<text>
+<par align="Justified" leftIndent="5400" lineSpacing="800">
+<line baseline="696" l="849" t="683" r="865" b="694"><formatting lang="EnglishUnitedStates">
+<charParams l="849" t="683" r="857" b="694">8</charParams>
+<charParams l="858" t="683" r="865" b="694">8</charParams></formatting></line></par>
+</text></cell>
+<cell leftBorder="White" topBorder="White" rightBorder="White" bottomBorder="White" width="149" height="23">
+<text>
+<par leftIndent="5500" lineSpacing="800">
+<line baseline="697" l="994" t="682" r="1009" b="694"><formatting lang="EnglishUnitedStates">
+<charParams l="994" t="683" r="1001" b="694">9</charParams>
+<charParams l="1001" t="682" r="1009" b="694">4</charParams></formatting></line></par>
+</text></cell>
+<cell leftBorder="White" topBorder="White" rightBorder="White" bottomBorder="White" width="141" height="23">
+<text>
+<par align="Right" lineSpacing="800">
+<line baseline="699" l="1138" t="682" r="1154" b="694"><formatting lang="EnglishUnitedStates">
+<charParams l="1138" t="682" r="1145" b="694">8</charParams>
+<charParams l="1146" t="682" r="1154" b="694">3</charParams></formatting></line></par>
+</text></cell></row>
+<row>
+<cell leftBorder="White" topBorder="White" rightBorder="White" bottomBorder="White" width="199" height="23">
+<text>
+<par lineSpacing="800">
+<line baseline="718" l="80" t="705" r="140" b="720"><formatting lang="EnglishUnitedStates">
+<charParams l="80" t="705" r="90" b="717">H</charParams>
+<charParams l="92" t="708" r="99" b="717">u</charParams>
+<charParams l="101" t="708" r="108" b="717">n</charParams>
+<charParams l="109" t="708" r="117" b="720">g</charParams>
+<charParams l="118" t="708" r="126" b="717">a</charParams>
+<charParams l="128" t="708" r="132" b="717">r</charParams>
+<charParams l="132" t="708" r="140" b="720">y</charParams></formatting></line></par>
+</text></cell>
+<cell leftBorder="White" topBorder="White" rightBorder="White" bottomBorder="White" width="175" height="23">
+<text>
+<par align="Justified" leftIndent="6600" lineSpacing="800">
+<line baseline="719" l="411" t="704" r="434" b="717"><formatting lang="EnglishUnitedStates">
+<charParams l="411" t="705" r="416" b="716">1</charParams>
+<charParams l="418" t="705" r="426" b="716">0</charParams>
+<charParams l="427" t="704" r="434" b="717">0</charParams></formatting></line></par>
+</text></cell>
+<cell leftBorder="White" topBorder="White" rightBorder="White" bottomBorder="White" width="141" height="23">
+<text>
+<par align="Justified" lineSpacing="800">
+<line baseline="718" l="570" t="705" r="578" b="715"><formatting lang="EnglishUnitedStates">
+<charParams l="570" t="705" r="578" b="715">4</charParams></formatting></line></par>
+</text></cell>
+<cell leftBorder="White" topBorder="White" rightBorder="White" bottomBorder="White" width="149" height="23">
+<text>
+<par align="Justified" leftIndent="5600" lineSpacing="800">
+<line baseline="719" l="705" t="704" r="721" b="716"><formatting lang="EnglishUnitedStates">
+<charParams l="705" t="704" r="713" b="716">9</charParams>
+<charParams l="714" t="704" r="721" b="716">8</charParams></formatting></line></par>
+</text></cell>
+<cell leftBorder="White" topBorder="White" rightBorder="White" bottomBorder="White" width="142" height="23">
+<text>
+<par align="Justified" leftIndent="5400" lineSpacing="800">
+<line baseline="718" l="849" t="705" r="866" b="716"><formatting lang="EnglishUnitedStates">
+<charParams l="849" t="705" r="857" b="716">9</charParams>
+<charParams l="858" t="705" r="866" b="716">9</charParams></formatting></line></par>
+</text></cell>
+<cell leftBorder="White" topBorder="White" rightBorder="White" bottomBorder="White" width="149" height="23">
+<text>
+<par leftIndent="5500" lineSpacing="800">
+<line baseline="719" l="993" t="704" r="1009" b="716"><formatting lang="EnglishUnitedStates">
+<charParams l="993" t="705" r="1001" b="716">9</charParams>
+<charParams l="1002" t="704" r="1009" b="716">7</charParams></formatting></line></par>
+</text></cell>
+<cell leftBorder="White" topBorder="White" rightBorder="White" bottomBorder="White" width="141" height="23">
+<text>
+<par align="Right" lineSpacing="800">
+<line baseline="721" l="1138" t="704" r="1154" b="716"><formatting lang="EnglishUnitedStates">
+<charParams l="1138" t="704" r="1145" b="716">9</charParams>
+<charParams l="1146" t="704" r="1154" b="716">6</charParams></formatting></line></par>
+</text></cell></row>
+<row>
+<cell leftBorder="White" topBorder="White" rightBorder="White" bottomBorder="White" width="199" height="22">
+<text>
+<par lineSpacing="800">
+<line baseline="740" l="81" t="727" r="149" b="739"><formatting lang="EnglishUnitedStates">
+<charParams l="81" t="727" r="83" b="739">I</charParams>
+<charParams l="85" t="730" r="92" b="739">n</charParams>
+<charParams l="93" t="727" r="101" b="739">d</charParams>
+<charParams l="102" t="730" r="110" b="739">o</charParams>
+<charParams l="111" t="730" r="119" b="738">n</charParams>
+<charParams l="120" t="730" r="128" b="739">e</charParams>
+<charParams l="129" t="730" r="136" b="739">s</charParams>
+<charParams l="137" t="727" r="140" b="738">i</charParams>
+<charParams l="141" t="730" r="149" b="739">a</charParams></formatting></line></par>
+</text></cell>
+<cell leftBorder="White" topBorder="White" rightBorder="White" bottomBorder="White" width="175" height="22">
+<text>
+<par align="Justified" leftIndent="6600" lineSpacing="800">
+<line baseline="742" l="411" t="727" r="434" b="740"><formatting lang="EnglishUnitedStates">
+<charParams l="411" t="728" r="416" b="739">1</charParams>
+<charParams l="418" t="728" r="426" b="739">0</charParams>
+<charParams l="427" t="727" r="434" b="740">0</charParams></formatting></line></par>
+</text></cell>
+<cell leftBorder="White" topBorder="White" rightBorder="White" bottomBorder="White" width="141" height="22">
+<text>
+<par align="Justified" leftIndent="5900" lineSpacing="800">
+<line baseline="742" l="571" t="727" r="579" b="739"><formatting lang="EnglishUnitedStates">
+<charParams l="571" t="727" r="579" b="739">3</charParams></formatting></line></par>
+</text></cell>
+<cell leftBorder="White" topBorder="White" rightBorder="White" bottomBorder="White" width="149" height="22">
+<text>
+<par align="Justified" leftIndent="5300" lineSpacing="800">
+<line baseline="742" l="698" t="727" r="721" b="739"><formatting lang="EnglishUnitedStates">
+<charParams l="698" t="728" r="703" b="738">1</charParams>
+<charParams l="705" t="727" r="713" b="739">0</charParams>
+<charParams l="714" t="727" r="721" b="739">0</charParams></formatting></line></par>
+</text></cell>
+<cell leftBorder="White" topBorder="White" rightBorder="White" bottomBorder="White" width="142" height="22">
+<text>
+<par align="Justified" startIndent="5000" lineSpacing="800">
+<line baseline="741" l="842" t="728" r="866" b="739"><formatting lang="EnglishUnitedStates">
+<charParams l="842" t="728" r="847" b="739">1</charParams>
+<charParams l="849" t="728" r="857" b="739">0</charParams>
+<charParams l="858" t="728" r="866" b="739">0</charParams></formatting></line></par>
+</text></cell>
+<cell leftBorder="White" topBorder="White" rightBorder="White" bottomBorder="White" width="149" height="22">
+<text>
+<par leftIndent="5500" lineSpacing="800">
+<line baseline="742" l="993" t="727" r="1009" b="739"><formatting lang="EnglishUnitedStates">
+<charParams l="993" t="728" r="1001" b="739">9</charParams>
+<charParams l="1002" t="727" r="1009" b="739">7</charParams></formatting></line></par>
+</text></cell>
+<cell leftBorder="White" topBorder="White" rightBorder="White" bottomBorder="White" width="141" height="22">
+<text>
+<par align="Right" lineSpacing="800">
+<line baseline="743" l="1138" t="727" r="1153" b="739"><formatting lang="EnglishUnitedStates">
+<charParams l="1138" t="727" r="1145" b="739">9</charParams>
+<charParams l="1146" t="727" r="1153" b="738">7</charParams></formatting></line></par>
+</text></cell></row>
+<row>
+<cell leftBorder="White" topBorder="White" rightBorder="White" bottomBorder="White" width="199" height="22">
+<text>
+<par lineSpacing="800">
+<line baseline="763" l="81" t="749" r="227" b="765"><formatting lang="EnglishUnitedStates">
+<charParams l="81" t="750" r="83" b="762">I</charParams>
+<charParams l="84" t="753" r="89" b="762">r</charParams>
+<charParams l="89" t="753" r="98" b="762">a</charParams>
+<charParams l="99" t="753" r="106" b="762">n</charParams>
+<charParams l="108" t="760" r="111" b="763">,</charParams>
+<charParams l="112" t="750" r="116" b="763"> </charParams>
+<charParams l="117" t="750" r="120" b="761">I</charParams>
+<charParams l="121" t="753" r="128" b="762">s</charParams>
+<charParams l="129" t="750" r="131" b="761">l</charParams>
+<charParams l="132" t="753" r="141" b="762">a</charParams>
+<charParams l="142" t="753" r="154" b="761">m</charParams>
+<charParams l="155" t="750" r="158" b="761">i</charParams>
+<charParams l="159" t="753" r="166" b="762">c</charParams>
+<charParams l="167" t="750" r="171" b="762"> </charParams>
+<charParams l="172" t="750" r="182" b="762">R</charParams>
+<charParams l="183" t="753" r="191" b="762">e</charParams>
+<charParams l="192" t="753" r="200" b="765">p</charParams>
+<charParams l="202" t="760" r="204" b="762">.</charParams>
+<charParams l="205" t="749" r="209" b="762"> </charParams>
+<charParams l="210" t="749" r="222" b="762">O</charParams>
+<charParams l="222" t="749" r="227" b="761">f</charParams></formatting></line></par>
+</text></cell>
+<cell leftBorder="White" topBorder="White" rightBorder="White" bottomBorder="White" width="175" height="22">
+<text>
+<par align="Justified" leftIndent="6600" lineSpacing="800">
+<line baseline="764" l="411" t="749" r="434" b="762"><formatting lang="EnglishUnitedStates">
+<charParams l="411" t="750" r="416" b="761">1</charParams>
+<charParams l="418" t="750" r="426" b="761">0</charParams>
+<charParams l="427" t="749" r="434" b="762">0</charParams></formatting></line></par>
+</text></cell>
+<cell leftBorder="White" topBorder="White" rightBorder="White" bottomBorder="White" width="141" height="22">
+<text>
+<par align="Justified" leftIndent="5900" lineSpacing="800">
+<line baseline="764" l="571" t="749" r="579" b="761"><formatting lang="EnglishUnitedStates">
+<charParams l="571" t="749" r="579" b="761">5</charParams></formatting></line></par>
+</text></cell>
+<cell leftBorder="White" topBorder="White" rightBorder="White" bottomBorder="White" width="149" height="22">
+<text>
+<par align="Justified" leftIndent="5300" lineSpacing="800">
+<line baseline="764" l="698" t="749" r="721" b="761"><formatting lang="EnglishUnitedStates">
+<charParams l="698" t="750" r="703" b="760">1</charParams>
+<charParams l="705" t="749" r="713" b="761">0</charParams>
+<charParams l="714" t="749" r="721" b="761">0</charParams></formatting></line></par>
+</text></cell>
+<cell leftBorder="White" topBorder="White" rightBorder="White" bottomBorder="White" width="142" height="22">
+<text>
+<par align="Justified" startIndent="5000" lineSpacing="800">
+<line baseline="763" l="842" t="750" r="866" b="761"><formatting lang="EnglishUnitedStates">
+<charParams l="842" t="750" r="847" b="761">1</charParams>
+<charParams l="849" t="750" r="857" b="761">0</charParams>
+<charParams l="858" t="750" r="866" b="761">0</charParams></formatting></line></par>
+</text></cell>
+<cell leftBorder="White" topBorder="White" rightBorder="White" bottomBorder="White" width="149" height="22">
+<text>
+<par leftIndent="5500" lineSpacing="800">
+<line baseline="764" l="993" t="749" r="1010" b="761"><formatting lang="EnglishUnitedStates">
+<charParams l="993" t="750" r="1001" b="761">9</charParams>
+<charParams l="1002" t="749" r="1010" b="761">9</charParams></formatting></line></par>
+</text></cell>
+<cell leftBorder="White" topBorder="White" rightBorder="White" bottomBorder="White" width="141" height="22">
+<text>
+<par align="Right" lineSpacing="800">
+<line baseline="766" l="1138" t="749" r="1154" b="761"><formatting lang="EnglishUnitedStates">
+<charParams l="1138" t="749" r="1145" b="761">9</charParams>
+<charParams l="1146" t="749" r="1154" b="761">9</charParams></formatting></line></par>
+</text></cell></row>
+<row>
+<cell leftBorder="White" topBorder="White" rightBorder="White" bottomBorder="White" width="199" height="23">
+<text>
+<par lineSpacing="800">
+<line baseline="785" l="81" t="772" r="128" b="784"><formatting lang="EnglishUnitedStates">
+<charParams l="81" t="772" r="83" b="784">I</charParams>
+<charParams l="84" t="775" r="89" b="784">r</charParams>
+<charParams l="90" t="775" r="98" b="784">e</charParams>
+<charParams l="99" t="772" r="101" b="783">l</charParams>
+<charParams l="102" t="775" r="110" b="784">a</charParams>
+<charParams l="112" t="775" r="119" b="783">n</charParams>
+<charParams l="120" t="772" r="128" b="784">d</charParams></formatting></line></par>
+</text></cell>
+<cell leftBorder="White" topBorder="White" rightBorder="White" bottomBorder="White" width="175" height="23">
+<text>
+<par align="Justified" leftIndent="6600" lineSpacing="800">
+<line baseline="787" l="411" t="772" r="434" b="785"><formatting lang="EnglishUnitedStates">
+<charParams l="411" t="773" r="416" b="784">1</charParams>
+<charParams l="418" t="773" r="426" b="784">0</charParams>
+<charParams l="427" t="772" r="434" b="785">0</charParams></formatting></line></par>
+</text></cell>
+<cell leftBorder="White" topBorder="White" rightBorder="White" bottomBorder="White" width="141" height="23">
+<text>
+<par align="Justified" leftIndent="5900" lineSpacing="800">
+<line baseline="787" l="571" t="772" r="579" b="784"><formatting lang="EnglishUnitedStates">
+<charParams l="571" t="772" r="579" b="784">3</charParams></formatting></line></par>
+</text></cell>
+<cell leftBorder="White" topBorder="White" rightBorder="White" bottomBorder="White" width="149" height="23">
+<text>
+<par align="Justified" leftIndent="5600" lineSpacing="800">
+<line baseline="787" l="705" t="772" r="721" b="784"><formatting lang="EnglishUnitedStates">
+<charParams l="705" t="772" r="713" b="784">9</charParams>
+<charParams l="714" t="772" r="721" b="784">8</charParams></formatting></line></par>
+</text></cell>
+<cell leftBorder="White" topBorder="White" rightBorder="White" bottomBorder="White" width="142" height="23">
+<text>
+<par align="Justified" startIndent="5000" lineSpacing="800">
+<line baseline="786" l="842" t="773" r="866" b="784"><formatting lang="EnglishUnitedStates">
+<charParams l="842" t="773" r="847" b="784">1</charParams>
+<charParams l="849" t="773" r="857" b="784">0</charParams>
+<charParams l="858" t="773" r="866" b="784">0</charParams></formatting></line></par>
+</text></cell>
+<cell leftBorder="White" topBorder="White" rightBorder="White" bottomBorder="White" width="149" height="23">
+<text>
+<par leftIndent="5500" lineSpacing="800">
+<line baseline="787" l="993" t="772" r="1010" b="784"><formatting lang="EnglishUnitedStates">
+<charParams l="993" t="773" r="1001" b="784">9</charParams>
+<charParams l="1002" t="772" r="1010" b="784">5</charParams></formatting></line></par>
+</text></cell>
+<cell leftBorder="White" topBorder="White" rightBorder="White" bottomBorder="White" width="141" height="23">
+<text>
+<par align="Right" lineSpacing="800">
+<line baseline="789" l="1138" t="772" r="1154" b="784"><formatting lang="EnglishUnitedStates">
+<charParams l="1138" t="772" r="1145" b="784">9</charParams>
+<charParams l="1146" t="772" r="1154" b="784">5</charParams></formatting></line></par>
+</text></cell></row>
+<row>
+<cell leftBorder="White" topBorder="White" rightBorder="White" bottomBorder="White" width="199" height="22">
+<text>
+<par lineSpacing="800">
+<line baseline="808" l="81" t="795" r="118" b="807"><formatting lang="EnglishUnitedStates">
+<charParams l="81" t="795" r="83" b="807">I</charParams>
+<charParams l="84" t="798" r="91" b="807">s</charParams>
+<charParams l="93" t="798" r="97" b="806">r</charParams>
+<charParams l="97" t="798" r="106" b="807">a</charParams>
+<charParams l="107" t="798" r="115" b="807">e</charParams>
+<charParams l="116" t="795" r="118" b="806">l</charParams></formatting></line></par>
+</text></cell>
+<cell leftBorder="White" topBorder="White" rightBorder="White" bottomBorder="White" width="175" height="22">
+<text>
+<par align="Justified" leftIndent="6600" lineSpacing="800">
+<line baseline="809" l="411" t="794" r="434" b="807"><formatting lang="EnglishUnitedStates">
+<charParams l="411" t="795" r="416" b="806">1</charParams>
+<charParams l="418" t="795" r="426" b="806">0</charParams>
+<charParams l="427" t="794" r="434" b="807">0</charParams></formatting></line></par>
+</text></cell>
+<cell leftBorder="White" topBorder="White" rightBorder="White" bottomBorder="White" width="141" height="22">
+<text>
+<par align="Right" lineSpacing="800">
+<line baseline="809" l="562" t="794" r="579" b="806"><formatting lang="EnglishUnitedStates">
+<charParams l="562" t="794" r="570" b="806">2</charParams>
+<charParams l="571" t="794" r="579" b="806">5</charParams></formatting></line></par>
+</text></cell>
+<cell leftBorder="White" topBorder="White" rightBorder="White" bottomBorder="White" width="149" height="22">
+<text>
+<par align="Justified" leftIndent="5600" lineSpacing="800">
+<line baseline="809" l="705" t="794" r="721" b="806"><formatting lang="EnglishUnitedStates">
+<charParams l="705" t="794" r="713" b="806">9</charParams>
+<charParams l="714" t="794" r="721" b="806">8</charParams></formatting></line></par>
+</text></cell>
+<cell leftBorder="White" topBorder="White" rightBorder="White" bottomBorder="White" width="142" height="22">
+<text>
+<par align="Justified" leftIndent="5400" lineSpacing="800">
+<line baseline="808" l="849" t="795" r="866" b="806"><formatting lang="EnglishUnitedStates">
+<charParams l="849" t="795" r="857" b="806">9</charParams>
+<charParams l="858" t="795" r="866" b="806">9</charParams></formatting></line></par>
+</text></cell>
+<cell leftBorder="White" topBorder="White" rightBorder="White" bottomBorder="White" width="149" height="22">
+<text>
+<par leftIndent="5500" lineSpacing="800">
+<line baseline="809" l="994" t="794" r="1009" b="806"><formatting lang="EnglishUnitedStates">
+<charParams l="994" t="795" r="1001" b="806">9</charParams>
+<charParams l="1001" t="794" r="1009" b="806">4</charParams></formatting></line></par>
+</text></cell>
+<cell leftBorder="White" topBorder="White" rightBorder="White" bottomBorder="White" width="141" height="22">
+<text>
+<par align="Right" lineSpacing="800">
+<line baseline="811" l="1138" t="794" r="1154" b="806"><formatting lang="EnglishUnitedStates">
+<charParams l="1138" t="794" r="1145" b="806">9</charParams>
+<charParams l="1146" t="794" r="1154" b="806">3</charParams></formatting></line></par>
+</text></cell></row>
+<row>
+<cell leftBorder="White" topBorder="White" rightBorder="White" bottomBorder="White" width="199" height="23">
+<text>
+<par lineSpacing="800">
+<line baseline="830" l="81" t="817" r="109" b="832"><formatting lang="EnglishUnitedStates">
+<charParams l="81" t="817" r="83" b="828">I</charParams>
+<charParams l="84" t="818" r="88" b="829">t</charParams>
+<charParams l="89" t="820" r="96" b="829">a</charParams>
+<charParams l="98" t="817" r="100" b="828">l</charParams>
+<charParams l="101" t="820" r="109" b="832">y</charParams></formatting></line></par>
+</text></cell>
+<cell leftBorder="White" topBorder="White" rightBorder="White" bottomBorder="White" width="175" height="23">
+<text>
+<par align="Justified" leftIndent="6600" lineSpacing="800">
+<line baseline="832" l="411" t="817" r="434" b="830"><formatting lang="EnglishUnitedStates">
+<charParams l="411" t="818" r="416" b="829">1</charParams>
+<charParams l="418" t="818" r="426" b="829">0</charParams>
+<charParams l="427" t="817" r="434" b="830">0</charParams></formatting></line></par>
+</text></cell>
+<cell leftBorder="White" topBorder="White" rightBorder="White" bottomBorder="White" width="141" height="23">
+<text>
+<par align="Justified" lineSpacing="800">
+<line baseline="831" l="570" t="818" r="578" b="828"><formatting lang="EnglishUnitedStates">
+<charParams l="570" t="818" r="578" b="828">4</charParams></formatting></line></par>
+</text></cell>
+<cell leftBorder="White" topBorder="White" rightBorder="White" bottomBorder="White" width="149" height="23">
+<text>
+<par align="Justified" leftIndent="5600" lineSpacing="800">
+<line baseline="832" l="705" t="817" r="719" b="829"><formatting lang="EnglishUnitedStates">
+<charParams l="705" t="817" r="713" b="829">8</charParams>
+<charParams l="715" t="818" r="719" b="828">1</charParams></formatting></line></par>
+</text></cell>
+<cell leftBorder="White" topBorder="White" rightBorder="White" bottomBorder="White" width="142" height="23">
+<text>
+<par align="Justified" leftIndent="5400" lineSpacing="800">
+<line baseline="831" l="849" t="818" r="865" b="829"><formatting lang="EnglishUnitedStates">
+<charParams l="849" t="818" r="857" b="829">9</charParams>
+<charParams l="858" t="818" r="865" b="829">8</charParams></formatting></line></par>
+</text></cell>
+<cell leftBorder="White" topBorder="White" rightBorder="White" bottomBorder="White" width="149" height="23">
+<text>
+<par leftIndent="5500" lineSpacing="800">
+<line baseline="832" l="993" t="817" r="1010" b="829"><formatting lang="EnglishUnitedStates">
+<charParams l="993" t="818" r="1001" b="829">9</charParams>
+<charParams l="1002" t="817" r="1010" b="829">6</charParams></formatting></line></par>
+</text></cell>
+<cell leftBorder="White" topBorder="White" rightBorder="White" bottomBorder="White" width="141" height="23">
+<text>
+<par align="Right" lineSpacing="800">
+<line baseline="834" l="1138" t="817" r="1154" b="829"><formatting lang="EnglishUnitedStates">
+<charParams l="1138" t="817" r="1145" b="829">9</charParams>
+<charParams l="1146" t="817" r="1154" b="829">5</charParams></formatting></line></par>
+</text></cell></row>
+<row>
+<cell leftBorder="White" topBorder="White" rightBorder="White" bottomBorder="White" width="199" height="22">
+<text>
+<par lineSpacing="800">
+<line baseline="853" l="80" t="840" r="144" b="852"><formatting lang="EnglishUnitedStates">
+<charParams l="80" t="840" r="88" b="852">L</charParams>
+<charParams l="89" t="840" r="91" b="851">i</charParams>
+<charParams l="92" t="840" r="97" b="852">t</charParams>
+<charParams l="97" t="840" r="105" b="851">h</charParams>
+<charParams l="106" t="843" r="114" b="852">u</charParams>
+<charParams l="115" t="842" r="122" b="852">a</charParams>
+<charParams l="124" t="842" r="131" b="851">n</charParams>
+<charParams l="133" t="840" r="135" b="851">i</charParams>
+<charParams l="136" t="842" r="144" b="852">a</charParams></formatting></line></par>
+</text></cell>
+<cell leftBorder="White" topBorder="White" rightBorder="White" bottomBorder="White" width="175" height="22">
+<text>
+<par align="Right" lineSpacing="800">
+<line baseline="853" l="418" t="839" r="434" b="851"><formatting lang="EnglishUnitedStates">
+<charParams l="418" t="840" r="426" b="851">9</charParams>
+<charParams l="427" t="839" r="434" b="851">3</charParams></formatting></line></par>
+</text></cell>
+<cell leftBorder="White" topBorder="White" rightBorder="White" bottomBorder="White" width="141" height="22">
+<text>
+<par align="Justified" leftIndent="5900" lineSpacing="800">
+<line baseline="854" l="571" t="839" r="578" b="851"><formatting lang="EnglishUnitedStates">
+<charParams l="571" t="839" r="578" b="851">6</charParams></formatting></line></par>
+</text></cell>
+<cell leftBorder="White" topBorder="White" rightBorder="White" bottomBorder="White" width="149" height="22">
+<text>
+<par align="Justified" leftIndent="5600" lineSpacing="800">
+<line baseline="853" l="705" t="839" r="721" b="851"><formatting lang="EnglishUnitedStates">
+<charParams l="705" t="839" r="713" b="851">9</charParams>
+<charParams l="713" t="840" r="721" b="850">4</charParams></formatting></line></par>
+</text></cell>
+<cell leftBorder="White" topBorder="White" rightBorder="White" bottomBorder="White" width="142" height="22">
+<text>
+<par align="Justified" startIndent="5000" lineSpacing="800">
+<line baseline="853" l="842" t="840" r="866" b="851"><formatting lang="EnglishUnitedStates">
+<charParams l="842" t="840" r="847" b="851">1</charParams>
+<charParams l="849" t="840" r="857" b="851">0</charParams>
+<charParams l="858" t="840" r="866" b="851">0</charParams></formatting></line></par>
+</text></cell>
+<cell leftBorder="White" topBorder="White" rightBorder="White" bottomBorder="White" width="149" height="22">
+<text>
+<par leftIndent="5500" lineSpacing="800">
+<line baseline="854" l="994" t="839" r="1009" b="851"><formatting lang="EnglishUnitedStates">
+<charParams l="994" t="840" r="1001" b="851">9</charParams>
+<charParams l="1001" t="839" r="1009" b="851">4</charParams></formatting></line></par>
+</text></cell>
+<cell leftBorder="White" topBorder="White" rightBorder="White" bottomBorder="White" width="141" height="22">
+<text>
+<par align="Right" lineSpacing="800">
+<line baseline="855" l="1138" t="839" r="1153" b="851"><formatting lang="EnglishUnitedStates">
+<charParams l="1138" t="839" r="1145" b="851">9</charParams>
+<charParams l="1146" t="840" r="1153" b="850">4</charParams></formatting></line></par>
+</text></cell></row>
+<row>
+<cell leftBorder="White" topBorder="White" rightBorder="White" bottomBorder="White" width="199" height="23">
+<text>
+<par lineSpacing="800">
+<line baseline="875" l="80" t="862" r="118" b="874"><formatting lang="EnglishUnitedStates">
+<charParams l="80" t="862" r="92" b="873">M</charParams>
+<charParams l="93" t="865" r="101" b="874">a</charParams>
+<charParams l="102" t="862" r="104" b="873">l</charParams>
+<charParams l="106" t="863" r="110" b="874">t</charParams>
+<charParams l="110" t="865" r="118" b="874">a</charParams></formatting></line></par>
+</text></cell>
+<cell leftBorder="White" topBorder="White" rightBorder="White" bottomBorder="White" width="175" height="23">
+<text>
+<par align="Justified" leftIndent="6600" lineSpacing="800">
+<line baseline="877" l="411" t="862" r="434" b="875"><formatting lang="EnglishUnitedStates">
+<charParams l="411" t="863" r="416" b="874">1</charParams>
+<charParams l="418" t="863" r="426" b="874">0</charParams>
+<charParams l="427" t="862" r="434" b="875">0</charParams></formatting></line></par>
+</text></cell>
+<cell leftBorder="White" topBorder="White" rightBorder="White" bottomBorder="White" width="141" height="23">
+<text>
+<par align="Justified" lineSpacing="800">
+<line baseline="876" l="570" t="863" r="578" b="873"><formatting lang="EnglishUnitedStates">
+<charParams l="570" t="863" r="578" b="873">4</charParams></formatting></line></par>
+</text></cell>
+<cell leftBorder="White" topBorder="White" rightBorder="White" bottomBorder="White" width="149" height="23">
+<text>
+<par align="Justified" leftIndent="5300" lineSpacing="800">
+<line baseline="877" l="698" t="862" r="721" b="874"><formatting lang="EnglishUnitedStates">
+<charParams l="698" t="863" r="703" b="873">1</charParams>
+<charParams l="705" t="862" r="713" b="874">0</charParams>
+<charParams l="714" t="862" r="721" b="874">0</charParams></formatting></line></par>
+</text></cell>
+<cell leftBorder="White" topBorder="White" rightBorder="White" bottomBorder="White" width="142" height="23">
+<text>
+<par align="Justified" startIndent="5000" lineSpacing="800">
+<line baseline="876" l="842" t="863" r="866" b="874"><formatting lang="EnglishUnitedStates">
+<charParams l="842" t="863" r="847" b="874">1</charParams>
+<charParams l="849" t="863" r="857" b="874">0</charParams>
+<charParams l="858" t="863" r="866" b="874">0</charParams></formatting></line></par>
+</text></cell>
+<cell leftBorder="White" topBorder="White" rightBorder="White" bottomBorder="White" width="149" height="23">
+<text>
+<par leftIndent="5500" lineSpacing="800">
+<line baseline="877" l="993" t="862" r="1010" b="874"><formatting lang="EnglishUnitedStates">
+<charParams l="993" t="863" r="1001" b="874">9</charParams>
+<charParams l="1002" t="862" r="1010" b="874">5</charParams></formatting></line></par>
+</text></cell>
+<cell leftBorder="White" topBorder="White" rightBorder="White" bottomBorder="White" width="141" height="23">
+<text>
+<par align="Right" lineSpacing="800">
+<line baseline="879" l="1138" t="862" r="1154" b="874"><formatting lang="EnglishUnitedStates">
+<charParams l="1138" t="862" r="1145" b="874">9</charParams>
+<charParams l="1146" t="862" r="1154" b="874">5</charParams></formatting></line></par>
+</text></cell></row>
+<row>
+<cell leftBorder="White" topBorder="White" rightBorder="White" bottomBorder="White" width="199" height="22">
+<text>
+<par lineSpacing="800">
+<line baseline="898" l="80" t="885" r="141" b="897"><formatting lang="EnglishUnitedStates">
+<charParams l="80" t="885" r="92" b="896">M</charParams>
+<charParams l="93" t="888" r="101" b="897">o</charParams>
+<charParams l="102" t="887" r="107" b="896">r</charParams>
+<charParams l="107" t="887" r="116" b="897">o</charParams>
+<charParams l="116" t="887" r="124" b="897">c</charParams>
+<charParams l="124" t="887" r="132" b="897">c</charParams>
+<charParams l="132" t="887" r="141" b="897">o</charParams></formatting></line></par>
+</text></cell>
+<cell leftBorder="White" topBorder="White" rightBorder="White" bottomBorder="White" width="175" height="22">
+<text>
+<par align="Justified" leftIndent="6600" lineSpacing="800">
+<line baseline="899" l="411" t="884" r="434" b="897"><formatting lang="EnglishUnitedStates">
+<charParams l="411" t="885" r="416" b="896">1</charParams>
+<charParams l="418" t="885" r="426" b="896">0</charParams>
+<charParams l="427" t="884" r="434" b="897">0</charParams></formatting></line></par>
+</text></cell>
+<cell leftBorder="White" topBorder="White" rightBorder="White" bottomBorder="White" width="141" height="22">
+<text>
+<par align="Justified" leftIndent="5900" lineSpacing="800">
+<line baseline="899" l="571" t="884" r="578" b="896"><formatting lang="EnglishUnitedStates">
+<charParams l="571" t="884" r="578" b="896">2</charParams></formatting></line></par>
+</text></cell>
+<cell leftBorder="White" topBorder="White" rightBorder="White" bottomBorder="White" width="149" height="22">
+<text>
+<par align="Justified" leftIndent="5600" lineSpacing="800">
+<line baseline="899" l="705" t="884" r="721" b="896"><formatting lang="EnglishUnitedStates">
+<charParams l="705" t="884" r="713" b="896">9</charParams>
+<charParams l="714" t="884" r="721" b="896">9</charParams></formatting></line></par>
+</text></cell>
+<cell leftBorder="White" topBorder="White" rightBorder="White" bottomBorder="White" width="142" height="22">
+<text>
+<par align="Justified" leftIndent="5400" lineSpacing="800">
+<line baseline="898" l="849" t="885" r="866" b="896"><formatting lang="EnglishUnitedStates">
+<charParams l="849" t="885" r="857" b="896">9</charParams>
+<charParams l="858" t="885" r="866" b="896">9</charParams></formatting></line></par>
+</text></cell>
+<cell leftBorder="White" topBorder="White" rightBorder="White" bottomBorder="White" width="149" height="22">
+<text>
+<par leftIndent="5500" lineSpacing="800">
+<line baseline="899" l="993" t="884" r="1010" b="896"><formatting lang="EnglishUnitedStates">
+<charParams l="993" t="885" r="1001" b="896">9</charParams>
+<charParams l="1002" t="884" r="1010" b="896">6</charParams></formatting></line></par>
+</text></cell>
+<cell leftBorder="White" topBorder="White" rightBorder="White" bottomBorder="White" width="141" height="22">
+<text>
+<par align="Right" lineSpacing="800">
+<line baseline="901" l="1138" t="884" r="1154" b="896"><formatting lang="EnglishUnitedStates">
+<charParams l="1138" t="884" r="1145" b="896">9</charParams>
+<charParams l="1146" t="884" r="1154" b="896">5</charParams></formatting></line></par>
+</text></cell></row>
+<row>
+<cell leftBorder="White" topBorder="White" rightBorder="White" bottomBorder="White" width="199" height="23">
+<text>
+<par lineSpacing="800">
+<line baseline="920" l="80" t="907" r="166" b="919"><formatting lang="EnglishUnitedStates">
+<charParams l="80" t="907" r="90" b="918">N</charParams>
+<charParams l="91" t="910" r="99" b="919">e</charParams>
+<charParams l="100" t="907" r="104" b="918">t</charParams>
+<charParams l="105" t="907" r="113" b="918">h</charParams>
+<charParams l="114" t="909" r="122" b="919">e</charParams>
+<charParams l="123" t="909" r="128" b="918">r</charParams>
+<charParams l="128" t="907" r="130" b="918">l</charParams>
+<charParams l="132" t="909" r="140" b="919">a</charParams>
+<charParams l="141" t="909" r="149" b="918">n</charParams>
+<charParams l="149" t="907" r="157" b="919">d</charParams>
+<charParams l="159" t="909" r="166" b="919">s</charParams></formatting></line></par>
+</text></cell>
+<cell leftBorder="White" topBorder="White" rightBorder="White" bottomBorder="White" width="175" height="23">
+<text>
+<par align="Justified" leftIndent="6600" lineSpacing="800">
+<line baseline="922" l="411" t="907" r="434" b="920"><formatting lang="EnglishUnitedStates">
+<charParams l="411" t="908" r="416" b="919">1</charParams>
+<charParams l="418" t="908" r="426" b="919">0</charParams>
+<charParams l="427" t="907" r="434" b="920">0</charParams></formatting></line></par>
+</text></cell>
+<cell leftBorder="White" topBorder="White" rightBorder="White" bottomBorder="White" width="141" height="23">
+<text>
+<par align="Justified" lineSpacing="800">
+<line baseline="921" l="570" t="908" r="578" b="918"><formatting lang="EnglishUnitedStates">
+<charParams l="570" t="908" r="578" b="918">4</charParams></formatting></line></par>
+</text></cell>
+<cell leftBorder="White" topBorder="White" rightBorder="White" bottomBorder="White" width="149" height="23">
+<text>
+<par align="Justified" leftIndent="5600" lineSpacing="800">
+<line baseline="922" l="705" t="907" r="721" b="919"><formatting lang="EnglishUnitedStates">
+<charParams l="705" t="907" r="713" b="919">6</charParams>
+<charParams l="714" t="907" r="721" b="919">8</charParams></formatting></line></par>
+</text></cell>
+<cell leftBorder="White" topBorder="White" rightBorder="White" bottomBorder="White" width="142" height="23">
+<text>
+<par align="Justified" leftIndent="5400" lineSpacing="800">
+<line baseline="921" l="849" t="908" r="865" b="919"><formatting lang="EnglishUnitedStates">
+<charParams l="849" t="908" r="857" b="919">9</charParams>
+<charParams l="858" t="908" r="865" b="919">2</charParams></formatting></line></par>
+</text></cell>
+<cell leftBorder="White" topBorder="White" rightBorder="White" bottomBorder="White" width="149" height="23">
+<text>
+<par leftIndent="5500" lineSpacing="800">
+<line baseline="922" l="993" t="907" r="1009" b="919"><formatting lang="EnglishUnitedStates">
+<charParams l="993" t="908" r="1001" b="919">9</charParams>
+<charParams l="1002" t="907" r="1009" b="919">7</charParams></formatting></line></par>
+</text></cell>
+<cell leftBorder="White" topBorder="White" rightBorder="White" bottomBorder="White" width="141" height="23">
+<text>
+<par align="Right" lineSpacing="800">
+<line baseline="924" l="1138" t="907" r="1154" b="919"><formatting lang="EnglishUnitedStates">
+<charParams l="1138" t="907" r="1145" b="919">8</charParams>
+<charParams l="1146" t="907" r="1154" b="919">9</charParams></formatting></line></par>
+</text></cell></row>
+<row>
+<cell leftBorder="White" topBorder="White" rightBorder="White" bottomBorder="White" width="199" height="22">
+<text>
+<par lineSpacing="800">
+<line baseline="943" l="80" t="929" r="174" b="942"><formatting lang="EnglishUnitedStates">
+<charParams l="80" t="930" r="90" b="941">N</charParams>
+<charParams l="91" t="933" r="99" b="942">e</charParams>
+<charParams l="100" t="933" r="111" b="941">w</charParams>
+<charParams l="112" t="929" r="115" b="941"> </charParams>
+<charParams l="116" t="929" r="126" b="941">Z</charParams>
+<charParams l="126" t="932" r="134" b="941">e</charParams>
+<charParams l="135" t="932" r="143" b="941">a</charParams>
+<charParams l="145" t="930" r="147" b="941">l</charParams>
+<charParams l="148" t="932" r="156" b="942">a</charParams>
+<charParams l="157" t="932" r="165" b="941">n</charParams>
+<charParams l="166" t="930" r="174" b="942">d</charParams></formatting></line></par>
+</text></cell>
+<cell leftBorder="White" topBorder="White" rightBorder="White" bottomBorder="White" width="175" height="22">
+<text>
+<par align="Justified" leftIndent="6600" lineSpacing="800">
+<line baseline="944" l="411" t="929" r="434" b="942"><formatting lang="EnglishUnitedStates">
+<charParams l="411" t="930" r="416" b="941">1</charParams>
+<charParams l="418" t="930" r="426" b="941">0</charParams>
+<charParams l="427" t="929" r="434" b="942">0</charParams></formatting></line></par>
+</text></cell>
+<cell leftBorder="White" topBorder="White" rightBorder="White" bottomBorder="White" width="141" height="22">
+<text>
+<par align="Justified" leftIndent="5900" lineSpacing="800">
+<line baseline="944" l="571" t="929" r="579" b="941"><formatting lang="EnglishUnitedStates">
+<charParams l="571" t="929" r="579" b="941">3</charParams></formatting></line></par>
+</text></cell>
+<cell leftBorder="White" topBorder="White" rightBorder="White" bottomBorder="White" width="149" height="22">
+<text>
+<par align="Justified" leftIndent="5600" lineSpacing="800">
+<line baseline="944" l="705" t="929" r="721" b="941"><formatting lang="EnglishUnitedStates">
+<charParams l="705" t="929" r="713" b="941">9</charParams>
+<charParams l="714" t="929" r="721" b="941">3</charParams></formatting></line></par>
+</text></cell>
+<cell leftBorder="White" topBorder="White" rightBorder="White" bottomBorder="White" width="142" height="22">
+<text>
+<par align="Justified" leftIndent="5400" lineSpacing="800">
+<line baseline="943" l="849" t="930" r="866" b="941"><formatting lang="EnglishUnitedStates">
+<charParams l="849" t="930" r="857" b="941">9</charParams>
+<charParams l="858" t="930" r="866" b="941">9</charParams></formatting></line></par>
+</text></cell>
+<cell leftBorder="White" topBorder="White" rightBorder="White" bottomBorder="White" width="149" height="22">
+<text>
+<par leftIndent="5500" lineSpacing="800">
+<line baseline="944" l="994" t="929" r="1009" b="941"><formatting lang="EnglishUnitedStates">
+<charParams l="994" t="930" r="1001" b="941">9</charParams>
+<charParams l="1001" t="929" r="1009" b="941">4</charParams></formatting></line></par>
+</text></cell>
+<cell leftBorder="White" topBorder="White" rightBorder="White" bottomBorder="White" width="141" height="22">
+<text>
+<par align="Right" lineSpacing="800">
+<line baseline="946" l="1138" t="929" r="1154" b="941"><formatting lang="EnglishUnitedStates">
+<charParams l="1138" t="929" r="1145" b="941">9</charParams>
+<charParams l="1146" t="929" r="1154" b="941">3</charParams></formatting></line></par>
+</text></cell></row>
+<row>
+<cell leftBorder="White" topBorder="White" rightBorder="White" bottomBorder="White" width="199" height="22">
+<text>
+<par lineSpacing="860">
+<line baseline="965" l="80" t="951" r="237" b="964"><formatting lang="EnglishUnitedStates">
+<charParams l="80" t="952" r="92" b="963">N</charParams>
+<charParams l="91" t="954" r="100" b="964">o</charParams>
+<charParams l="100" t="954" r="106" b="963">r</charParams>
+<charParams l="106" t="952" r="110" b="963">t</charParams>
+<charParams l="110" t="951" r="118" b="963">h</charParams>
+<charParams l="119" t="954" r="127" b="963">e</charParams>
+<charParams l="128" t="954" r="134" b="963">r</charParams>
+<charParams l="133" t="954" r="142" b="963">n</charParams>
+<charParams l="143" t="951" r="147" b="963"> </charParams>
+<charParams l="148" t="951" r="152" b="963">I</charParams>
+<charParams l="152" t="954" r="158" b="963">r</charParams>
+<charParams l="157" t="954" r="165" b="963">e</charParams>
+<charParams l="166" t="952" r="170" b="963">l</charParams>
+<charParams l="169" t="954" r="178" b="964">a</charParams>
+<charParams l="178" t="954" r="187" b="963">n</charParams>
+<charParams l="187" t="952" r="197" b="964">d</charParams>
+<charParams l="197" t="958" r="201" b="960">-</charParams>
+<charParams l="203" t="951" r="214" b="964">G</charParams>
+<charParams l="215" t="952" r="225" b="964">B</charParams>
+<charParams l="225" t="952" r="237" b="963">R</charParams></formatting></line></par>
+</text></cell>
+<cell leftBorder="White" topBorder="White" rightBorder="White" bottomBorder="White" width="175" height="22">
+<text>
+<par align="Justified" leftIndent="6600" lineSpacing="800">
+<line baseline="967" l="411" t="952" r="434" b="965"><formatting lang="EnglishUnitedStates">
+<charParams l="411" t="953" r="416" b="964">1</charParams>
+<charParams l="418" t="953" r="426" b="964">0</charParams>
+<charParams l="427" t="952" r="434" b="965">0</charParams></formatting></line></par>
+</text></cell>
+<cell leftBorder="White" topBorder="White" rightBorder="White" bottomBorder="White" width="141" height="22">
+<text>
+<par align="Justified" lineSpacing="800">
+<line baseline="966" l="570" t="953" r="578" b="963"><formatting lang="EnglishUnitedStates">
+<charParams l="570" t="953" r="578" b="963">4</charParams></formatting></line></par>
+</text></cell>
+<cell leftBorder="White" topBorder="White" rightBorder="White" bottomBorder="White" width="149" height="22">
+<text>
+<par align="Justified" leftIndent="5600" lineSpacing="800">
+<line baseline="967" l="705" t="952" r="721" b="964"><formatting lang="EnglishUnitedStates">
+<charParams l="705" t="952" r="713" b="964">6</charParams>
+<charParams l="714" t="952" r="721" b="964">2</charParams></formatting></line></par>
+</text></cell>
+<cell leftBorder="White" topBorder="White" rightBorder="White" bottomBorder="White" width="142" height="22">
+<text>
+<par align="Justified" leftIndent="5400" lineSpacing="800">
+<line baseline="966" l="849" t="953" r="866" b="964"><formatting lang="EnglishUnitedStates">
+<charParams l="849" t="953" r="857" b="964">8</charParams>
+<charParams l="858" t="953" r="866" b="964">5</charParams></formatting></line></par>
+</text></cell>
+<cell leftBorder="White" topBorder="White" rightBorder="White" bottomBorder="White" width="149" height="22">
+<text>
+<par leftIndent="5500" lineSpacing="800">
+<line baseline="967" l="993" t="952" r="1010" b="964"><formatting lang="EnglishUnitedStates">
+<charParams l="993" t="953" r="1001" b="964">9</charParams>
+<charParams l="1002" t="952" r="1010" b="964">3</charParams></formatting></line></par>
+</text></cell>
+<cell leftBorder="White" topBorder="White" rightBorder="White" bottomBorder="White" width="141" height="22">
+<text>
+<par align="Right" lineSpacing="800">
+<line baseline="969" l="1138" t="952" r="1154" b="964"><formatting lang="EnglishUnitedStates">
+<charParams l="1138" t="952" r="1145" b="963">7</charParams>
+<charParams l="1146" t="952" r="1154" b="964">9</charParams></formatting></line></par>
+</text></cell></row>
+<row>
+<cell leftBorder="White" topBorder="White" rightBorder="White" bottomBorder="White" width="199" height="24">
+<text>
+<par lineSpacing="800">
+<line baseline="987" l="80" t="975" r="134" b="991"><formatting lang="EnglishUnitedStates">
+<charParams l="80" t="975" r="90" b="986">N</charParams>
+<charParams l="91" t="977" r="99" b="987">o</charParams>
+<charParams l="101" t="977" r="105" b="986">r</charParams>
+<charParams l="105" t="977" r="117" b="986">w</charParams>
+<charParams l="117" t="977" r="125" b="987">a</charParams>
+<charParams l="126" t="978" r="134" b="991">y</charParams></formatting></line></par>
+</text></cell>
+<cell leftBorder="White" topBorder="White" rightBorder="White" bottomBorder="White" width="175" height="24">
+<text>
+<par align="Justified" leftIndent="6600" lineSpacing="800">
+<line baseline="989" l="411" t="974" r="434" b="987"><formatting lang="EnglishUnitedStates">
+<charParams l="411" t="975" r="416" b="986">1</charParams>
+<charParams l="418" t="975" r="426" b="986">0</charParams>
+<charParams l="427" t="974" r="434" b="987">0</charParams></formatting></line></par>
+</text></cell>
+<cell leftBorder="White" topBorder="White" rightBorder="White" bottomBorder="White" width="141" height="24">
+<text>
+<par align="Justified" lineSpacing="800">
+<line baseline="988" l="570" t="975" r="578" b="985"><formatting lang="EnglishUnitedStates">
+<charParams l="570" t="975" r="578" b="985">4</charParams></formatting></line></par>
+</text></cell>
+<cell leftBorder="White" topBorder="White" rightBorder="White" bottomBorder="White" width="149" height="24">
+<text>
+<par align="Justified" leftIndent="5600" lineSpacing="800">
+<line baseline="988" l="705" t="974" r="721" b="986"><formatting lang="EnglishUnitedStates">
+<charParams l="705" t="974" r="713" b="986">5</charParams>
+<charParams l="714" t="974" r="721" b="985">7</charParams></formatting></line></par>
+</text></cell>
+<cell leftBorder="White" topBorder="White" rightBorder="White" bottomBorder="White" width="142" height="24">
+<text>
+<par align="Justified" leftIndent="5400" lineSpacing="800">
+<line baseline="988" l="849" t="975" r="866" b="986"><formatting lang="EnglishUnitedStates">
+<charParams l="849" t="975" r="857" b="986">8</charParams>
+<charParams l="858" t="975" r="866" b="986">3</charParams></formatting></line></par>
+</text></cell>
+<cell leftBorder="White" topBorder="White" rightBorder="White" bottomBorder="White" width="149" height="24">
+<text>
+<par leftIndent="5500" lineSpacing="800">
+<line baseline="989" l="993" t="974" r="1010" b="986"><formatting lang="EnglishUnitedStates">
+<charParams l="993" t="975" r="1001" b="986">8</charParams>
+<charParams l="1002" t="974" r="1010" b="986">6</charParams></formatting></line></par>
+</text></cell>
+<cell leftBorder="White" topBorder="White" rightBorder="White" bottomBorder="White" width="141" height="24">
+<text>
+<par leftIndent="5300" lineSpacing="800">
+<line baseline="990" l="1138" t="974" r="1152" b="985"><formatting lang="EnglishUnitedStates">
+<charParams l="1138" t="974" r="1145" b="985">7</charParams>
+<charParams l="1147" t="975" r="1152" b="985">1</charParams></formatting></line></par>
+</text></cell></row>
+<row>
+<cell leftBorder="White" topBorder="White" rightBorder="White" bottomBorder="White" width="199" height="22">
+<text>
+<par lineSpacing="800">
+<line baseline="1009" l="80" t="996" r="122" b="1010"><formatting lang="EnglishUnitedStates">
+<charParams l="80" t="996" r="91" b="1009">O</charParams>
+<charParams l="93" t="999" r="105" b="1008">m</charParams>
+<charParams l="106" t="999" r="114" b="1009">a</charParams>
+<charParams l="115" t="1000" r="122" b="1009">n</charParams></formatting></line></par>
+</text></cell>
+<cell leftBorder="White" topBorder="White" rightBorder="White" bottomBorder="White" width="175" height="22">
+<text>
+<par align="Justified" leftIndent="6600" lineSpacing="800">
+<line baseline="1012" l="411" t="997" r="434" b="1010"><formatting lang="EnglishUnitedStates">
+<charParams l="411" t="998" r="416" b="1009">1</charParams>
+<charParams l="418" t="998" r="426" b="1009">0</charParams>
+<charParams l="427" t="997" r="434" b="1010">0</charParams></formatting></line></par>
+</text></cell>
+<cell leftBorder="White" topBorder="White" rightBorder="White" bottomBorder="White" width="141" height="22">
+<text>
+<par align="Justified" leftIndent="5900" lineSpacing="800">
+<line baseline="1012" l="571" t="997" r="578" b="1009"><formatting lang="EnglishUnitedStates">
+<charParams l="571" t="997" r="578" b="1009">2</charParams></formatting></line></par>
+</text></cell>
+<cell leftBorder="White" topBorder="White" rightBorder="White" bottomBorder="White" width="149" height="22">
+<text>
+<par align="Justified" leftIndent="5600" lineSpacing="800">
+<line baseline="1012" l="705" t="997" r="721" b="1009"><formatting lang="EnglishUnitedStates">
+<charParams l="705" t="997" r="713" b="1009">9</charParams>
+<charParams l="714" t="997" r="721" b="1009">8</charParams></formatting></line></par>
+</text></cell>
+<cell leftBorder="White" topBorder="White" rightBorder="White" bottomBorder="White" width="142" height="22">
+<text>
+<par align="Justified" leftIndent="5400" lineSpacing="800">
+<line baseline="1011" l="849" t="998" r="865" b="1009"><formatting lang="EnglishUnitedStates">
+<charParams l="849" t="998" r="857" b="1009">9</charParams>
+<charParams l="858" t="998" r="865" b="1009">8</charParams></formatting></line></par>
+</text></cell>
+<cell leftBorder="White" topBorder="White" rightBorder="White" bottomBorder="White" width="149" height="22">
+<text>
+<par leftIndent="5500" lineSpacing="800">
+<line baseline="1012" l="994" t="997" r="1010" b="1009"><formatting lang="EnglishUnitedStates">
+<charParams l="994" t="998" r="1001" b="1009">9</charParams>
+<charParams l="1002" t="997" r="1010" b="1009">8</charParams></formatting></line></par>
+</text></cell>
+<cell leftBorder="White" topBorder="White" rightBorder="White" bottomBorder="White" width="141" height="22">
+<text>
+<par align="Right" lineSpacing="800">
+<line baseline="1014" l="1138" t="997" r="1154" b="1009"><formatting lang="EnglishUnitedStates">
+<charParams l="1138" t="997" r="1145" b="1009">9</charParams>
+<charParams l="1146" t="997" r="1154" b="1009">6</charParams></formatting></line></par>
+</text></cell></row>
+<row>
+<cell leftBorder="White" topBorder="White" rightBorder="White" bottomBorder="White" width="199" height="22">
+<text>
+<par lineSpacing="800">
+<line baseline="1032" l="80" t="1019" r="129" b="1032"><formatting lang="EnglishUnitedStates">
+<charParams l="80" t="1019" r="90" b="1031">P</charParams>
+<charParams l="90" t="1022" r="99" b="1031">o</charParams>
+<charParams l="100" t="1019" r="102" b="1031">l</charParams>
+<charParams l="103" t="1022" r="111" b="1032">a</charParams>
+<charParams l="113" t="1023" r="120" b="1032">n</charParams>
+<charParams l="121" t="1020" r="129" b="1032">d</charParams></formatting></line></par>
+</text></cell>
+<cell leftBorder="White" topBorder="White" rightBorder="White" bottomBorder="White" width="175" height="22">
+<text>
+<par align="Justified" leftIndent="6600" lineSpacing="800">
+<line baseline="1034" l="411" t="1019" r="434" b="1032"><formatting lang="EnglishUnitedStates">
+<charParams l="411" t="1020" r="416" b="1031">1</charParams>
+<charParams l="418" t="1020" r="426" b="1031">0</charParams>
+<charParams l="427" t="1019" r="434" b="1032">0</charParams></formatting></line></par>
+</text></cell>
+<cell leftBorder="White" topBorder="White" rightBorder="White" bottomBorder="White" width="141" height="22">
+<text>
+<par align="Justified" lineSpacing="800">
+<line baseline="1033" l="570" t="1020" r="578" b="1030"><formatting lang="EnglishUnitedStates">
+<charParams l="570" t="1020" r="578" b="1030">4</charParams></formatting></line></par>
+</text></cell>
+<cell leftBorder="White" topBorder="White" rightBorder="White" bottomBorder="White" width="149" height="22">
+<text>
+<par align="Justified" leftIndent="5300" lineSpacing="800">
+<line baseline="1034" l="698" t="1019" r="721" b="1031"><formatting lang="EnglishUnitedStates">
+<charParams l="698" t="1020" r="703" b="1030">1</charParams>
+<charParams l="705" t="1019" r="713" b="1031">0</charParams>
+<charParams l="714" t="1019" r="721" b="1031">0</charParams></formatting></line></par>
+</text></cell>
+<cell leftBorder="White" topBorder="White" rightBorder="White" bottomBorder="White" width="142" height="22">
+<text>
+<par align="Justified" startIndent="5000" lineSpacing="800">
+<line baseline="1033" l="842" t="1020" r="866" b="1031"><formatting lang="EnglishUnitedStates">
+<charParams l="842" t="1020" r="847" b="1031">1</charParams>
+<charParams l="849" t="1020" r="857" b="1031">0</charParams>
+<charParams l="858" t="1020" r="866" b="1031">0</charParams></formatting></line></par>
+</text></cell>
+<cell leftBorder="White" topBorder="White" rightBorder="White" bottomBorder="White" width="149" height="22">
+<text>
+<par leftIndent="5500" lineSpacing="800">
+<line baseline="1034" l="993" t="1019" r="1010" b="1031"><formatting lang="EnglishUnitedStates">
+<charParams l="993" t="1020" r="1001" b="1031">9</charParams>
+<charParams l="1002" t="1019" r="1010" b="1031">6</charParams></formatting></line></par>
+</text></cell>
+<cell leftBorder="White" topBorder="White" rightBorder="White" bottomBorder="White" width="141" height="22">
+<text>
+<par align="Right" lineSpacing="800">
+<line baseline="1036" l="1138" t="1019" r="1154" b="1031"><formatting lang="EnglishUnitedStates">
+<charParams l="1138" t="1019" r="1145" b="1031">9</charParams>
+<charParams l="1146" t="1019" r="1154" b="1031">6</charParams></formatting></line></par>
+</text></cell></row>
+<row>
+<cell leftBorder="White" topBorder="White" rightBorder="White" bottomBorder="White" width="199" height="23">
+<text>
+<par lineSpacing="800">
+<line baseline="1054" l="80" t="1041" r="139" b="1058"><formatting lang="EnglishUnitedStates">
+<charParams l="80" t="1041" r="90" b="1053">P</charParams>
+<charParams l="90" t="1044" r="99" b="1054">o</charParams>
+<charParams l="100" t="1044" r="104" b="1054">r</charParams>
+<charParams l="104" t="1043" r="109" b="1054">t</charParams>
+<charParams l="110" t="1046" r="117" b="1054">u</charParams>
+<charParams l="118" t="1045" r="126" b="1058">g</charParams>
+<charParams l="127" t="1045" r="135" b="1054">a</charParams>
+<charParams l="137" t="1042" r="139" b="1054">l</charParams></formatting></line></par>
+</text></cell>
+<cell leftBorder="White" topBorder="White" rightBorder="White" bottomBorder="White" width="175" height="23">
+<text>
+<par align="Justified" leftIndent="6600" lineSpacing="800">
+<line baseline="1057" l="411" t="1042" r="434" b="1055"><formatting lang="EnglishUnitedStates">
+<charParams l="411" t="1043" r="416" b="1054">1</charParams>
+<charParams l="418" t="1043" r="426" b="1054">0</charParams>
+<charParams l="427" t="1042" r="434" b="1055">0</charParams></formatting></line></par>
+</text></cell>
+<cell leftBorder="White" topBorder="White" rightBorder="White" bottomBorder="White" width="141" height="23">
+<text>
+<par align="Justified" leftIndent="5900" lineSpacing="800">
+<line baseline="1057" l="571" t="1042" r="579" b="1054"><formatting lang="EnglishUnitedStates">
+<charParams l="571" t="1042" r="579" b="1054">3</charParams></formatting></line></par>
+</text></cell>
+<cell leftBorder="White" topBorder="White" rightBorder="White" bottomBorder="White" width="149" height="23">
+<text>
+<par align="Justified" leftIndent="5600" lineSpacing="800">
+<line baseline="1056" l="705" t="1042" r="721" b="1054"><formatting lang="EnglishUnitedStates">
+<charParams l="705" t="1042" r="713" b="1054">8</charParams>
+<charParams l="714" t="1042" r="721" b="1053">7</charParams></formatting></line></par>
+</text></cell>
+<cell leftBorder="White" topBorder="White" rightBorder="White" bottomBorder="White" width="142" height="23">
+<text>
+<par align="Justified" leftIndent="5400" lineSpacing="800">
+<line baseline="1056" l="849" t="1043" r="866" b="1054"><formatting lang="EnglishUnitedStates">
+<charParams l="849" t="1043" r="857" b="1054">9</charParams>
+<charParams l="858" t="1043" r="866" b="1054">9</charParams></formatting></line></par>
+</text></cell>
+<cell leftBorder="White" topBorder="White" rightBorder="White" bottomBorder="White" width="149" height="23">
+<text>
+<par leftIndent="5500" lineSpacing="800">
+<line baseline="1057" l="993" t="1042" r="1010" b="1054"><formatting lang="EnglishUnitedStates">
+<charParams l="993" t="1043" r="1001" b="1054">9</charParams>
+<charParams l="1002" t="1042" r="1010" b="1054">5</charParams></formatting></line></par>
+</text></cell>
+<cell leftBorder="White" topBorder="White" rightBorder="White" bottomBorder="White" width="141" height="23">
+<text>
+<par align="Right" lineSpacing="800">
+<line baseline="1059" l="1138" t="1042" r="1154" b="1054"><formatting lang="EnglishUnitedStates">
+<charParams l="1138" t="1042" r="1145" b="1054">9</charParams>
+<charParams l="1146" t="1042" r="1154" b="1054">3</charParams></formatting></line></par>
+</text></cell></row>
+<row>
+<cell leftBorder="White" topBorder="White" rightBorder="White" bottomBorder="White" width="199" height="22">
+<text>
+<par lineSpacing="800">
+<line baseline="1077" l="80" t="1064" r="120" b="1078"><formatting lang="EnglishUnitedStates">
+<charParams l="80" t="1064" r="91" b="1077">Q</charParams>
+<charParams l="92" t="1067" r="100" b="1077">a</charParams>
+<charParams l="101" t="1066" r="105" b="1077">t</charParams>
+<charParams l="106" t="1068" r="114" b="1077">a</charParams>
+<charParams l="115" t="1068" r="120" b="1077">r</charParams></formatting></line></par>
+</text></cell>
+<cell leftBorder="White" topBorder="White" rightBorder="White" bottomBorder="White" width="175" height="22">
+<text>
+<par align="Justified" leftIndent="6600" lineSpacing="800">
+<line baseline="1079" l="411" t="1064" r="434" b="1077"><formatting lang="EnglishUnitedStates">
+<charParams l="411" t="1065" r="416" b="1076">1</charParams>
+<charParams l="418" t="1065" r="426" b="1076">0</charParams>
+<charParams l="427" t="1064" r="434" b="1077">0</charParams></formatting></line></par>
+</text></cell>
+<cell leftBorder="White" topBorder="White" rightBorder="White" bottomBorder="White" width="141" height="22">
+<text>
+<par align="Justified" leftIndent="5900" lineSpacing="800">
+<line baseline="1079" l="571" t="1064" r="578" b="1076"><formatting lang="EnglishUnitedStates">
+<charParams l="571" t="1064" r="578" b="1076">6</charParams></formatting></line></par>
+</text></cell>
+<cell leftBorder="White" topBorder="White" rightBorder="White" bottomBorder="White" width="149" height="22">
+<text>
+<par align="Justified" leftIndent="5300" lineSpacing="800">
+<line baseline="1079" l="698" t="1064" r="721" b="1076"><formatting lang="EnglishUnitedStates">
+<charParams l="698" t="1065" r="703" b="1075">1</charParams>
+<charParams l="705" t="1064" r="713" b="1076">0</charParams>
+<charParams l="714" t="1064" r="721" b="1076">0</charParams></formatting></line></par>
+</text></cell>
+<cell leftBorder="White" topBorder="White" rightBorder="White" bottomBorder="White" width="142" height="22">
+<text>
+<par align="Justified" startIndent="5000" lineSpacing="800">
+<line baseline="1078" l="842" t="1065" r="866" b="1076"><formatting lang="EnglishUnitedStates">
+<charParams l="842" t="1065" r="847" b="1076">1</charParams>
+<charParams l="849" t="1065" r="857" b="1076">0</charParams>
+<charParams l="858" t="1065" r="866" b="1076">0</charParams></formatting></line></par>
+</text></cell>
+<cell leftBorder="White" topBorder="White" rightBorder="White" bottomBorder="White" width="149" height="22">
+<text>
+<par leftIndent="5500" lineSpacing="800">
+<line baseline="1079" l="993" t="1064" r="1010" b="1076"><formatting lang="EnglishUnitedStates">
+<charParams l="993" t="1065" r="1001" b="1076">9</charParams>
+<charParams l="1002" t="1064" r="1010" b="1076">9</charParams></formatting></line></par>
+</text></cell>
+<cell leftBorder="White" topBorder="White" rightBorder="White" bottomBorder="White" width="141" height="22">
+<text>
+<par align="Right" lineSpacing="800">
+<line baseline="1081" l="1138" t="1064" r="1154" b="1076"><formatting lang="EnglishUnitedStates">
+<charParams l="1138" t="1064" r="1145" b="1076">9</charParams>
+<charParams l="1146" t="1064" r="1154" b="1076">9</charParams></formatting></line></par>
+</text></cell></row>
+<row>
+<cell leftBorder="White" topBorder="White" rightBorder="White" bottomBorder="White" width="199" height="22">
+<text>
+<par lineSpacing="800">
+<line baseline="1099" l="80" t="1086" r="143" b="1099"><formatting lang="EnglishUnitedStates">
+<charParams l="80" t="1086" r="91" b="1098">R</charParams>
+<charParams l="91" t="1089" r="99" b="1099">o</charParams>
+<charParams l="101" t="1090" r="113" b="1099">m</charParams>
+<charParams l="114" t="1090" r="122" b="1099">a</charParams>
+<charParams l="123" t="1090" r="131" b="1099">n</charParams>
+<charParams l="132" t="1087" r="134" b="1099">i</charParams>
+<charParams l="135" t="1090" r="143" b="1099">a</charParams></formatting></line></par>
+</text></cell>
+<cell leftBorder="White" topBorder="White" rightBorder="White" bottomBorder="White" width="175" height="22">
+<text>
+<par align="Justified" leftIndent="6600" lineSpacing="800">
+<line baseline="1102" l="411" t="1087" r="434" b="1100"><formatting lang="EnglishUnitedStates">
+<charParams l="411" t="1088" r="416" b="1099">1</charParams>
+<charParams l="418" t="1088" r="426" b="1099">0</charParams>
+<charParams l="427" t="1087" r="434" b="1100">0</charParams></formatting></line></par>
+</text></cell>
+<cell leftBorder="White" topBorder="White" rightBorder="White" bottomBorder="White" width="141" height="22">
+<text>
+<par align="Justified" lineSpacing="800">
+<line baseline="1101" l="570" t="1088" r="578" b="1098"><formatting lang="EnglishUnitedStates">
+<charParams l="570" t="1088" r="578" b="1098">4</charParams></formatting></line></par>
+</text></cell>
+<cell leftBorder="White" topBorder="White" rightBorder="White" bottomBorder="White" width="149" height="22">
+<text>
+<par align="Justified" leftIndent="5600" lineSpacing="800">
+<line baseline="1102" l="705" t="1087" r="721" b="1099"><formatting lang="EnglishUnitedStates">
+<charParams l="705" t="1087" r="713" b="1099">9</charParams>
+<charParams l="714" t="1087" r="721" b="1099">9</charParams></formatting></line></par>
+</text></cell>
+<cell leftBorder="White" topBorder="White" rightBorder="White" bottomBorder="White" width="142" height="22">
+<text>
+<par align="Justified" startIndent="5000" lineSpacing="800">
+<line baseline="1101" l="842" t="1088" r="866" b="1099"><formatting lang="EnglishUnitedStates">
+<charParams l="842" t="1088" r="847" b="1099">1</charParams>
+<charParams l="849" t="1088" r="857" b="1099">0</charParams>
+<charParams l="858" t="1088" r="866" b="1099">0</charParams></formatting></line></par>
+</text></cell>
+<cell leftBorder="White" topBorder="White" rightBorder="White" bottomBorder="White" width="149" height="22">
+<text>
+<par leftIndent="5500" lineSpacing="800">
+<line baseline="1102" l="993" t="1087" r="1009" b="1099"><formatting lang="EnglishUnitedStates">
+<charParams l="993" t="1088" r="1001" b="1099">9</charParams>
+<charParams l="1002" t="1087" r="1009" b="1099">7</charParams></formatting></line></par>
+</text></cell>
+<cell leftBorder="White" topBorder="White" rightBorder="White" bottomBorder="White" width="141" height="22">
+<text>
+<par align="Right" lineSpacing="800">
+<line baseline="1103" l="1138" t="1087" r="1153" b="1099"><formatting lang="EnglishUnitedStates">
+<charParams l="1138" t="1087" r="1145" b="1099">9</charParams>
+<charParams l="1146" t="1087" r="1153" b="1098">7</charParams></formatting></line></par>
+</text></cell></row>
+<row>
+<cell leftBorder="White" topBorder="White" rightBorder="White" bottomBorder="White" width="199" height="22">
+<text>
+<par lineSpacing="800">
+<line baseline="1122" l="80" t="1109" r="218" b="1123"><formatting lang="EnglishUnitedStates">
+<charParams l="80" t="1109" r="91" b="1122">R</charParams>
+<charParams l="92" t="1114" r="99" b="1122">u</charParams>
+<charParams l="100" t="1113" r="108" b="1122">s</charParams>
+<charParams l="108" t="1113" r="116" b="1122">s</charParams>
+<charParams l="117" t="1110" r="119" b="1122">i</charParams>
+<charParams l="120" t="1113" r="128" b="1122">a</charParams>
+<charParams l="129" t="1113" r="137" b="1122">n</charParams>
+<charParams l="138" t="1110" r="142" b="1122"> </charParams>
+<charParams l="143" t="1110" r="151" b="1122">F</charParams>
+<charParams l="152" t="1113" r="160" b="1122">e</charParams>
+<charParams l="161" t="1110" r="169" b="1122">d</charParams>
+<charParams l="170" t="1113" r="178" b="1122">e</charParams>
+<charParams l="180" t="1113" r="184" b="1122">r</charParams>
+<charParams l="185" t="1112" r="192" b="1122">a</charParams>
+<charParams l="194" t="1110" r="197" b="1121">t</charParams>
+<charParams l="198" t="1109" r="200" b="1121">i</charParams>
+<charParams l="202" t="1112" r="210" b="1122">o</charParams>
+<charParams l="211" t="1112" r="218" b="1121">n</charParams></formatting></line></par>
+</text></cell>
+<cell leftBorder="White" topBorder="White" rightBorder="White" bottomBorder="White" width="175" height="22">
+<text>
+<par align="Justified" leftIndent="6600" lineSpacing="800">
+<line baseline="1124" l="411" t="1109" r="434" b="1122"><formatting lang="EnglishUnitedStates">
+<charParams l="411" t="1110" r="416" b="1121">1</charParams>
+<charParams l="418" t="1110" r="426" b="1121">0</charParams>
+<charParams l="427" t="1109" r="434" b="1122">0</charParams></formatting></line></par>
+</text></cell>
+<cell leftBorder="White" topBorder="White" rightBorder="White" bottomBorder="White" width="141" height="22">
+<text>
+<par align="Justified" leftIndent="5900" lineSpacing="800">
+<line baseline="1124" l="571" t="1109" r="579" b="1121"><formatting lang="EnglishUnitedStates">
+<charParams l="571" t="1109" r="579" b="1121">5</charParams></formatting></line></par>
+</text></cell>
+<cell leftBorder="White" topBorder="White" rightBorder="White" bottomBorder="White" width="149" height="22">
+<text>
+<par align="Justified" leftIndent="5300" lineSpacing="800">
+<line baseline="1124" l="698" t="1109" r="721" b="1121"><formatting lang="EnglishUnitedStates">
+<charParams l="698" t="1110" r="703" b="1120">1</charParams>
+<charParams l="705" t="1109" r="713" b="1121">0</charParams>
+<charParams l="714" t="1109" r="721" b="1121">0</charParams></formatting></line></par>
+</text></cell>
+<cell leftBorder="White" topBorder="White" rightBorder="White" bottomBorder="White" width="142" height="22">
+<text>
+<par align="Justified" startIndent="5000" lineSpacing="800">
+<line baseline="1123" l="842" t="1110" r="866" b="1121"><formatting lang="EnglishUnitedStates">
+<charParams l="842" t="1110" r="847" b="1121">1</charParams>
+<charParams l="849" t="1110" r="857" b="1121">0</charParams>
+<charParams l="858" t="1110" r="866" b="1121">0</charParams></formatting></line></par>
+</text></cell>
+<cell leftBorder="White" topBorder="White" rightBorder="White" bottomBorder="White" width="149" height="22">
+<text>
+<par leftIndent="5500" lineSpacing="800">
+<line baseline="1124" l="994" t="1109" r="1010" b="1121"><formatting lang="EnglishUnitedStates">
+<charParams l="994" t="1110" r="1001" b="1121">9</charParams>
+<charParams l="1002" t="1109" r="1010" b="1121">8</charParams></formatting></line></par>
+</text></cell>
+<cell leftBorder="White" topBorder="White" rightBorder="White" bottomBorder="White" width="141" height="22">
+<text>
+<par align="Right" lineSpacing="800">
+<line baseline="1126" l="1138" t="1109" r="1154" b="1121"><formatting lang="EnglishUnitedStates">
+<charParams l="1138" t="1109" r="1145" b="1121">9</charParams>
+<charParams l="1146" t="1109" r="1154" b="1121">8</charParams></formatting></line></par>
+</text></cell></row>
+<row>
+<cell leftBorder="White" topBorder="White" rightBorder="White" bottomBorder="White" width="199" height="24">
+<text>
+<par lineSpacing="800">
+<line baseline="1144" l="80" t="1131" r="170" b="1145"><formatting lang="EnglishUnitedStates">
+<charParams l="80" t="1131" r="90" b="1145">S</charParams>
+<charParams l="91" t="1135" r="98" b="1144">a</charParams>
+<charParams l="100" t="1135" r="107" b="1144">u</charParams>
+<charParams l="108" t="1132" r="116" b="1144">d</charParams>
+<charParams l="118" t="1132" r="120" b="1144">i</charParams>
+<charParams l="121" t="1132" r="123" b="1144"> </charParams>
+<charParams l="124" t="1132" r="135" b="1144">A</charParams>
+<charParams l="135" t="1135" r="140" b="1144">r</charParams>
+<charParams l="141" t="1135" r="149" b="1144">a</charParams>
+<charParams l="150" t="1132" r="158" b="1144">b</charParams>
+<charParams l="159" t="1132" r="161" b="1144">i</charParams>
+<charParams l="162" t="1135" r="170" b="1144">a</charParams></formatting></line></par>
+</text></cell>
+<cell leftBorder="White" topBorder="White" rightBorder="White" bottomBorder="White" width="175" height="24">
+<text>
+<par align="Justified" leftIndent="6600" lineSpacing="800">
+<line baseline="1147" l="411" t="1132" r="434" b="1145"><formatting lang="EnglishUnitedStates">
+<charParams l="411" t="1133" r="416" b="1144">1</charParams>
+<charParams l="418" t="1133" r="426" b="1144">0</charParams>
+<charParams l="427" t="1132" r="434" b="1145">0</charParams></formatting></line></par>
+</text></cell>
+<cell leftBorder="White" topBorder="White" rightBorder="White" bottomBorder="White" width="141" height="24">
+<text>
+<par align="Justified" leftIndent="5900" lineSpacing="800">
+<line baseline="1147" l="571" t="1132" r="578" b="1144"><formatting lang="EnglishUnitedStates">
+<charParams l="571" t="1132" r="578" b="1144">2</charParams></formatting></line></par>
+</text></cell>
+<cell leftBorder="White" topBorder="White" rightBorder="White" bottomBorder="White" width="149" height="24">
+<text>
+<par align="Justified" leftIndent="5600" lineSpacing="800">
+<line baseline="1147" l="705" t="1132" r="722" b="1144"><formatting lang="EnglishUnitedStates">
+<charParams l="705" t="1132" r="713" b="1144">9</charParams>
+<charParams l="714" t="1132" r="722" b="1144">5</charParams></formatting></line></par>
+</text></cell>
+<cell leftBorder="White" topBorder="White" rightBorder="White" bottomBorder="White" width="142" height="24">
+<text>
+<par align="Justified" startIndent="5000" lineSpacing="800">
+<line baseline="1146" l="842" t="1133" r="866" b="1144"><formatting lang="EnglishUnitedStates">
+<charParams l="842" t="1133" r="847" b="1144">1</charParams>
+<charParams l="849" t="1133" r="857" b="1144">0</charParams>
+<charParams l="858" t="1133" r="866" b="1144">0</charParams></formatting></line></par>
+</text></cell>
+<cell leftBorder="White" topBorder="White" rightBorder="White" bottomBorder="White" width="149" height="24">
+<text>
+<par leftIndent="5500" lineSpacing="800">
+<line baseline="1147" l="994" t="1132" r="1010" b="1144"><formatting lang="EnglishUnitedStates">
+<charParams l="994" t="1133" r="1001" b="1144">9</charParams>
+<charParams l="1002" t="1132" r="1010" b="1144">8</charParams></formatting></line></par>
+</text></cell>
+<cell leftBorder="White" topBorder="White" rightBorder="White" bottomBorder="White" width="141" height="24">
+<text>
+<par align="Right" lineSpacing="800">
+<line baseline="1149" l="1138" t="1132" r="1154" b="1144"><formatting lang="EnglishUnitedStates">
+<charParams l="1138" t="1132" r="1145" b="1144">9</charParams>
+<charParams l="1146" t="1132" r="1154" b="1144">8</charParams></formatting></line></par>
+</text></cell></row>
+<row>
+<cell leftBorder="White" topBorder="White" rightBorder="White" bottomBorder="White" width="199" height="22">
+<text>
+<par lineSpacing="800">
+<line baseline="1167" l="80" t="1154" r="152" b="1170"><formatting lang="EnglishUnitedStates">
+<charParams l="80" t="1154" r="90" b="1167">S</charParams>
+<charParams l="91" t="1155" r="93" b="1167">i</charParams>
+<charParams l="94" t="1158" r="102" b="1167">n</charParams>
+<charParams l="103" t="1158" r="111" b="1170">g</charParams>
+<charParams l="112" t="1158" r="120" b="1167">a</charParams>
+<charParams l="121" t="1158" r="129" b="1170">p</charParams>
+<charParams l="129" t="1158" r="138" b="1167">o</charParams>
+<charParams l="139" t="1158" r="144" b="1167">r</charParams>
+<charParams l="144" t="1158" r="152" b="1167">e</charParams></formatting></line></par>
+</text></cell>
+<cell leftBorder="White" topBorder="White" rightBorder="White" bottomBorder="White" width="175" height="22">
+<text>
+<par align="Justified" leftIndent="6600" lineSpacing="800">
+<line baseline="1169" l="411" t="1154" r="434" b="1167"><formatting lang="EnglishUnitedStates">
+<charParams l="411" t="1155" r="416" b="1166">1</charParams>
+<charParams l="418" t="1155" r="426" b="1166">0</charParams>
+<charParams l="427" t="1154" r="434" b="1167">0</charParams></formatting></line></par>
+</text></cell>
+<cell leftBorder="White" topBorder="White" rightBorder="White" bottomBorder="White" width="141" height="22">
+<text>
+<par align="Justified" leftIndent="5900" lineSpacing="800">
+<line baseline="1169" l="571" t="1154" r="578" b="1166"><formatting lang="EnglishUnitedStates">
+<charParams l="571" t="1154" r="578" b="1166">6</charParams></formatting></line></par>
+</text></cell>
+<cell leftBorder="White" topBorder="White" rightBorder="White" bottomBorder="White" width="149" height="22">
+<text>
+<par align="Justified" leftIndent="5300" lineSpacing="800">
+<line baseline="1169" l="698" t="1154" r="721" b="1166"><formatting lang="EnglishUnitedStates">
+<charParams l="698" t="1155" r="703" b="1165">1</charParams>
+<charParams l="705" t="1154" r="713" b="1166">0</charParams>
+<charParams l="714" t="1154" r="721" b="1166">0</charParams></formatting></line></par>
+</text></cell>
+<cell leftBorder="White" topBorder="White" rightBorder="White" bottomBorder="White" width="142" height="22">
+<text>
+<par align="Justified" startIndent="5000" lineSpacing="800">
+<line baseline="1168" l="842" t="1155" r="866" b="1166"><formatting lang="EnglishUnitedStates">
+<charParams l="842" t="1155" r="847" b="1166">1</charParams>
+<charParams l="849" t="1155" r="857" b="1166">0</charParams>
+<charParams l="858" t="1155" r="866" b="1166">0</charParams></formatting></line></par>
+</text></cell>
+<cell leftBorder="White" topBorder="White" rightBorder="White" bottomBorder="White" width="149" height="22">
+<text>
+<par leftIndent="5500" lineSpacing="800">
+<line baseline="1169" l="993" t="1154" r="1010" b="1166"><formatting lang="EnglishUnitedStates">
+<charParams l="993" t="1155" r="1001" b="1166">9</charParams>
+<charParams l="1002" t="1154" r="1010" b="1166">6</charParams></formatting></line></par>
+</text></cell>
+<cell leftBorder="White" topBorder="White" rightBorder="White" bottomBorder="White" width="141" height="22">
+<text>
+<par align="Right" lineSpacing="800">
+<line baseline="1171" l="1138" t="1154" r="1154" b="1166"><formatting lang="EnglishUnitedStates">
+<charParams l="1138" t="1154" r="1145" b="1166">9</charParams>
+<charParams l="1146" t="1154" r="1154" b="1166">6</charParams></formatting></line></par>
+</text></cell></row>
+<row>
+<cell leftBorder="White" topBorder="White" rightBorder="White" bottomBorder="White" width="199" height="22">
+<text>
+<par lineSpacing="800">
+<line baseline="1189" l="80" t="1176" r="195" b="1192"><formatting lang="EnglishUnitedStates">
+<charParams l="80" t="1176" r="90" b="1189">S</charParams>
+<charParams l="91" t="1177" r="93" b="1189">l</charParams>
+<charParams l="94" t="1180" r="102" b="1189">o</charParams>
+<charParams l="103" t="1180" r="110" b="1189">v</charParams>
+<charParams l="111" t="1180" r="119" b="1189">a</charParams>
+<charParams l="120" t="1177" r="128" b="1189">k</charParams>
+<charParams l="129" t="1177" r="132" b="1189"> </charParams>
+<charParams l="133" t="1177" r="143" b="1189">R</charParams>
+<charParams l="144" t="1180" r="152" b="1189">e</charParams>
+<charParams l="154" t="1180" r="161" b="1192">p</charParams>
+<charParams l="163" t="1180" r="170" b="1189">u</charParams>
+<charParams l="172" t="1177" r="179" b="1189">b</charParams>
+<charParams l="180" t="1177" r="182" b="1189">l</charParams>
+<charParams l="184" t="1177" r="186" b="1189">i</charParams>
+<charParams l="187" t="1179" r="195" b="1189">c</charParams></formatting></line></par>
+</text></cell>
+<cell leftBorder="White" topBorder="White" rightBorder="White" bottomBorder="White" width="175" height="22">
+<text>
+<par align="Justified" leftIndent="6600" lineSpacing="800">
+<line baseline="1192" l="411" t="1177" r="434" b="1190"><formatting lang="EnglishUnitedStates">
+<charParams l="411" t="1178" r="416" b="1189">1</charParams>
+<charParams l="418" t="1178" r="426" b="1189">0</charParams>
+<charParams l="427" t="1177" r="434" b="1190">0</charParams></formatting></line></par>
+</text></cell>
+<cell leftBorder="White" topBorder="White" rightBorder="White" bottomBorder="White" width="141" height="22">
+<text>
+<par align="Justified" leftIndent="5900" lineSpacing="800">
+<line baseline="1192" l="571" t="1177" r="579" b="1189"><formatting lang="EnglishUnitedStates">
+<charParams l="571" t="1177" r="579" b="1189">5</charParams></formatting></line></par>
+</text></cell>
+<cell leftBorder="White" topBorder="White" rightBorder="White" bottomBorder="White" width="149" height="22">
+<text>
+<par align="Justified" leftIndent="5600" lineSpacing="800">
+<line baseline="1192" l="705" t="1177" r="722" b="1189"><formatting lang="EnglishUnitedStates">
+<charParams l="705" t="1177" r="713" b="1189">9</charParams>
+<charParams l="714" t="1177" r="722" b="1189">5</charParams></formatting></line></par>
+</text></cell>
+<cell leftBorder="White" topBorder="White" rightBorder="White" bottomBorder="White" width="142" height="22">
+<text>
+<par align="Justified" leftIndent="5400" lineSpacing="800">
+<line baseline="1191" l="849" t="1178" r="866" b="1189"><formatting lang="EnglishUnitedStates">
+<charParams l="849" t="1178" r="857" b="1189">9</charParams>
+<charParams l="858" t="1178" r="866" b="1189">9</charParams></formatting></line></par>
+</text></cell>
+<cell leftBorder="White" topBorder="White" rightBorder="White" bottomBorder="White" width="149" height="22">
+<text>
+<par leftIndent="5500" lineSpacing="800">
+<line baseline="1192" l="993" t="1177" r="1009" b="1189"><formatting lang="EnglishUnitedStates">
+<charParams l="993" t="1178" r="1001" b="1189">9</charParams>
+<charParams l="1002" t="1177" r="1009" b="1189">7</charParams></formatting></line></par>
+</text></cell>
+<cell leftBorder="White" topBorder="White" rightBorder="White" bottomBorder="White" width="141" height="22">
+<text>
+<par align="Right" lineSpacing="800">
+<line baseline="1194" l="1138" t="1177" r="1154" b="1189"><formatting lang="EnglishUnitedStates">
+<charParams l="1138" t="1177" r="1145" b="1189">9</charParams>
+<charParams l="1146" t="1177" r="1154" b="1189">6</charParams></formatting></line></par>
+</text></cell></row>
+<row>
+<cell leftBorder="White" topBorder="White" rightBorder="White" bottomBorder="White" width="199" height="23">
+<text>
+<par lineSpacing="800">
+<line baseline="1212" l="80" t="1199" r="141" b="1212"><formatting lang="EnglishUnitedStates">
+<charParams l="80" t="1199" r="90" b="1212">S</charParams>
+<charParams l="91" t="1200" r="93" b="1212">l</charParams>
+<charParams l="94" t="1203" r="102" b="1212">o</charParams>
+<charParams l="103" t="1203" r="110" b="1212">v</charParams>
+<charParams l="111" t="1203" r="119" b="1212">e</charParams>
+<charParams l="120" t="1203" r="128" b="1212">n</charParams>
+<charParams l="129" t="1200" r="131" b="1212">i</charParams>
+<charParams l="132" t="1203" r="141" b="1212">a</charParams></formatting></line></par>
+</text></cell>
+<cell leftBorder="White" topBorder="White" rightBorder="White" bottomBorder="White" width="175" height="23">
+<text>
+<par align="Justified" leftIndent="6600" lineSpacing="800">
+<line baseline="1214" l="411" t="1199" r="434" b="1212"><formatting lang="EnglishUnitedStates">
+<charParams l="411" t="1200" r="416" b="1211">1</charParams>
+<charParams l="418" t="1200" r="426" b="1211">0</charParams>
+<charParams l="427" t="1199" r="434" b="1212">0</charParams></formatting></line></par>
+</text></cell>
+<cell leftBorder="White" topBorder="White" rightBorder="White" bottomBorder="White" width="141" height="23">
+<text>
+<par align="Justified" leftIndent="5900" lineSpacing="800">
+<line baseline="1214" l="571" t="1199" r="579" b="1211"><formatting lang="EnglishUnitedStates">
+<charParams l="571" t="1199" r="579" b="1211">3</charParams></formatting></line></par>
+</text></cell>
+<cell leftBorder="White" topBorder="White" rightBorder="White" bottomBorder="White" width="149" height="23">
+<text>
+<par align="Justified" leftIndent="5600" lineSpacing="800">
+<line baseline="1214" l="705" t="1199" r="721" b="1211"><formatting lang="EnglishUnitedStates">
+<charParams l="705" t="1199" r="713" b="1211">9</charParams>
+<charParams l="714" t="1199" r="721" b="1211">6</charParams></formatting></line></par>
+</text></cell>
+<cell leftBorder="White" topBorder="White" rightBorder="White" bottomBorder="White" width="142" height="23">
+<text>
+<par align="Justified" leftIndent="5400" lineSpacing="800">
+<line baseline="1213" l="849" t="1200" r="865" b="1211"><formatting lang="EnglishUnitedStates">
+<charParams l="849" t="1200" r="857" b="1211">9</charParams>
+<charParams l="858" t="1200" r="865" b="1211">7</charParams></formatting></line></par>
+</text></cell>
+<cell leftBorder="White" topBorder="White" rightBorder="White" bottomBorder="White" width="149" height="23">
+<text>
+<par leftIndent="5500" lineSpacing="800">
+<line baseline="1214" l="993" t="1199" r="1009" b="1211"><formatting lang="EnglishUnitedStates">
+<charParams l="993" t="1200" r="1001" b="1211">9</charParams>
+<charParams l="1002" t="1199" r="1009" b="1211">7</charParams></formatting></line></par>
+</text></cell>
+<cell leftBorder="White" topBorder="White" rightBorder="White" bottomBorder="White" width="141" height="23">
+<text>
+<par align="Right" lineSpacing="800">
+<line baseline="1216" l="1138" t="1199" r="1154" b="1211"><formatting lang="EnglishUnitedStates">
+<charParams l="1138" t="1199" r="1145" b="1211">9</charParams>
+<charParams l="1146" t="1199" r="1154" b="1211">5</charParams></formatting></line></par>
+</text></cell></row>
+<row>
+<cell leftBorder="White" topBorder="White" rightBorder="White" bottomBorder="White" width="199" height="22">
+<text>
+<par lineSpacing="800">
+<line baseline="1234" l="80" t="1222" r="120" b="1237"><formatting lang="EnglishUnitedStates">
+<charParams l="80" t="1222" r="90" b="1234">S</charParams>
+<charParams l="91" t="1225" r="99" b="1237">p</charParams>
+<charParams l="99" t="1225" r="107" b="1234">a</charParams>
+<charParams l="109" t="1222" r="111" b="1234">i</charParams>
+<charParams l="112" t="1225" r="120" b="1234">n</charParams></formatting></line></par>
+</text></cell>
+<cell leftBorder="White" topBorder="White" rightBorder="White" bottomBorder="White" width="175" height="22">
+<text>
+<par align="Justified" leftIndent="6600" lineSpacing="800">
+<line baseline="1237" l="411" t="1222" r="434" b="1235"><formatting lang="EnglishUnitedStates">
+<charParams l="411" t="1223" r="416" b="1234">1</charParams>
+<charParams l="418" t="1223" r="426" b="1234">0</charParams>
+<charParams l="427" t="1222" r="434" b="1235">0</charParams></formatting></line></par>
+</text></cell>
+<cell leftBorder="White" topBorder="White" rightBorder="White" bottomBorder="White" width="141" height="22">
+<text>
+<par align="Justified" leftIndent="5900" lineSpacing="800">
+<line baseline="1237" l="571" t="1222" r="579" b="1234"><formatting lang="EnglishUnitedStates">
+<charParams l="571" t="1222" r="579" b="1234">5</charParams></formatting></line></par>
+</text></cell>
+<cell leftBorder="White" topBorder="White" rightBorder="White" bottomBorder="White" width="149" height="22">
+<text>
+<par align="Justified" leftIndent="5600" lineSpacing="800">
+<line baseline="1237" l="705" t="1222" r="721" b="1234"><formatting lang="EnglishUnitedStates">
+<charParams l="705" t="1222" r="713" b="1234">9</charParams>
+<charParams l="714" t="1222" r="721" b="1234">6</charParams></formatting></line></par>
+</text></cell>
+<cell leftBorder="White" topBorder="White" rightBorder="White" bottomBorder="White" width="142" height="22">
+<text>
+<par align="Justified" leftIndent="5400" lineSpacing="800">
+<line baseline="1236" l="849" t="1223" r="866" b="1234"><formatting lang="EnglishUnitedStates">
+<charParams l="849" t="1223" r="857" b="1234">9</charParams>
+<charParams l="858" t="1223" r="866" b="1234">9</charParams></formatting></line></par>
+</text></cell>
+<cell leftBorder="White" topBorder="White" rightBorder="White" bottomBorder="White" width="149" height="22">
+<text>
+<par leftIndent="5500" lineSpacing="800">
+<line baseline="1237" l="993" t="1222" r="1009" b="1234"><formatting lang="EnglishUnitedStates">
+<charParams l="993" t="1223" r="1001" b="1234">9</charParams>
+<charParams l="1002" t="1222" r="1009" b="1234">7</charParams></formatting></line></par>
+</text></cell>
+<cell leftBorder="White" topBorder="White" rightBorder="White" bottomBorder="White" width="141" height="22">
+<text>
+<par align="Right" lineSpacing="800">
+<line baseline="1239" l="1138" t="1222" r="1154" b="1234"><formatting lang="EnglishUnitedStates">
+<charParams l="1138" t="1222" r="1145" b="1234">9</charParams>
+<charParams l="1146" t="1222" r="1154" b="1234">6</charParams></formatting></line></par>
+</text></cell></row>
+<row>
+<cell leftBorder="White" topBorder="White" rightBorder="White" bottomBorder="White" width="199" height="22">
+<text>
+<par lineSpacing="800">
+<line baseline="1257" l="80" t="1245" r="137" b="1257"><formatting lang="EnglishUnitedStates">
+<charParams l="80" t="1245" r="90" b="1257">S</charParams>
+<charParams l="90" t="1248" r="102" b="1257">w</charParams>
+<charParams l="102" t="1248" r="110" b="1257">e</charParams>
+<charParams l="111" t="1245" r="119" b="1257">d</charParams>
+<charParams l="120" t="1248" r="128" b="1257">e</charParams>
+<charParams l="129" t="1248" r="137" b="1257">n</charParams></formatting></line></par>
+</text></cell>
+<cell leftBorder="White" topBorder="White" rightBorder="White" bottomBorder="White" width="175" height="22">
+<text>
+<par align="Justified" leftIndent="6600" lineSpacing="800">
+<line baseline="1259" l="411" t="1244" r="434" b="1257"><formatting lang="EnglishUnitedStates">
+<charParams l="411" t="1245" r="416" b="1256">1</charParams>
+<charParams l="418" t="1245" r="426" b="1256">0</charParams>
+<charParams l="427" t="1244" r="434" b="1257">0</charParams></formatting></line></par>
+</text></cell>
+<cell leftBorder="White" topBorder="White" rightBorder="White" bottomBorder="White" width="141" height="22">
+<text>
+<par align="Justified" lineSpacing="800">
+<line baseline="1258" l="570" t="1245" r="578" b="1255"><formatting lang="EnglishUnitedStates">
+<charParams l="570" t="1245" r="578" b="1255">4</charParams></formatting></line></par>
+</text></cell>
+<cell leftBorder="White" topBorder="White" rightBorder="White" bottomBorder="White" width="149" height="22">
+<text>
+<par align="Justified" leftIndent="5600" lineSpacing="800">
+<line baseline="1258" l="705" t="1244" r="721" b="1256"><formatting lang="EnglishUnitedStates">
+<charParams l="705" t="1244" r="713" b="1256">9</charParams>
+<charParams l="714" t="1244" r="721" b="1255">7</charParams></formatting></line></par>
+</text></cell>
+<cell leftBorder="White" topBorder="White" rightBorder="White" bottomBorder="White" width="142" height="22">
+<text>
+<par align="Justified" leftIndent="5400" lineSpacing="800">
+<line baseline="1258" l="849" t="1245" r="866" b="1256"><formatting lang="EnglishUnitedStates">
+<charParams l="849" t="1245" r="857" b="1256">9</charParams>
+<charParams l="858" t="1245" r="866" b="1256">9</charParams></formatting></line></par>
+</text></cell>
+<cell leftBorder="White" topBorder="White" rightBorder="White" bottomBorder="White" width="149" height="22">
+<text>
+<par leftIndent="5500" lineSpacing="800">
+<line baseline="1259" l="993" t="1244" r="1009" b="1256"><formatting lang="EnglishUnitedStates">
+<charParams l="993" t="1245" r="1001" b="1256">9</charParams>
+<charParams l="1002" t="1244" r="1009" b="1256">2</charParams></formatting></line></par>
+</text></cell>
+<cell leftBorder="White" topBorder="White" rightBorder="White" bottomBorder="White" width="141" height="22">
+<text>
+<par align="Right" lineSpacing="800">
+<line baseline="1261" l="1138" t="1244" r="1152" b="1256"><formatting lang="EnglishUnitedStates">
+<charParams l="1138" t="1244" r="1145" b="1256">9</charParams>
+<charParams l="1147" t="1245" r="1152" b="1255">1</charParams></formatting></line></par>
+</text></cell></row>
+<row>
+<cell leftBorder="White" topBorder="White" rightBorder="White" bottomBorder="White" width="199" height="23">
+<text>
+<par lineSpacing="800">
+<line baseline="1279" l="80" t="1266" r="225" b="1283"><formatting lang="EnglishUnitedStates">
+<charParams l="80" t="1267" r="89" b="1279">T</charParams>
+<charParams l="89" t="1270" r="94" b="1279">r</charParams>
+<charParams l="94" t="1267" r="97" b="1279">i</charParams>
+<charParams l="98" t="1270" r="106" b="1279">n</charParams>
+<charParams l="107" t="1267" r="109" b="1279">i</charParams>
+<charParams l="111" t="1267" r="118" b="1279">d</charParams>
+<charParams l="120" t="1270" r="128" b="1279">a</charParams>
+<charParams l="128" t="1267" r="136" b="1279">d</charParams>
+<charParams l="137" t="1267" r="141" b="1279"> </charParams>
+<charParams l="142" t="1270" r="150" b="1279">a</charParams>
+<charParams l="151" t="1270" r="159" b="1279">n</charParams>
+<charParams l="160" t="1267" r="168" b="1279">d</charParams>
+<charParams l="169" t="1267" r="172" b="1279"> </charParams>
+<charParams l="173" t="1267" r="182" b="1279">T</charParams>
+<charParams l="181" t="1270" r="189" b="1279">o</charParams>
+<charParams l="190" t="1267" r="198" b="1279">b</charParams>
+<charParams l="199" t="1269" r="207" b="1279">a</charParams>
+<charParams l="208" t="1269" r="216" b="1282">g</charParams>
+<charParams l="217" t="1270" r="225" b="1279">o</charParams></formatting></line></par>
+</text></cell>
+<cell leftBorder="White" topBorder="White" rightBorder="White" bottomBorder="White" width="175" height="23">
+<text>
+<par align="Justified" leftIndent="6600" lineSpacing="800">
+<line baseline="1282" l="411" t="1267" r="434" b="1280"><formatting lang="EnglishUnitedStates">
+<charParams l="411" t="1268" r="416" b="1279">1</charParams>
+<charParams l="418" t="1268" r="426" b="1279">0</charParams>
+<charParams l="427" t="1267" r="434" b="1280">0</charParams></formatting></line></par>
+</text></cell>
+<cell leftBorder="White" topBorder="White" rightBorder="White" bottomBorder="White" width="141" height="23">
+<text>
+<par align="Justified" leftIndent="5900" lineSpacing="800">
+<line baseline="1282" l="572" t="1268" r="577" b="1279"><formatting lang="EnglishUnitedStates">
+<charParams l="572" t="1268" r="577" b="1279">1</charParams></formatting></line></par>
+</text></cell>
+<cell leftBorder="White" topBorder="White" rightBorder="White" bottomBorder="White" width="149" height="23">
+<text>
+<par align="Justified" leftIndent="5600" lineSpacing="800">
+<line baseline="1282" l="705" t="1267" r="721" b="1279"><formatting lang="EnglishUnitedStates">
+<charParams l="705" t="1267" r="713" b="1279">9</charParams>
+<charParams l="714" t="1267" r="721" b="1279">9</charParams></formatting></line></par>
+</text></cell>
+<cell leftBorder="White" topBorder="White" rightBorder="White" bottomBorder="White" width="142" height="23">
+<text>
+<par align="Justified" leftIndent="5400" lineSpacing="800">
+<line baseline="1281" l="849" t="1268" r="866" b="1279"><formatting lang="EnglishUnitedStates">
+<charParams l="849" t="1268" r="857" b="1279">9</charParams>
+<charParams l="858" t="1268" r="866" b="1279">9</charParams></formatting></line></par>
+</text></cell>
+<cell leftBorder="White" topBorder="White" rightBorder="White" bottomBorder="White" width="149" height="23">
+<text>
+<par leftIndent="5500" lineSpacing="800">
+<line baseline="1282" l="994" t="1267" r="1010" b="1279"><formatting lang="EnglishUnitedStates">
+<charParams l="994" t="1268" r="1001" b="1279">9</charParams>
+<charParams l="1002" t="1267" r="1010" b="1279">6</charParams></formatting></line></par>
+</text></cell>
+<cell leftBorder="White" topBorder="White" rightBorder="White" bottomBorder="White" width="141" height="23">
+<text>
+<par align="Right" lineSpacing="800">
+<line baseline="1284" l="1138" t="1267" r="1154" b="1279"><formatting lang="EnglishUnitedStates">
+<charParams l="1138" t="1267" r="1145" b="1279">9</charParams>
+<charParams l="1146" t="1267" r="1154" b="1279">5</charParams></formatting></line></par>
+</text></cell></row>
+<row>
+<cell leftBorder="White" topBorder="White" rightBorder="White" bottomBorder="White" width="199" height="22">
+<text>
+<par lineSpacing="800">
+<line baseline="1302" l="80" t="1289" r="231" b="1303"><formatting lang="EnglishUnitedStates">
+<charParams l="80" t="1290" r="90" b="1302">U</charParams>
+<charParams l="92" t="1293" r="99" b="1302">n</charParams>
+<charParams l="101" t="1290" r="103" b="1302">i</charParams>
+<charParams l="104" t="1291" r="108" b="1302">t</charParams>
+<charParams l="108" t="1293" r="117" b="1302">e</charParams>
+<charParams l="117" t="1290" r="125" b="1302">d</charParams>
+<charParams l="126" t="1290" r="128" b="1302"> </charParams>
+<charParams l="129" t="1290" r="141" b="1302">A</charParams>
+<charParams l="141" t="1293" r="146" b="1301">r</charParams>
+<charParams l="146" t="1293" r="154" b="1302">a</charParams>
+<charParams l="155" t="1290" r="163" b="1302">b</charParams>
+<charParams l="164" t="1290" r="168" b="1302"> </charParams>
+<charParams l="169" t="1290" r="178" b="1302">E</charParams>
+<charParams l="180" t="1293" r="192" b="1302">m</charParams>
+<charParams l="193" t="1290" r="195" b="1302">i</charParams>
+<charParams l="197" t="1293" r="201" b="1302">r</charParams>
+<charParams l="202" t="1292" r="210" b="1301">a</charParams>
+<charParams l="211" t="1290" r="215" b="1301">t</charParams>
+<charParams l="215" t="1293" r="223" b="1302">e</charParams>
+<charParams l="224" t="1293" r="231" b="1302">s</charParams></formatting></line></par>
+</text></cell>
+<cell leftBorder="White" topBorder="White" rightBorder="White" bottomBorder="White" width="175" height="22">
+<text>
+<par align="Justified" leftIndent="6600" lineSpacing="800">
+<line baseline="1304" l="411" t="1289" r="434" b="1302"><formatting lang="EnglishUnitedStates">
+<charParams l="411" t="1290" r="416" b="1301">1</charParams>
+<charParams l="418" t="1290" r="426" b="1301">0</charParams>
+<charParams l="427" t="1289" r="434" b="1302">0</charParams></formatting></line></par>
+</text></cell>
+<cell leftBorder="White" topBorder="White" rightBorder="White" bottomBorder="White" width="141" height="22">
+<text>
+<par align="Justified" leftIndent="5900" lineSpacing="800">
+<line baseline="1304" l="571" t="1289" r="579" b="1301"><formatting lang="EnglishUnitedStates">
+<charParams l="571" t="1289" r="579" b="1301">3</charParams></formatting></line></par>
+</text></cell>
+<cell leftBorder="White" topBorder="White" rightBorder="White" bottomBorder="White" width="149" height="22">
+<text>
+<par align="Justified" leftIndent="5300" lineSpacing="800">
+<line baseline="1304" l="698" t="1289" r="721" b="1301"><formatting lang="EnglishUnitedStates">
+<charParams l="698" t="1290" r="703" b="1300">1</charParams>
+<charParams l="705" t="1289" r="713" b="1301">0</charParams>
+<charParams l="714" t="1289" r="721" b="1301">0</charParams></formatting></line></par>
+</text></cell>
+<cell leftBorder="White" topBorder="White" rightBorder="White" bottomBorder="White" width="142" height="22">
+<text>
+<par align="Justified" startIndent="5000" lineSpacing="800">
+<line baseline="1303" l="842" t="1290" r="866" b="1301"><formatting lang="EnglishUnitedStates">
+<charParams l="842" t="1290" r="847" b="1301">1</charParams>
+<charParams l="849" t="1290" r="857" b="1301">0</charParams>
+<charParams l="858" t="1290" r="866" b="1301">0</charParams></formatting></line></par>
+</text></cell>
+<cell leftBorder="White" topBorder="White" rightBorder="White" bottomBorder="White" width="149" height="22">
+<text>
+<par leftIndent="5500" lineSpacing="800">
+<line baseline="1304" l="993" t="1289" r="1009" b="1301"><formatting lang="EnglishUnitedStates">
+<charParams l="993" t="1290" r="1001" b="1301">9</charParams>
+<charParams l="1002" t="1289" r="1009" b="1301">7</charParams></formatting></line></par>
+</text></cell>
+<cell leftBorder="White" topBorder="White" rightBorder="White" bottomBorder="White" width="141" height="22">
+<text>
+<par align="Right" lineSpacing="800">
+<line baseline="1305" l="1138" t="1289" r="1153" b="1301"><formatting lang="EnglishUnitedStates">
+<charParams l="1138" t="1289" r="1145" b="1301">9</charParams>
+<charParams l="1146" t="1289" r="1153" b="1300">7</charParams></formatting></line></par>
+</text></cell></row>
+<row>
+<cell leftBorder="White" topBorder="White" rightBorder="White" width="199" height="31">
+<text>
+<par lineSpacing="800">
+<line baseline="1325" l="80" t="1312" r="176" b="1325"><formatting lang="EnglishUnitedStates">
+<charParams l="80" t="1313" r="90" b="1325">U</charParams>
+<charParams l="92" t="1316" r="99" b="1325">n</charParams>
+<charParams l="101" t="1313" r="103" b="1325">i</charParams>
+<charParams l="104" t="1314" r="108" b="1325">t</charParams>
+<charParams l="108" t="1316" r="117" b="1325">e</charParams>
+<charParams l="117" t="1313" r="125" b="1325">d</charParams>
+<charParams l="126" t="1312" r="130" b="1325"> </charParams>
+<charParams l="131" t="1312" r="141" b="1325">S</charParams>
+<charParams l="141" t="1313" r="146" b="1325">t</charParams>
+<charParams l="146" t="1316" r="154" b="1325">a</charParams>
+<charParams l="155" t="1314" r="159" b="1325">t</charParams>
+<charParams l="160" t="1316" r="168" b="1325">e</charParams>
+<charParams l="169" t="1316" r="176" b="1325">s</charParams></formatting></line></par>
+</text></cell>
+<cell leftBorder="White" topBorder="White" rightBorder="White" width="175" height="31">
+<text>
+<par align="Justified" leftIndent="6600" lineSpacing="800">
+<line baseline="1327" l="411" t="1312" r="434" b="1325"><formatting lang="EnglishUnitedStates">
+<charParams l="411" t="1313" r="416" b="1324">1</charParams>
+<charParams l="418" t="1313" r="426" b="1324">0</charParams>
+<charParams l="427" t="1312" r="434" b="1325">0</charParams></formatting></line></par>
+</text></cell>
+<cell leftBorder="White" topBorder="White" rightBorder="White" width="141" height="31">
+<text>
+<par align="Justified" leftIndent="5900" lineSpacing="800">
+<line baseline="1327" l="571" t="1312" r="578" b="1324"><formatting lang="EnglishUnitedStates">
+<charParams l="571" t="1312" r="578" b="1324">7</charParams></formatting></line></par>
+</text></cell>
+<cell leftBorder="White" topBorder="White" rightBorder="White" width="149" height="31">
+<text>
+<par align="Justified" leftIndent="5600" lineSpacing="800">
+<line baseline="1327" l="705" t="1312" r="721" b="1324"><formatting lang="EnglishUnitedStates">
+<charParams l="705" t="1312" r="713" b="1324">8</charParams>
+<charParams l="714" t="1312" r="721" b="1324">0</charParams></formatting></line></par>
+</text></cell>
+<cell leftBorder="White" topBorder="White" rightBorder="White" width="142" height="31">
+<text>
+<par align="Justified" leftIndent="5400" lineSpacing="800">
+<line baseline="1326" l="849" t="1313" r="866" b="1324"><formatting lang="EnglishUnitedStates">
+<charParams l="849" t="1313" r="857" b="1324">8</charParams>
+<charParams l="858" t="1313" r="866" b="1324">5</charParams></formatting></line></par>
+</text></cell>
+<cell leftBorder="White" topBorder="White" rightBorder="White" width="149" height="31">
+<text>
+<par leftIndent="5500" lineSpacing="800">
+<line baseline="1327" l="993" t="1312" r="1010" b="1324"><formatting lang="EnglishUnitedStates">
+<charParams l="993" t="1313" r="1001" b="1324">9</charParams>
+<charParams l="1002" t="1312" r="1010" b="1324">6</charParams></formatting></line></par>
+</text></cell>
+<cell leftBorder="White" topBorder="White" rightBorder="White" width="141" height="31">
+<text>
+<par leftIndent="5300" lineSpacing="800">
+<line baseline="1329" l="1138" t="1312" r="1152" b="1324"><formatting lang="EnglishUnitedStates">
+<charParams l="1138" t="1312" r="1145" b="1324">8</charParams>
+<charParams l="1147" t="1313" r="1152" b="1323">1</charParams></formatting></line></par>
+</text></cell></row>
+</block>
+<block blockType="Text" blockName="" l="73" t="1594" r="118" b="1619"><region><rect l="73" t="1594" r="105" b="1595"/><rect l="73" t="1595" r="118" b="1619"/></region>
+<text>
+<par lineSpacing="1380">
+<line baseline="1616" l="76" t="1597" r="114" b="1616"><formatting lang="EnglishUnitedStates">
+<charParams l="76" t="1597" r="92" b="1616">A</charParams>
+<charParams l="93" t="1607" r="100" b="1610">-</charParams>
+<charParams l="101" t="1597" r="114" b="1616">6</charParams></formatting></line></par>
+</text>
+</block>
+<block blockType="Separator" blockName="" l="75" t="214" r="1164" b="220"><region><rect l="390" t="214" r="1164" b="215"/><rect l="75" t="215" r="1164" b="216"/><rect l="75" t="216" r="1164" b="218"/><rect l="75" t="218" r="1119" b="219"/><rect l="178" t="219" r="928" b="220"/></region>
+<separator type="Black" thickness="4"><start x="75" y="217"/><end x="1164" y="216"/>
+</separator>
+</block>
+<block blockType="Separator" blockName="" l="75" t="315" r="1164" b="319"><region><rect l="361" t="315" r="1093" b="316"/><rect l="75" t="316" r="1164" b="318"/><rect l="75" t="318" r="1164" b="319"/></region>
+<separator type="Black" thickness="3"><start x="75" y="318"/><end x="1164" y="315"/>
+</separator>
+</block>
+<block blockType="Separator" blockName="" l="75" t="1330" r="1164" b="1336"><region><rect l="262" t="1330" r="1077" b="1331"/><rect l="75" t="1331" r="1164" b="1332"/><rect l="75" t="1332" r="1164" b="1334"/><rect l="75" t="1334" r="1164" b="1335"/><rect l="110" t="1335" r="160" b="1336"/></region>
+<separator type="Black" thickness="4"><start x="75" y="1335"/><end x="1164" y="1330"/>
+</separator>
+</block>
+<block blockType="Picture" blockName="" l="74" t="51" r="1166" b="106"><region><rect l="311" t="51" r="545" b="52"/><rect l="74" t="52" r="737" b="53"/><rect l="74" t="53" r="858" b="54"/><rect l="74" t="54" r="1166" b="104"/><rect l="74" t="104" r="1166" b="105"/><rect l="197" t="105" r="1166" b="106"/></region>
+</block>
+</page>
+</document>

@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document>
+  <table>
+    <Coords points="630,298 1033,663 1033,663 1033,298"/>
+    <cell end-col="0" end-row="1" start-col="0" start-row="1">
+      <Coords points="654,391 654,410 743,410 743,391"/>
+    </cell>
+    <cell end-col="0" end-row="2" start-col="0" start-row="2">
+      <Coords points="654,433 654,452 744,452 744,433"/>
+    </cell>
+    <cell end-col="0" end-row="3" start-col="0" start-row="3">
+      <Coords points="654,475 654,494 712,494 712,475"/>
+    </cell>
+    <cell end-col="0" end-row="4" start-col="0" start-row="4">
+      <Coords points="654,518 654,532 780,532 780,518"/>
+    </cell>
+    <cell end-col="0" end-row="5" start-col="0" start-row="5">
+      <Coords points="654,560 654,574 783,574 783,560"/>
+    </cell>
+    <cell end-col="0" end-row="6" start-col="0" start-row="6">
+      <Coords points="654,602 654,616 698,616 698,602"/>
+    </cell>
+    <cell end-col="0" end-row="7" start-col="0" start-row="7">
+      <Coords points="654,644 654,658 748,658 748,644"/>
+    </cell>
+    <cell end-col="1" end-row="1" start-col="1" start-row="1">
+      <Coords points="918,391 918,405 955,405 955,391"/>
+    </cell>
+    <cell end-col="1" end-row="2" start-col="1" start-row="2">
+      <Coords points="918,433 918,447 954,447 954,433"/>
+    </cell>
+    <cell end-col="1" end-row="3" start-col="1" start-row="3">
+      <Coords points="918,475 918,489 954,489 954,475"/>
+    </cell>
+    <cell end-col="1" end-row="4" start-col="1" start-row="4">
+      <Coords points="918,518 918,532 955,532 955,518"/>
+    </cell>
+    <cell end-col="1" end-row="5" start-col="1" start-row="5">
+      <Coords points="916,560 916,574 960,574 960,560"/>
+    </cell>
+    <cell end-col="1" end-row="6" start-col="1" start-row="6">
+      <Coords points="919,602 919,616 955,616 955,602"/>
+    </cell>
+    <cell end-col="1" end-row="7" start-col="1" start-row="7">
+      <Coords points="919,644 919,658 955,658 955,644"/>
+    </cell>
+  </table>
+</document>
